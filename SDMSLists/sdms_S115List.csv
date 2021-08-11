@@ -1,0 +1,2933 @@
+,From,To,edge
+2,Michael B. Enzi,Lamar Alexander,1
+4,Michael B. Enzi,Michael D. Crapo,1
+5,Michael B. Enzi,Jerry Moran,1
+16,Michael B. Enzi,Deb Fischer,1
+19,Michael B. Enzi,John Hoeven,1
+24,Michael B. Enzi,Johnny Isakson,1
+29,Michael B. Enzi,Mike Lee,1
+30,Michael B. Enzi,Steve Daines,1
+31,Michael B. Enzi,Pat Roberts,1
+35,Michael B. Enzi,Joni Ernst,1
+37,Michael B. Enzi,Ron Johnson,1
+45,Michael B. Enzi,Roger F. Wicker,1
+48,Michael B. Enzi,John Neely Kennedy,1
+65,Michael B. Enzi,James Lankford,1
+68,Michael B. Enzi,John R. Thune,1
+70,Michael B. Enzi,Roy Blunt,1
+77,Michael B. Enzi,Mike Rounds,1
+78,Michael B. Enzi,Tom Cotton,1
+81,Michael B. Enzi,John Barrasso,1
+84,Michael B. Enzi,Jim Inhofe,1
+85,Michael B. Enzi,John Boozman,1
+86,Michael B. Enzi,Tim Scott,1
+91,Michael B. Enzi,James E. Risch,1
+95,Michael B. Enzi,Richard Craig Shelby,1
+96,Michael B. Enzi,Ben Sasse,1
+97,Michael B. Enzi,Mitch Mcconnell,1
+99,Michael B. Enzi,David Alfred Perdue,1
+102,Michael B. Enzi,Cindy Hyde-Smith,1
+111,Benjamin L. Cardin,Timothy Kaine,1
+112,Benjamin L. Cardin,Ron Wyden,1
+113,Benjamin L. Cardin,Jeff Merkley,1
+118,Benjamin L. Cardin,Tom Udall,1
+122,Benjamin L. Cardin,Brian Schatz,1
+124,Benjamin L. Cardin,Richard Blumenthal,1
+125,Benjamin L. Cardin,Maria Cantwell,1
+126,Benjamin L. Cardin,Tammy Baldwin,1
+127,Benjamin L. Cardin,Christopher Murphy,1
+131,Benjamin L. Cardin,Bob Casey,1
+136,Benjamin L. Cardin,Dianne Feinstein,1
+137,Benjamin L. Cardin,Martin Heinrich,1
+138,Benjamin L. Cardin,Edward J. Markey,1
+140,Benjamin L. Cardin,Kirsten E. Gillibrand,1
+143,Benjamin L. Cardin,Michael F. Bennet,1
+144,Benjamin L. Cardin,Patty Murray,1
+147,Benjamin L. Cardin,Margaret Wood Hassan,1
+148,Benjamin L. Cardin,Tammy Duckworth,1
+150,Benjamin L. Cardin,Mazie K. Hirono,1
+151,Benjamin L. Cardin,Clarence William Nelson,1
+154,Benjamin L. Cardin,Sherrod Brown,1
+156,Benjamin L. Cardin,Gary C. Peters,1
+157,Benjamin L. Cardin,Bernard Sanders,1
+160,Benjamin L. Cardin,Thomas R. Carper,1
+161,Benjamin L. Cardin,Christopher A. Coons,1
+163,Benjamin L. Cardin,Jeanne Shaheen,1
+170,Benjamin L. Cardin,Elizabeth A. Warren,1
+171,Benjamin L. Cardin,Cory A. Booker,1
+173,Benjamin L. Cardin,Robert Menendez,1
+175,Benjamin L. Cardin,Mark R. Warner,1
+176,Benjamin L. Cardin,Richard J. Durbin,1
+177,Benjamin L. Cardin,Patrick Joseph Leahy,1
+180,Benjamin L. Cardin,Sheldon Whitehouse,1
+184,Benjamin L. Cardin,Amy Klobuchar,1
+186,Benjamin L. Cardin,Deborah Ann Stabenow,1
+192,Benjamin L. Cardin,Charles E. Schumer,1
+193,Benjamin L. Cardin,John F. Reed,1
+196,Benjamin L. Cardin,Kamala D. Harris,1
+197,Benjamin L. Cardin,Chris Van Hollen,1
+202,Benjamin L. Cardin,Catherine Cortez Masto,1
+204,Benjamin L. Cardin,Tina Smith,1
+208,Lamar Alexander,Michael B. Enzi,1
+232,Lamar Alexander,Johnny Isakson,1
+233,Lamar Alexander,Rob Portman,1
+239,Lamar Alexander,Pat Roberts,1
+272,Lamar Alexander,Bill Cassidy,1
+282,Lamar Alexander,Todd C. Young,1
+287,Lamar Alexander,Lindsey O. Graham,1
+294,Lamar Alexander,Tim Scott,1
+302,Lamar Alexander,Bob Corker,1
+303,Lamar Alexander,Richard Craig Shelby,1
+305,Lamar Alexander,Mitch Mcconnell,1
+320,Al Franken,Ron Wyden,1
+321,Al Franken,Jeff Merkley,1
+326,Al Franken,Tom Udall,1
+332,Al Franken,Richard Blumenthal,1
+334,Al Franken,Tammy Baldwin,1
+335,Al Franken,Christopher Murphy,1
+344,Al Franken,Dianne Feinstein,1
+345,Al Franken,Martin Heinrich,1
+346,Al Franken,Edward J. Markey,1
+348,Al Franken,Kirsten E. Gillibrand,1
+352,Al Franken,Patty Murray,1
+356,Al Franken,Tammy Duckworth,1
+358,Al Franken,Mazie K. Hirono,1
+362,Al Franken,Sherrod Brown,1
+365,Al Franken,Bernard Sanders,1
+371,Al Franken,Jeanne Shaheen,1
+378,Al Franken,Elizabeth A. Warren,1
+379,Al Franken,Cory A. Booker,1
+384,Al Franken,Richard J. Durbin,1
+385,Al Franken,Patrick Joseph Leahy,1
+388,Al Franken,Sheldon Whitehouse,1
+392,Al Franken,Amy Klobuchar,1
+394,Al Franken,Deborah Ann Stabenow,1
+401,Al Franken,John F. Reed,1
+404,Al Franken,Kamala D. Harris,1
+405,Al Franken,Chris Van Hollen,1
+416,Michael D. Crapo,Michael B. Enzi,1
+421,Michael D. Crapo,Jerry Moran,1
+432,Michael D. Crapo,Deb Fischer,1
+433,Michael D. Crapo,Orrin Grant Hatch,1
+435,Michael D. Crapo,John Hoeven,1
+440,Michael D. Crapo,Johnny Isakson,1
+442,Michael D. Crapo,Jeff Flake,1
+445,Michael D. Crapo,Mike Lee,1
+446,Michael D. Crapo,Steve Daines,1
+447,Michael D. Crapo,Pat Roberts,1
+451,Michael D. Crapo,Joni Ernst,1
+457,Michael D. Crapo,Dean Heller,1
+461,Michael D. Crapo,Roger F. Wicker,1
+464,Michael D. Crapo,John Neely Kennedy,1
+481,Michael D. Crapo,James Lankford,1
+484,Michael D. Crapo,John R. Thune,1
+486,Michael D. Crapo,Roy Blunt,1
+493,Michael D. Crapo,Mike Rounds,1
+494,Michael D. Crapo,Tom Cotton,1
+497,Michael D. Crapo,John Barrasso,1
+500,Michael D. Crapo,Jim Inhofe,1
+501,Michael D. Crapo,John Boozman,1
+507,Michael D. Crapo,James E. Risch,1
+510,Michael D. Crapo,Bob Corker,1
+511,Michael D. Crapo,Richard Craig Shelby,1
+512,Michael D. Crapo,Ben Sasse,1
+518,Michael D. Crapo,Cindy Hyde-Smith,1
+520,Jerry Moran,Michael B. Enzi,1
+524,Jerry Moran,Michael D. Crapo,1
+535,Jerry Moran,Shelley Moore Capito,1
+536,Jerry Moran,Deb Fischer,1
+539,Jerry Moran,John Hoeven,1
+544,Jerry Moran,Johnny Isakson,1
+545,Jerry Moran,Rob Portman,1
+550,Jerry Moran,Steve Daines,1
+551,Jerry Moran,Pat Roberts,1
+555,Jerry Moran,Joni Ernst,1
+565,Jerry Moran,Roger F. Wicker,1
+568,Jerry Moran,John Neely Kennedy,1
+575,Jerry Moran,Pat Toomey,1
+585,Jerry Moran,James Lankford,1
+588,Jerry Moran,John R. Thune,1
+590,Jerry Moran,Roy Blunt,1
+595,Jerry Moran,Joe Donnelly,1
+597,Jerry Moran,Mike Rounds,1
+598,Jerry Moran,Tom Cotton,1
+599,Jerry Moran,Lindsey O. Graham,1
+601,Jerry Moran,John Barrasso,1
+603,Jerry Moran,Thad Cochran,1
+604,Jerry Moran,Jim Inhofe,1
+605,Jerry Moran,John Boozman,1
+606,Jerry Moran,Tim Scott,1
+610,Jerry Moran,Thomas Roland Tillis,1
+611,Jerry Moran,James E. Risch,1
+614,Jerry Moran,Bob Corker,1
+615,Jerry Moran,Richard Craig Shelby,1
+616,Jerry Moran,Ben Sasse,1
+619,Jerry Moran,David Alfred Perdue,1
+622,Jerry Moran,Cindy Hyde-Smith,1
+640,Charles Ernest Grassley,Deb Fischer,1
+655,Charles Ernest Grassley,Pat Roberts,1
+659,Charles Ernest Grassley,Joni Ernst,1
+672,Charles Ernest Grassley,John Neely Kennedy,1
+694,Charles Ernest Grassley,Roy Blunt,1
+710,Charles Ernest Grassley,Tim Scott,1
+714,Charles Ernest Grassley,Thomas Roland Tillis,1
+719,Charles Ernest Grassley,Richard Craig Shelby,1
+726,Charles Ernest Grassley,Cindy Hyde-Smith,1
+729,Timothy Kaine,Benjamin L. Cardin,1
+736,Timothy Kaine,Ron Wyden,1
+737,Timothy Kaine,Jeff Merkley,1
+739,Timothy Kaine,Angus King,1
+746,Timothy Kaine,Brian Schatz,1
+748,Timothy Kaine,Richard Blumenthal,1
+749,Timothy Kaine,Maria Cantwell,1
+750,Timothy Kaine,Tammy Baldwin,1
+751,Timothy Kaine,Christopher Murphy,1
+755,Timothy Kaine,Bob Casey,1
+760,Timothy Kaine,Dianne Feinstein,1
+761,Timothy Kaine,Martin Heinrich,1
+762,Timothy Kaine,Edward J. Markey,1
+764,Timothy Kaine,Kirsten E. Gillibrand,1
+767,Timothy Kaine,Michael F. Bennet,1
+768,Timothy Kaine,Patty Murray,1
+771,Timothy Kaine,Margaret Wood Hassan,1
+772,Timothy Kaine,Tammy Duckworth,1
+774,Timothy Kaine,Mazie K. Hirono,1
+775,Timothy Kaine,Clarence William Nelson,1
+778,Timothy Kaine,Sherrod Brown,1
+780,Timothy Kaine,Gary C. Peters,1
+781,Timothy Kaine,Bernard Sanders,1
+784,Timothy Kaine,Thomas R. Carper,1
+785,Timothy Kaine,Christopher A. Coons,1
+787,Timothy Kaine,Jeanne Shaheen,1
+794,Timothy Kaine,Elizabeth A. Warren,1
+795,Timothy Kaine,Cory A. Booker,1
+797,Timothy Kaine,Robert Menendez,1
+799,Timothy Kaine,Mark R. Warner,1
+800,Timothy Kaine,Richard J. Durbin,1
+801,Timothy Kaine,Patrick Joseph Leahy,1
+804,Timothy Kaine,Sheldon Whitehouse,1
+808,Timothy Kaine,Amy Klobuchar,1
+810,Timothy Kaine,Deborah Ann Stabenow,1
+816,Timothy Kaine,Charles E. Schumer,1
+817,Timothy Kaine,John F. Reed,1
+820,Timothy Kaine,Kamala D. Harris,1
+821,Timothy Kaine,Chris Van Hollen,1
+826,Timothy Kaine,Catherine Cortez Masto,1
+828,Timothy Kaine,Tina Smith,1
+833,Ron Wyden,Benjamin L. Cardin,1
+835,Ron Wyden,Al Franken,1
+839,Ron Wyden,Timothy Kaine,1
+841,Ron Wyden,Jeff Merkley,1
+846,Ron Wyden,Tom Udall,1
+850,Ron Wyden,Brian Schatz,1
+852,Ron Wyden,Richard Blumenthal,1
+853,Ron Wyden,Maria Cantwell,1
+854,Ron Wyden,Tammy Baldwin,1
+855,Ron Wyden,Christopher Murphy,1
+859,Ron Wyden,Bob Casey,1
+864,Ron Wyden,Dianne Feinstein,1
+865,Ron Wyden,Martin Heinrich,1
+866,Ron Wyden,Edward J. Markey,1
+868,Ron Wyden,Kirsten E. Gillibrand,1
+871,Ron Wyden,Michael F. Bennet,1
+872,Ron Wyden,Patty Murray,1
+875,Ron Wyden,Margaret Wood Hassan,1
+876,Ron Wyden,Tammy Duckworth,1
+878,Ron Wyden,Mazie K. Hirono,1
+882,Ron Wyden,Sherrod Brown,1
+884,Ron Wyden,Gary C. Peters,1
+885,Ron Wyden,Bernard Sanders,1
+888,Ron Wyden,Thomas R. Carper,1
+889,Ron Wyden,Christopher A. Coons,1
+891,Ron Wyden,Jeanne Shaheen,1
+898,Ron Wyden,Elizabeth A. Warren,1
+899,Ron Wyden,Cory A. Booker,1
+901,Ron Wyden,Robert Menendez,1
+904,Ron Wyden,Richard J. Durbin,1
+905,Ron Wyden,Patrick Joseph Leahy,1
+908,Ron Wyden,Sheldon Whitehouse,1
+914,Ron Wyden,Deborah Ann Stabenow,1
+920,Ron Wyden,Charles E. Schumer,1
+921,Ron Wyden,John F. Reed,1
+924,Ron Wyden,Kamala D. Harris,1
+925,Ron Wyden,Chris Van Hollen,1
+930,Ron Wyden,Catherine Cortez Masto,1
+932,Ron Wyden,Tina Smith,1
+937,Jeff Merkley,Benjamin L. Cardin,1
+939,Jeff Merkley,Al Franken,1
+943,Jeff Merkley,Timothy Kaine,1
+944,Jeff Merkley,Ron Wyden,1
+950,Jeff Merkley,Tom Udall,1
+954,Jeff Merkley,Brian Schatz,1
+956,Jeff Merkley,Richard Blumenthal,1
+957,Jeff Merkley,Maria Cantwell,1
+958,Jeff Merkley,Tammy Baldwin,1
+959,Jeff Merkley,Christopher Murphy,1
+963,Jeff Merkley,Bob Casey,1
+968,Jeff Merkley,Dianne Feinstein,1
+969,Jeff Merkley,Martin Heinrich,1
+970,Jeff Merkley,Edward J. Markey,1
+972,Jeff Merkley,Kirsten E. Gillibrand,1
+975,Jeff Merkley,Michael F. Bennet,1
+976,Jeff Merkley,Patty Murray,1
+979,Jeff Merkley,Margaret Wood Hassan,1
+980,Jeff Merkley,Tammy Duckworth,1
+982,Jeff Merkley,Mazie K. Hirono,1
+986,Jeff Merkley,Sherrod Brown,1
+988,Jeff Merkley,Gary C. Peters,1
+989,Jeff Merkley,Bernard Sanders,1
+992,Jeff Merkley,Thomas R. Carper,1
+993,Jeff Merkley,Christopher A. Coons,1
+995,Jeff Merkley,Jeanne Shaheen,1
+1002,Jeff Merkley,Elizabeth A. Warren,1
+1003,Jeff Merkley,Cory A. Booker,1
+1005,Jeff Merkley,Robert Menendez,1
+1008,Jeff Merkley,Richard J. Durbin,1
+1009,Jeff Merkley,Patrick Joseph Leahy,1
+1012,Jeff Merkley,Sheldon Whitehouse,1
+1018,Jeff Merkley,Deborah Ann Stabenow,1
+1024,Jeff Merkley,Charles E. Schumer,1
+1025,Jeff Merkley,John F. Reed,1
+1028,Jeff Merkley,Kamala D. Harris,1
+1029,Jeff Merkley,Chris Van Hollen,1
+1034,Jeff Merkley,Catherine Cortez Masto,1
+1036,Jeff Merkley,Tina Smith,1
+1078,Cory Gardner,Marco Rubio,1
+1079,Cory Gardner,Michael F. Bennet,1
+1121,Cory Gardner,John Barrasso,1
+1151,Angus King,Timothy Kaine,1
+1159,Angus King,Shelley Moore Capito,1
+1164,Angus King,Richard Blumenthal,1
+1165,Angus King,Maria Cantwell,1
+1166,Angus King,Tammy Baldwin,1
+1172,Angus King,Susan Margaret Collins,1
+1177,Angus King,Martin Heinrich,1
+1183,Angus King,Michael F. Bennet,1
+1187,Angus King,Margaret Wood Hassan,1
+1190,Angus King,Mazie K. Hirono,1
+1194,Angus King,Sherrod Brown,1
+1196,Angus King,Gary C. Peters,1
+1198,Angus King,Joe Manchin,1
+1201,Angus King,Christopher A. Coons,1
+1202,Angus King,Jon Tester,1
+1203,Angus King,Jeanne Shaheen,1
+1204,Angus King,Heidi Heitkamp,1
+1215,Angus King,Mark R. Warner,1
+1219,Angus King,Joe Donnelly,1
+1224,Angus King,Amy Klobuchar,1
+1226,Angus King,Deborah Ann Stabenow,1
+1237,Angus King,Chris Van Hollen,1
+1269,Lisa Murkowski,Maria Cantwell,1
+1311,Lisa Murkowski,Dan Sullivan,1
+1369,John Cornyn,Orrin Grant Hatch,1
+1383,John Cornyn,Pat Roberts,1
+1390,John Cornyn,Marco Rubio,1
+1400,John Cornyn,John Neely Kennedy,1
+1401,John Cornyn,Ted Cruz,1
+1413,John Cornyn,Luther Strange,1
+1417,John Cornyn,James Lankford,1
+1430,John Cornyn,Tom Cotton,1
+1431,John Cornyn,Lindsey O. Graham,1
+1436,John Cornyn,Jim Inhofe,1
+1438,John Cornyn,Tim Scott,1
+1442,John Cornyn,Thomas Roland Tillis,1
+1447,John Cornyn,Richard Craig Shelby,1
+1448,John Cornyn,Ben Sasse,1
+1449,John Cornyn,Mitch Mcconnell,1
+1451,John Cornyn,David Alfred Perdue,1
+1457,Tom Udall,Benjamin L. Cardin,1
+1459,Tom Udall,Al Franken,1
+1464,Tom Udall,Ron Wyden,1
+1465,Tom Udall,Jeff Merkley,1
+1474,Tom Udall,Brian Schatz,1
+1476,Tom Udall,Richard Blumenthal,1
+1477,Tom Udall,Maria Cantwell,1
+1478,Tom Udall,Tammy Baldwin,1
+1479,Tom Udall,Christopher Murphy,1
+1488,Tom Udall,Dianne Feinstein,1
+1489,Tom Udall,Martin Heinrich,1
+1490,Tom Udall,Edward J. Markey,1
+1492,Tom Udall,Kirsten E. Gillibrand,1
+1495,Tom Udall,Michael F. Bennet,1
+1496,Tom Udall,Patty Murray,1
+1499,Tom Udall,Margaret Wood Hassan,1
+1500,Tom Udall,Tammy Duckworth,1
+1502,Tom Udall,Mazie K. Hirono,1
+1509,Tom Udall,Bernard Sanders,1
+1512,Tom Udall,Thomas R. Carper,1
+1514,Tom Udall,Jon Tester,1
+1515,Tom Udall,Jeanne Shaheen,1
+1516,Tom Udall,Heidi Heitkamp,1
+1522,Tom Udall,Elizabeth A. Warren,1
+1523,Tom Udall,Cory A. Booker,1
+1525,Tom Udall,Robert Menendez,1
+1528,Tom Udall,Richard J. Durbin,1
+1529,Tom Udall,Patrick Joseph Leahy,1
+1532,Tom Udall,Sheldon Whitehouse,1
+1536,Tom Udall,Amy Klobuchar,1
+1544,Tom Udall,Charles E. Schumer,1
+1545,Tom Udall,John F. Reed,1
+1548,Tom Udall,Kamala D. Harris,1
+1549,Tom Udall,Chris Van Hollen,1
+1554,Tom Udall,Catherine Cortez Masto,1
+1556,Tom Udall,Tina Smith,1
+1565,Shelley Moore Capito,Jerry Moran,1
+1571,Shelley Moore Capito,Angus King,1
+1576,Shelley Moore Capito,Deb Fischer,1
+1579,Shelley Moore Capito,John Hoeven,1
+1584,Shelley Moore Capito,Johnny Isakson,1
+1585,Shelley Moore Capito,Rob Portman,1
+1591,Shelley Moore Capito,Pat Roberts,1
+1595,Shelley Moore Capito,Joni Ernst,1
+1605,Shelley Moore Capito,Roger F. Wicker,1
+1608,Shelley Moore Capito,John Neely Kennedy,1
+1614,Shelley Moore Capito,Joe Manchin,1
+1623,Shelley Moore Capito,Dan Sullivan,1
+1630,Shelley Moore Capito,Roy Blunt,1
+1637,Shelley Moore Capito,Mike Rounds,1
+1641,Shelley Moore Capito,John Barrasso,1
+1643,Shelley Moore Capito,Thad Cochran,1
+1644,Shelley Moore Capito,Jim Inhofe,1
+1645,Shelley Moore Capito,John Boozman,1
+1655,Shelley Moore Capito,Richard Craig Shelby,1
+1662,Shelley Moore Capito,Cindy Hyde-Smith,1
+1664,Deb Fischer,Michael B. Enzi,1
+1668,Deb Fischer,Michael D. Crapo,1
+1669,Deb Fischer,Jerry Moran,1
+1670,Deb Fischer,Charles Ernest Grassley,1
+1679,Deb Fischer,Shelley Moore Capito,1
+1683,Deb Fischer,John Hoeven,1
+1688,Deb Fischer,Johnny Isakson,1
+1694,Deb Fischer,Steve Daines,1
+1695,Deb Fischer,Pat Roberts,1
+1699,Deb Fischer,Joni Ernst,1
+1701,Deb Fischer,Ron Johnson,1
+1705,Deb Fischer,Dean Heller,1
+1709,Deb Fischer,Roger F. Wicker,1
+1712,Deb Fischer,John Neely Kennedy,1
+1713,Deb Fischer,Ted Cruz,1
+1727,Deb Fischer,Dan Sullivan,1
+1728,Deb Fischer,Bill Cassidy,1
+1729,Deb Fischer,James Lankford,1
+1732,Deb Fischer,John R. Thune,1
+1734,Deb Fischer,Roy Blunt,1
+1739,Deb Fischer,Joe Donnelly,1
+1741,Deb Fischer,Mike Rounds,1
+1742,Deb Fischer,Tom Cotton,1
+1745,Deb Fischer,John Barrasso,1
+1748,Deb Fischer,Jim Inhofe,1
+1749,Deb Fischer,John Boozman,1
+1750,Deb Fischer,Tim Scott,1
+1754,Deb Fischer,Thomas Roland Tillis,1
+1755,Deb Fischer,James E. Risch,1
+1759,Deb Fischer,Richard Craig Shelby,1
+1760,Deb Fischer,Ben Sasse,1
+1766,Deb Fischer,Cindy Hyde-Smith,1
+1772,Orrin Grant Hatch,Michael D. Crapo,1
+1781,Orrin Grant Hatch,John Cornyn,1
+1797,Orrin Grant Hatch,Mike Lee,1
+1799,Orrin Grant Hatch,Pat Roberts,1
+1816,Orrin Grant Hatch,John Neely Kennedy,1
+1852,Orrin Grant Hatch,Jim Inhofe,1
+1854,Orrin Grant Hatch,Tim Scott,1
+1858,Orrin Grant Hatch,Thomas Roland Tillis,1
+1865,Orrin Grant Hatch,Mitch Mcconnell,1
+1873,Brian Schatz,Benjamin L. Cardin,1
+1879,Brian Schatz,Timothy Kaine,1
+1880,Brian Schatz,Ron Wyden,1
+1881,Brian Schatz,Jeff Merkley,1
+1886,Brian Schatz,Tom Udall,1
+1892,Brian Schatz,Richard Blumenthal,1
+1893,Brian Schatz,Maria Cantwell,1
+1895,Brian Schatz,Christopher Murphy,1
+1904,Brian Schatz,Dianne Feinstein,1
+1905,Brian Schatz,Martin Heinrich,1
+1906,Brian Schatz,Edward J. Markey,1
+1908,Brian Schatz,Kirsten E. Gillibrand,1
+1912,Brian Schatz,Patty Murray,1
+1916,Brian Schatz,Tammy Duckworth,1
+1918,Brian Schatz,Mazie K. Hirono,1
+1924,Brian Schatz,Gary C. Peters,1
+1925,Brian Schatz,Bernard Sanders,1
+1928,Brian Schatz,Thomas R. Carper,1
+1938,Brian Schatz,Elizabeth A. Warren,1
+1939,Brian Schatz,Cory A. Booker,1
+1941,Brian Schatz,Robert Menendez,1
+1944,Brian Schatz,Richard J. Durbin,1
+1945,Brian Schatz,Patrick Joseph Leahy,1
+1948,Brian Schatz,Sheldon Whitehouse,1
+1960,Brian Schatz,Charles E. Schumer,1
+1961,Brian Schatz,John F. Reed,1
+1964,Brian Schatz,Kamala D. Harris,1
+1965,Brian Schatz,Chris Van Hollen,1
+1970,Brian Schatz,Catherine Cortez Masto,1
+1976,John Hoeven,Michael B. Enzi,1
+1980,John Hoeven,Michael D. Crapo,1
+1981,John Hoeven,Jerry Moran,1
+1991,John Hoeven,Shelley Moore Capito,1
+1992,John Hoeven,Deb Fischer,1
+2000,John Hoeven,Johnny Isakson,1
+2001,John Hoeven,Rob Portman,1
+2006,John Hoeven,Steve Daines,1
+2007,John Hoeven,Pat Roberts,1
+2011,John Hoeven,Joni Ernst,1
+2021,John Hoeven,Roger F. Wicker,1
+2024,John Hoeven,John Neely Kennedy,1
+2031,John Hoeven,Pat Toomey,1
+2036,John Hoeven,Heidi Heitkamp,1
+2039,John Hoeven,Dan Sullivan,1
+2041,John Hoeven,James Lankford,1
+2044,John Hoeven,John R. Thune,1
+2046,John Hoeven,Roy Blunt,1
+2050,John Hoeven,Todd C. Young,1
+2051,John Hoeven,Joe Donnelly,1
+2053,John Hoeven,Mike Rounds,1
+2054,John Hoeven,Tom Cotton,1
+2057,John Hoeven,John Barrasso,1
+2060,John Hoeven,Jim Inhofe,1
+2061,John Hoeven,John Boozman,1
+2062,John Hoeven,Tim Scott,1
+2066,John Hoeven,Thomas Roland Tillis,1
+2067,John Hoeven,James E. Risch,1
+2070,John Hoeven,Bob Corker,1
+2071,John Hoeven,Richard Craig Shelby,1
+2072,John Hoeven,Ben Sasse,1
+2078,John Hoeven,Cindy Hyde-Smith,1
+2081,Richard Blumenthal,Benjamin L. Cardin,1
+2083,Richard Blumenthal,Al Franken,1
+2087,Richard Blumenthal,Timothy Kaine,1
+2088,Richard Blumenthal,Ron Wyden,1
+2089,Richard Blumenthal,Jeff Merkley,1
+2091,Richard Blumenthal,Angus King,1
+2094,Richard Blumenthal,Tom Udall,1
+2098,Richard Blumenthal,Brian Schatz,1
+2101,Richard Blumenthal,Maria Cantwell,1
+2102,Richard Blumenthal,Tammy Baldwin,1
+2103,Richard Blumenthal,Christopher Murphy,1
+2107,Richard Blumenthal,Bob Casey,1
+2112,Richard Blumenthal,Dianne Feinstein,1
+2114,Richard Blumenthal,Edward J. Markey,1
+2116,Richard Blumenthal,Kirsten E. Gillibrand,1
+2119,Richard Blumenthal,Michael F. Bennet,1
+2120,Richard Blumenthal,Patty Murray,1
+2123,Richard Blumenthal,Margaret Wood Hassan,1
+2124,Richard Blumenthal,Tammy Duckworth,1
+2126,Richard Blumenthal,Mazie K. Hirono,1
+2127,Richard Blumenthal,Clarence William Nelson,1
+2130,Richard Blumenthal,Sherrod Brown,1
+2132,Richard Blumenthal,Gary C. Peters,1
+2133,Richard Blumenthal,Bernard Sanders,1
+2136,Richard Blumenthal,Thomas R. Carper,1
+2137,Richard Blumenthal,Christopher A. Coons,1
+2139,Richard Blumenthal,Jeanne Shaheen,1
+2146,Richard Blumenthal,Elizabeth A. Warren,1
+2147,Richard Blumenthal,Cory A. Booker,1
+2149,Richard Blumenthal,Robert Menendez,1
+2152,Richard Blumenthal,Richard J. Durbin,1
+2153,Richard Blumenthal,Patrick Joseph Leahy,1
+2156,Richard Blumenthal,Sheldon Whitehouse,1
+2160,Richard Blumenthal,Amy Klobuchar,1
+2162,Richard Blumenthal,Deborah Ann Stabenow,1
+2168,Richard Blumenthal,Charles E. Schumer,1
+2169,Richard Blumenthal,John F. Reed,1
+2172,Richard Blumenthal,Kamala D. Harris,1
+2173,Richard Blumenthal,Chris Van Hollen,1
+2178,Richard Blumenthal,Catherine Cortez Masto,1
+2180,Richard Blumenthal,Tina Smith,1
+2185,Maria Cantwell,Benjamin L. Cardin,1
+2191,Maria Cantwell,Timothy Kaine,1
+2192,Maria Cantwell,Ron Wyden,1
+2193,Maria Cantwell,Jeff Merkley,1
+2195,Maria Cantwell,Angus King,1
+2196,Maria Cantwell,Lisa Murkowski,1
+2198,Maria Cantwell,Tom Udall,1
+2202,Maria Cantwell,Brian Schatz,1
+2204,Maria Cantwell,Richard Blumenthal,1
+2206,Maria Cantwell,Tammy Baldwin,1
+2207,Maria Cantwell,Christopher Murphy,1
+2211,Maria Cantwell,Bob Casey,1
+2216,Maria Cantwell,Dianne Feinstein,1
+2217,Maria Cantwell,Martin Heinrich,1
+2218,Maria Cantwell,Edward J. Markey,1
+2220,Maria Cantwell,Kirsten E. Gillibrand,1
+2223,Maria Cantwell,Michael F. Bennet,1
+2224,Maria Cantwell,Patty Murray,1
+2227,Maria Cantwell,Margaret Wood Hassan,1
+2228,Maria Cantwell,Tammy Duckworth,1
+2230,Maria Cantwell,Mazie K. Hirono,1
+2231,Maria Cantwell,Clarence William Nelson,1
+2234,Maria Cantwell,Sherrod Brown,1
+2236,Maria Cantwell,Gary C. Peters,1
+2237,Maria Cantwell,Bernard Sanders,1
+2240,Maria Cantwell,Thomas R. Carper,1
+2241,Maria Cantwell,Christopher A. Coons,1
+2243,Maria Cantwell,Jeanne Shaheen,1
+2250,Maria Cantwell,Elizabeth A. Warren,1
+2251,Maria Cantwell,Cory A. Booker,1
+2253,Maria Cantwell,Robert Menendez,1
+2255,Maria Cantwell,Mark R. Warner,1
+2256,Maria Cantwell,Richard J. Durbin,1
+2257,Maria Cantwell,Patrick Joseph Leahy,1
+2260,Maria Cantwell,Sheldon Whitehouse,1
+2264,Maria Cantwell,Amy Klobuchar,1
+2266,Maria Cantwell,Deborah Ann Stabenow,1
+2272,Maria Cantwell,Charles E. Schumer,1
+2273,Maria Cantwell,John F. Reed,1
+2276,Maria Cantwell,Kamala D. Harris,1
+2277,Maria Cantwell,Chris Van Hollen,1
+2282,Maria Cantwell,Catherine Cortez Masto,1
+2284,Maria Cantwell,Tina Smith,1
+2289,Tammy Baldwin,Benjamin L. Cardin,1
+2291,Tammy Baldwin,Al Franken,1
+2295,Tammy Baldwin,Timothy Kaine,1
+2296,Tammy Baldwin,Ron Wyden,1
+2297,Tammy Baldwin,Jeff Merkley,1
+2299,Tammy Baldwin,Angus King,1
+2302,Tammy Baldwin,Tom Udall,1
+2308,Tammy Baldwin,Richard Blumenthal,1
+2309,Tammy Baldwin,Maria Cantwell,1
+2311,Tammy Baldwin,Christopher Murphy,1
+2315,Tammy Baldwin,Bob Casey,1
+2320,Tammy Baldwin,Dianne Feinstein,1
+2321,Tammy Baldwin,Martin Heinrich,1
+2322,Tammy Baldwin,Edward J. Markey,1
+2324,Tammy Baldwin,Kirsten E. Gillibrand,1
+2327,Tammy Baldwin,Michael F. Bennet,1
+2328,Tammy Baldwin,Patty Murray,1
+2331,Tammy Baldwin,Margaret Wood Hassan,1
+2332,Tammy Baldwin,Tammy Duckworth,1
+2334,Tammy Baldwin,Mazie K. Hirono,1
+2338,Tammy Baldwin,Sherrod Brown,1
+2340,Tammy Baldwin,Gary C. Peters,1
+2341,Tammy Baldwin,Bernard Sanders,1
+2344,Tammy Baldwin,Thomas R. Carper,1
+2345,Tammy Baldwin,Christopher A. Coons,1
+2346,Tammy Baldwin,Jon Tester,1
+2347,Tammy Baldwin,Jeanne Shaheen,1
+2354,Tammy Baldwin,Elizabeth A. Warren,1
+2355,Tammy Baldwin,Cory A. Booker,1
+2357,Tammy Baldwin,Robert Menendez,1
+2360,Tammy Baldwin,Richard J. Durbin,1
+2361,Tammy Baldwin,Patrick Joseph Leahy,1
+2363,Tammy Baldwin,Joe Donnelly,1
+2364,Tammy Baldwin,Sheldon Whitehouse,1
+2368,Tammy Baldwin,Amy Klobuchar,1
+2370,Tammy Baldwin,Deborah Ann Stabenow,1
+2376,Tammy Baldwin,Charles E. Schumer,1
+2377,Tammy Baldwin,John F. Reed,1
+2380,Tammy Baldwin,Kamala D. Harris,1
+2381,Tammy Baldwin,Chris Van Hollen,1
+2386,Tammy Baldwin,Catherine Cortez Masto,1
+2388,Tammy Baldwin,Tina Smith,1
+2393,Christopher Murphy,Benjamin L. Cardin,1
+2395,Christopher Murphy,Al Franken,1
+2399,Christopher Murphy,Timothy Kaine,1
+2400,Christopher Murphy,Ron Wyden,1
+2401,Christopher Murphy,Jeff Merkley,1
+2406,Christopher Murphy,Tom Udall,1
+2410,Christopher Murphy,Brian Schatz,1
+2412,Christopher Murphy,Richard Blumenthal,1
+2413,Christopher Murphy,Maria Cantwell,1
+2414,Christopher Murphy,Tammy Baldwin,1
+2419,Christopher Murphy,Bob Casey,1
+2424,Christopher Murphy,Dianne Feinstein,1
+2425,Christopher Murphy,Martin Heinrich,1
+2426,Christopher Murphy,Edward J. Markey,1
+2428,Christopher Murphy,Kirsten E. Gillibrand,1
+2431,Christopher Murphy,Michael F. Bennet,1
+2432,Christopher Murphy,Patty Murray,1
+2435,Christopher Murphy,Margaret Wood Hassan,1
+2436,Christopher Murphy,Tammy Duckworth,1
+2438,Christopher Murphy,Mazie K. Hirono,1
+2442,Christopher Murphy,Sherrod Brown,1
+2444,Christopher Murphy,Gary C. Peters,1
+2445,Christopher Murphy,Bernard Sanders,1
+2448,Christopher Murphy,Thomas R. Carper,1
+2449,Christopher Murphy,Christopher A. Coons,1
+2451,Christopher Murphy,Jeanne Shaheen,1
+2458,Christopher Murphy,Elizabeth A. Warren,1
+2459,Christopher Murphy,Cory A. Booker,1
+2461,Christopher Murphy,Robert Menendez,1
+2464,Christopher Murphy,Richard J. Durbin,1
+2465,Christopher Murphy,Patrick Joseph Leahy,1
+2468,Christopher Murphy,Sheldon Whitehouse,1
+2472,Christopher Murphy,Amy Klobuchar,1
+2474,Christopher Murphy,Deborah Ann Stabenow,1
+2480,Christopher Murphy,Charles E. Schumer,1
+2481,Christopher Murphy,John F. Reed,1
+2484,Christopher Murphy,Kamala D. Harris,1
+2485,Christopher Murphy,Chris Van Hollen,1
+2490,Christopher Murphy,Catherine Cortez Masto,1
+2492,Christopher Murphy,Tina Smith,1
+2496,Johnny Isakson,Michael B. Enzi,1
+2498,Johnny Isakson,Lamar Alexander,1
+2500,Johnny Isakson,Michael D. Crapo,1
+2501,Johnny Isakson,Jerry Moran,1
+2511,Johnny Isakson,Shelley Moore Capito,1
+2512,Johnny Isakson,Deb Fischer,1
+2515,Johnny Isakson,John Hoeven,1
+2521,Johnny Isakson,Rob Portman,1
+2526,Johnny Isakson,Steve Daines,1
+2527,Johnny Isakson,Pat Roberts,1
+2531,Johnny Isakson,Joni Ernst,1
+2541,Johnny Isakson,Roger F. Wicker,1
+2544,Johnny Isakson,John Neely Kennedy,1
+2551,Johnny Isakson,Pat Toomey,1
+2560,Johnny Isakson,Bill Cassidy,1
+2564,Johnny Isakson,John R. Thune,1
+2566,Johnny Isakson,Roy Blunt,1
+2570,Johnny Isakson,Todd C. Young,1
+2573,Johnny Isakson,Mike Rounds,1
+2574,Johnny Isakson,Tom Cotton,1
+2575,Johnny Isakson,Lindsey O. Graham,1
+2577,Johnny Isakson,John Barrasso,1
+2579,Johnny Isakson,Thad Cochran,1
+2580,Johnny Isakson,Jim Inhofe,1
+2581,Johnny Isakson,John Boozman,1
+2582,Johnny Isakson,Tim Scott,1
+2586,Johnny Isakson,Thomas Roland Tillis,1
+2587,Johnny Isakson,James E. Risch,1
+2590,Johnny Isakson,Bob Corker,1
+2591,Johnny Isakson,Richard Craig Shelby,1
+2593,Johnny Isakson,Mitch Mcconnell,1
+2595,Johnny Isakson,David Alfred Perdue,1
+2598,Johnny Isakson,Cindy Hyde-Smith,1
+2602,Rob Portman,Lamar Alexander,1
+2605,Rob Portman,Jerry Moran,1
+2615,Rob Portman,Shelley Moore Capito,1
+2619,Rob Portman,John Hoeven,1
+2624,Rob Portman,Johnny Isakson,1
+2631,Rob Portman,Pat Roberts,1
+2635,Rob Portman,Joni Ernst,1
+2655,Rob Portman,Pat Toomey,1
+2674,Rob Portman,Todd C. Young,1
+2679,Rob Portman,Lindsey O. Graham,1
+2686,Rob Portman,Tim Scott,1
+2694,Rob Portman,Bob Corker,1
+2708,Jeff Flake,Michael D. Crapo,1
+2733,Jeff Flake,Mike Lee,1
+2741,Jeff Flake,Ron Johnson,1
+2785,Jeff Flake,John Barrasso,1
+2791,Jeff Flake,John Sidney Mccain,1
+2795,Jeff Flake,James E. Risch,1
+2799,Jeff Flake,Richard Craig Shelby,1
+2800,Jeff Flake,Ben Sasse,1
+2809,Bob Casey,Benjamin L. Cardin,1
+2815,Bob Casey,Timothy Kaine,1
+2816,Bob Casey,Ron Wyden,1
+2817,Bob Casey,Jeff Merkley,1
+2828,Bob Casey,Richard Blumenthal,1
+2829,Bob Casey,Maria Cantwell,1
+2830,Bob Casey,Tammy Baldwin,1
+2831,Bob Casey,Christopher Murphy,1
+2840,Bob Casey,Dianne Feinstein,1
+2841,Bob Casey,Martin Heinrich,1
+2842,Bob Casey,Edward J. Markey,1
+2844,Bob Casey,Kirsten E. Gillibrand,1
+2847,Bob Casey,Michael F. Bennet,1
+2848,Bob Casey,Patty Murray,1
+2851,Bob Casey,Margaret Wood Hassan,1
+2852,Bob Casey,Tammy Duckworth,1
+2854,Bob Casey,Mazie K. Hirono,1
+2855,Bob Casey,Clarence William Nelson,1
+2858,Bob Casey,Sherrod Brown,1
+2860,Bob Casey,Gary C. Peters,1
+2861,Bob Casey,Bernard Sanders,1
+2864,Bob Casey,Thomas R. Carper,1
+2865,Bob Casey,Christopher A. Coons,1
+2867,Bob Casey,Jeanne Shaheen,1
+2874,Bob Casey,Elizabeth A. Warren,1
+2875,Bob Casey,Cory A. Booker,1
+2877,Bob Casey,Robert Menendez,1
+2880,Bob Casey,Richard J. Durbin,1
+2881,Bob Casey,Patrick Joseph Leahy,1
+2883,Bob Casey,Joe Donnelly,1
+2884,Bob Casey,Sheldon Whitehouse,1
+2888,Bob Casey,Amy Klobuchar,1
+2890,Bob Casey,Deborah Ann Stabenow,1
+2896,Bob Casey,Charles E. Schumer,1
+2897,Bob Casey,John F. Reed,1
+2900,Bob Casey,Kamala D. Harris,1
+2901,Bob Casey,Chris Van Hollen,1
+2906,Bob Casey,Catherine Cortez Masto,1
+2908,Bob Casey,Tina Smith,1
+2923,Susan Margaret Collins,Angus King,1
+2971,Susan Margaret Collins,Jeanne Shaheen,1
+3016,Mike Lee,Michael B. Enzi,1
+3020,Mike Lee,Michael D. Crapo,1
+3033,Mike Lee,Orrin Grant Hatch,1
+3042,Mike Lee,Jeff Flake,1
+3046,Mike Lee,Steve Daines,1
+3053,Mike Lee,Ron Johnson,1
+3065,Mike Lee,Ted Cruz,1
+3078,Mike Lee,Rand Paul,1
+3081,Mike Lee,James Lankford,1
+3097,Mike Lee,John Barrasso,1
+3100,Mike Lee,Jim Inhofe,1
+3102,Mike Lee,Tim Scott,1
+3107,Mike Lee,James E. Risch,1
+3111,Mike Lee,Richard Craig Shelby,1
+3112,Mike Lee,Ben Sasse,1
+3115,Mike Lee,David Alfred Perdue,1
+3120,Steve Daines,Michael B. Enzi,1
+3124,Steve Daines,Michael D. Crapo,1
+3125,Steve Daines,Jerry Moran,1
+3136,Steve Daines,Deb Fischer,1
+3139,Steve Daines,John Hoeven,1
+3144,Steve Daines,Johnny Isakson,1
+3149,Steve Daines,Mike Lee,1
+3151,Steve Daines,Pat Roberts,1
+3155,Steve Daines,Joni Ernst,1
+3165,Steve Daines,Roger F. Wicker,1
+3168,Steve Daines,John Neely Kennedy,1
+3178,Steve Daines,Jon Tester,1
+3185,Steve Daines,James Lankford,1
+3188,Steve Daines,John R. Thune,1
+3190,Steve Daines,Roy Blunt,1
+3197,Steve Daines,Mike Rounds,1
+3201,Steve Daines,John Barrasso,1
+3203,Steve Daines,Thad Cochran,1
+3204,Steve Daines,Jim Inhofe,1
+3205,Steve Daines,John Boozman,1
+3206,Steve Daines,Tim Scott,1
+3211,Steve Daines,James E. Risch,1
+3215,Steve Daines,Richard Craig Shelby,1
+3216,Steve Daines,Ben Sasse,1
+3219,Steve Daines,David Alfred Perdue,1
+3222,Steve Daines,Cindy Hyde-Smith,1
+3224,Pat Roberts,Michael B. Enzi,1
+3226,Pat Roberts,Lamar Alexander,1
+3228,Pat Roberts,Michael D. Crapo,1
+3229,Pat Roberts,Jerry Moran,1
+3230,Pat Roberts,Charles Ernest Grassley,1
+3237,Pat Roberts,John Cornyn,1
+3239,Pat Roberts,Shelley Moore Capito,1
+3240,Pat Roberts,Deb Fischer,1
+3241,Pat Roberts,Orrin Grant Hatch,1
+3243,Pat Roberts,John Hoeven,1
+3248,Pat Roberts,Johnny Isakson,1
+3249,Pat Roberts,Rob Portman,1
+3254,Pat Roberts,Steve Daines,1
+3259,Pat Roberts,Joni Ernst,1
+3265,Pat Roberts,Dean Heller,1
+3269,Pat Roberts,Roger F. Wicker,1
+3272,Pat Roberts,John Neely Kennedy,1
+3279,Pat Roberts,Pat Toomey,1
+3285,Pat Roberts,Luther Strange,1
+3288,Pat Roberts,Bill Cassidy,1
+3289,Pat Roberts,James Lankford,1
+3292,Pat Roberts,John R. Thune,1
+3294,Pat Roberts,Roy Blunt,1
+3298,Pat Roberts,Todd C. Young,1
+3299,Pat Roberts,Joe Donnelly,1
+3301,Pat Roberts,Mike Rounds,1
+3302,Pat Roberts,Tom Cotton,1
+3303,Pat Roberts,Lindsey O. Graham,1
+3305,Pat Roberts,John Barrasso,1
+3307,Pat Roberts,Thad Cochran,1
+3308,Pat Roberts,Jim Inhofe,1
+3309,Pat Roberts,John Boozman,1
+3310,Pat Roberts,Tim Scott,1
+3314,Pat Roberts,Thomas Roland Tillis,1
+3315,Pat Roberts,James E. Risch,1
+3318,Pat Roberts,Bob Corker,1
+3319,Pat Roberts,Richard Craig Shelby,1
+3320,Pat Roberts,Ben Sasse,1
+3321,Pat Roberts,Mitch Mcconnell,1
+3323,Pat Roberts,David Alfred Perdue,1
+3326,Pat Roberts,Cindy Hyde-Smith,1
+3329,Dianne Feinstein,Benjamin L. Cardin,1
+3331,Dianne Feinstein,Al Franken,1
+3335,Dianne Feinstein,Timothy Kaine,1
+3336,Dianne Feinstein,Ron Wyden,1
+3337,Dianne Feinstein,Jeff Merkley,1
+3342,Dianne Feinstein,Tom Udall,1
+3346,Dianne Feinstein,Brian Schatz,1
+3348,Dianne Feinstein,Richard Blumenthal,1
+3349,Dianne Feinstein,Maria Cantwell,1
+3350,Dianne Feinstein,Tammy Baldwin,1
+3351,Dianne Feinstein,Christopher Murphy,1
+3355,Dianne Feinstein,Bob Casey,1
+3361,Dianne Feinstein,Martin Heinrich,1
+3362,Dianne Feinstein,Edward J. Markey,1
+3364,Dianne Feinstein,Kirsten E. Gillibrand,1
+3367,Dianne Feinstein,Michael F. Bennet,1
+3368,Dianne Feinstein,Patty Murray,1
+3371,Dianne Feinstein,Margaret Wood Hassan,1
+3372,Dianne Feinstein,Tammy Duckworth,1
+3374,Dianne Feinstein,Mazie K. Hirono,1
+3378,Dianne Feinstein,Sherrod Brown,1
+3380,Dianne Feinstein,Gary C. Peters,1
+3381,Dianne Feinstein,Bernard Sanders,1
+3384,Dianne Feinstein,Thomas R. Carper,1
+3385,Dianne Feinstein,Christopher A. Coons,1
+3387,Dianne Feinstein,Jeanne Shaheen,1
+3394,Dianne Feinstein,Elizabeth A. Warren,1
+3395,Dianne Feinstein,Cory A. Booker,1
+3397,Dianne Feinstein,Robert Menendez,1
+3400,Dianne Feinstein,Richard J. Durbin,1
+3401,Dianne Feinstein,Patrick Joseph Leahy,1
+3404,Dianne Feinstein,Sheldon Whitehouse,1
+3408,Dianne Feinstein,Amy Klobuchar,1
+3410,Dianne Feinstein,Deborah Ann Stabenow,1
+3416,Dianne Feinstein,Charles E. Schumer,1
+3417,Dianne Feinstein,John F. Reed,1
+3420,Dianne Feinstein,Kamala D. Harris,1
+3421,Dianne Feinstein,Chris Van Hollen,1
+3426,Dianne Feinstein,Catherine Cortez Masto,1
+3428,Dianne Feinstein,Tina Smith,1
+3433,Martin Heinrich,Benjamin L. Cardin,1
+3435,Martin Heinrich,Al Franken,1
+3439,Martin Heinrich,Timothy Kaine,1
+3440,Martin Heinrich,Ron Wyden,1
+3441,Martin Heinrich,Jeff Merkley,1
+3443,Martin Heinrich,Angus King,1
+3446,Martin Heinrich,Tom Udall,1
+3450,Martin Heinrich,Brian Schatz,1
+3453,Martin Heinrich,Maria Cantwell,1
+3454,Martin Heinrich,Tammy Baldwin,1
+3455,Martin Heinrich,Christopher Murphy,1
+3459,Martin Heinrich,Bob Casey,1
+3464,Martin Heinrich,Dianne Feinstein,1
+3466,Martin Heinrich,Edward J. Markey,1
+3468,Martin Heinrich,Kirsten E. Gillibrand,1
+3471,Martin Heinrich,Michael F. Bennet,1
+3472,Martin Heinrich,Patty Murray,1
+3475,Martin Heinrich,Margaret Wood Hassan,1
+3476,Martin Heinrich,Tammy Duckworth,1
+3478,Martin Heinrich,Mazie K. Hirono,1
+3482,Martin Heinrich,Sherrod Brown,1
+3484,Martin Heinrich,Gary C. Peters,1
+3485,Martin Heinrich,Bernard Sanders,1
+3488,Martin Heinrich,Thomas R. Carper,1
+3490,Martin Heinrich,Jon Tester,1
+3491,Martin Heinrich,Jeanne Shaheen,1
+3492,Martin Heinrich,Heidi Heitkamp,1
+3498,Martin Heinrich,Elizabeth A. Warren,1
+3499,Martin Heinrich,Cory A. Booker,1
+3501,Martin Heinrich,Robert Menendez,1
+3503,Martin Heinrich,Mark R. Warner,1
+3504,Martin Heinrich,Richard J. Durbin,1
+3505,Martin Heinrich,Patrick Joseph Leahy,1
+3508,Martin Heinrich,Sheldon Whitehouse,1
+3512,Martin Heinrich,Amy Klobuchar,1
+3514,Martin Heinrich,Deborah Ann Stabenow,1
+3520,Martin Heinrich,Charles E. Schumer,1
+3521,Martin Heinrich,John F. Reed,1
+3524,Martin Heinrich,Kamala D. Harris,1
+3525,Martin Heinrich,Chris Van Hollen,1
+3530,Martin Heinrich,Catherine Cortez Masto,1
+3532,Martin Heinrich,Tina Smith,1
+3537,Edward J. Markey,Benjamin L. Cardin,1
+3539,Edward J. Markey,Al Franken,1
+3543,Edward J. Markey,Timothy Kaine,1
+3544,Edward J. Markey,Ron Wyden,1
+3545,Edward J. Markey,Jeff Merkley,1
+3550,Edward J. Markey,Tom Udall,1
+3554,Edward J. Markey,Brian Schatz,1
+3556,Edward J. Markey,Richard Blumenthal,1
+3557,Edward J. Markey,Maria Cantwell,1
+3558,Edward J. Markey,Tammy Baldwin,1
+3559,Edward J. Markey,Christopher Murphy,1
+3563,Edward J. Markey,Bob Casey,1
+3568,Edward J. Markey,Dianne Feinstein,1
+3569,Edward J. Markey,Martin Heinrich,1
+3572,Edward J. Markey,Kirsten E. Gillibrand,1
+3575,Edward J. Markey,Michael F. Bennet,1
+3576,Edward J. Markey,Patty Murray,1
+3579,Edward J. Markey,Margaret Wood Hassan,1
+3580,Edward J. Markey,Tammy Duckworth,1
+3582,Edward J. Markey,Mazie K. Hirono,1
+3586,Edward J. Markey,Sherrod Brown,1
+3588,Edward J. Markey,Gary C. Peters,1
+3589,Edward J. Markey,Bernard Sanders,1
+3592,Edward J. Markey,Thomas R. Carper,1
+3593,Edward J. Markey,Christopher A. Coons,1
+3595,Edward J. Markey,Jeanne Shaheen,1
+3602,Edward J. Markey,Elizabeth A. Warren,1
+3603,Edward J. Markey,Cory A. Booker,1
+3605,Edward J. Markey,Robert Menendez,1
+3608,Edward J. Markey,Richard J. Durbin,1
+3609,Edward J. Markey,Patrick Joseph Leahy,1
+3612,Edward J. Markey,Sheldon Whitehouse,1
+3616,Edward J. Markey,Amy Klobuchar,1
+3618,Edward J. Markey,Deborah Ann Stabenow,1
+3624,Edward J. Markey,Charles E. Schumer,1
+3625,Edward J. Markey,John F. Reed,1
+3628,Edward J. Markey,Kamala D. Harris,1
+3629,Edward J. Markey,Chris Van Hollen,1
+3634,Edward J. Markey,Catherine Cortez Masto,1
+3636,Edward J. Markey,Tina Smith,1
+3640,Joni Ernst,Michael B. Enzi,1
+3644,Joni Ernst,Michael D. Crapo,1
+3645,Joni Ernst,Jerry Moran,1
+3646,Joni Ernst,Charles Ernest Grassley,1
+3655,Joni Ernst,Shelley Moore Capito,1
+3656,Joni Ernst,Deb Fischer,1
+3659,Joni Ernst,John Hoeven,1
+3664,Joni Ernst,Johnny Isakson,1
+3665,Joni Ernst,Rob Portman,1
+3670,Joni Ernst,Steve Daines,1
+3671,Joni Ernst,Pat Roberts,1
+3677,Joni Ernst,Ron Johnson,1
+3685,Joni Ernst,Roger F. Wicker,1
+3688,Joni Ernst,John Neely Kennedy,1
+3695,Joni Ernst,Pat Toomey,1
+3705,Joni Ernst,James Lankford,1
+3710,Joni Ernst,Roy Blunt,1
+3714,Joni Ernst,Todd C. Young,1
+3715,Joni Ernst,Joe Donnelly,1
+3717,Joni Ernst,Mike Rounds,1
+3718,Joni Ernst,Tom Cotton,1
+3719,Joni Ernst,Lindsey O. Graham,1
+3721,Joni Ernst,John Barrasso,1
+3724,Joni Ernst,Jim Inhofe,1
+3725,Joni Ernst,John Boozman,1
+3726,Joni Ernst,Tim Scott,1
+3730,Joni Ernst,Thomas Roland Tillis,1
+3731,Joni Ernst,James E. Risch,1
+3734,Joni Ernst,Bob Corker,1
+3735,Joni Ernst,Richard Craig Shelby,1
+3736,Joni Ernst,Ben Sasse,1
+3739,Joni Ernst,David Alfred Perdue,1
+3742,Joni Ernst,Cindy Hyde-Smith,1
+3745,Kirsten E. Gillibrand,Benjamin L. Cardin,1
+3747,Kirsten E. Gillibrand,Al Franken,1
+3751,Kirsten E. Gillibrand,Timothy Kaine,1
+3752,Kirsten E. Gillibrand,Ron Wyden,1
+3753,Kirsten E. Gillibrand,Jeff Merkley,1
+3758,Kirsten E. Gillibrand,Tom Udall,1
+3762,Kirsten E. Gillibrand,Brian Schatz,1
+3764,Kirsten E. Gillibrand,Richard Blumenthal,1
+3765,Kirsten E. Gillibrand,Maria Cantwell,1
+3766,Kirsten E. Gillibrand,Tammy Baldwin,1
+3767,Kirsten E. Gillibrand,Christopher Murphy,1
+3771,Kirsten E. Gillibrand,Bob Casey,1
+3776,Kirsten E. Gillibrand,Dianne Feinstein,1
+3777,Kirsten E. Gillibrand,Martin Heinrich,1
+3778,Kirsten E. Gillibrand,Edward J. Markey,1
+3783,Kirsten E. Gillibrand,Michael F. Bennet,1
+3784,Kirsten E. Gillibrand,Patty Murray,1
+3787,Kirsten E. Gillibrand,Margaret Wood Hassan,1
+3788,Kirsten E. Gillibrand,Tammy Duckworth,1
+3790,Kirsten E. Gillibrand,Mazie K. Hirono,1
+3794,Kirsten E. Gillibrand,Sherrod Brown,1
+3796,Kirsten E. Gillibrand,Gary C. Peters,1
+3797,Kirsten E. Gillibrand,Bernard Sanders,1
+3800,Kirsten E. Gillibrand,Thomas R. Carper,1
+3801,Kirsten E. Gillibrand,Christopher A. Coons,1
+3803,Kirsten E. Gillibrand,Jeanne Shaheen,1
+3810,Kirsten E. Gillibrand,Elizabeth A. Warren,1
+3811,Kirsten E. Gillibrand,Cory A. Booker,1
+3813,Kirsten E. Gillibrand,Robert Menendez,1
+3816,Kirsten E. Gillibrand,Richard J. Durbin,1
+3817,Kirsten E. Gillibrand,Patrick Joseph Leahy,1
+3820,Kirsten E. Gillibrand,Sheldon Whitehouse,1
+3824,Kirsten E. Gillibrand,Amy Klobuchar,1
+3826,Kirsten E. Gillibrand,Deborah Ann Stabenow,1
+3832,Kirsten E. Gillibrand,Charles E. Schumer,1
+3833,Kirsten E. Gillibrand,John F. Reed,1
+3836,Kirsten E. Gillibrand,Kamala D. Harris,1
+3837,Kirsten E. Gillibrand,Chris Van Hollen,1
+3842,Kirsten E. Gillibrand,Catherine Cortez Masto,1
+3844,Kirsten E. Gillibrand,Tina Smith,1
+3848,Ron Johnson,Michael B. Enzi,1
+3864,Ron Johnson,Deb Fischer,1
+3874,Ron Johnson,Jeff Flake,1
+3877,Ron Johnson,Mike Lee,1
+3883,Ron Johnson,Joni Ernst,1
+3893,Ron Johnson,Roger F. Wicker,1
+3896,Ron Johnson,John Neely Kennedy,1
+3897,Ron Johnson,Ted Cruz,1
+3903,Ron Johnson,Pat Toomey,1
+3910,Ron Johnson,Rand Paul,1
+3913,Ron Johnson,James Lankford,1
+3925,Ron Johnson,Mike Rounds,1
+3926,Ron Johnson,Tom Cotton,1
+3929,Ron Johnson,John Barrasso,1
+3932,Ron Johnson,Jim Inhofe,1
+3933,Ron Johnson,John Boozman,1
+3934,Ron Johnson,Tim Scott,1
+3935,Ron Johnson,John Sidney Mccain,1
+3938,Ron Johnson,Thomas Roland Tillis,1
+3939,Ron Johnson,James E. Risch,1
+3943,Ron Johnson,Richard Craig Shelby,1
+3944,Ron Johnson,Ben Sasse,1
+3945,Ron Johnson,Mitch Mcconnell,1
+3947,Ron Johnson,David Alfred Perdue,1
+3962,Marco Rubio,Cory Gardner,1
+3965,Marco Rubio,John Cornyn,1
+3999,Marco Rubio,Clarence William Nelson,1
+4000,Marco Rubio,John Neely Kennedy,1
+4001,Marco Rubio,Ted Cruz,1
+4007,Marco Rubio,Pat Toomey,1
+4026,Marco Rubio,Todd C. Young,1
+4030,Marco Rubio,Tom Cotton,1
+4036,Marco Rubio,Jim Inhofe,1
+4037,Marco Rubio,John Boozman,1
+4038,Marco Rubio,Tim Scott,1
+4042,Marco Rubio,Thomas Roland Tillis,1
+4046,Marco Rubio,Bob Corker,1
+4048,Marco Rubio,Ben Sasse,1
+4051,Marco Rubio,David Alfred Perdue,1
+4054,Marco Rubio,Cindy Hyde-Smith,1
+4057,Michael F. Bennet,Benjamin L. Cardin,1
+4063,Michael F. Bennet,Timothy Kaine,1
+4064,Michael F. Bennet,Ron Wyden,1
+4065,Michael F. Bennet,Jeff Merkley,1
+4066,Michael F. Bennet,Cory Gardner,1
+4067,Michael F. Bennet,Angus King,1
+4070,Michael F. Bennet,Tom Udall,1
+4076,Michael F. Bennet,Richard Blumenthal,1
+4077,Michael F. Bennet,Maria Cantwell,1
+4078,Michael F. Bennet,Tammy Baldwin,1
+4079,Michael F. Bennet,Christopher Murphy,1
+4083,Michael F. Bennet,Bob Casey,1
+4088,Michael F. Bennet,Dianne Feinstein,1
+4089,Michael F. Bennet,Martin Heinrich,1
+4090,Michael F. Bennet,Edward J. Markey,1
+4092,Michael F. Bennet,Kirsten E. Gillibrand,1
+4096,Michael F. Bennet,Patty Murray,1
+4099,Michael F. Bennet,Margaret Wood Hassan,1
+4100,Michael F. Bennet,Tammy Duckworth,1
+4102,Michael F. Bennet,Mazie K. Hirono,1
+4108,Michael F. Bennet,Gary C. Peters,1
+4109,Michael F. Bennet,Bernard Sanders,1
+4112,Michael F. Bennet,Thomas R. Carper,1
+4113,Michael F. Bennet,Christopher A. Coons,1
+4115,Michael F. Bennet,Jeanne Shaheen,1
+4123,Michael F. Bennet,Cory A. Booker,1
+4125,Michael F. Bennet,Robert Menendez,1
+4127,Michael F. Bennet,Mark R. Warner,1
+4128,Michael F. Bennet,Richard J. Durbin,1
+4129,Michael F. Bennet,Patrick Joseph Leahy,1
+4132,Michael F. Bennet,Sheldon Whitehouse,1
+4136,Michael F. Bennet,Amy Klobuchar,1
+4138,Michael F. Bennet,Deborah Ann Stabenow,1
+4144,Michael F. Bennet,Charles E. Schumer,1
+4145,Michael F. Bennet,John F. Reed,1
+4148,Michael F. Bennet,Kamala D. Harris,1
+4149,Michael F. Bennet,Chris Van Hollen,1
+4154,Michael F. Bennet,Catherine Cortez Masto,1
+4156,Michael F. Bennet,Tina Smith,1
+4161,Patty Murray,Benjamin L. Cardin,1
+4163,Patty Murray,Al Franken,1
+4167,Patty Murray,Timothy Kaine,1
+4168,Patty Murray,Ron Wyden,1
+4169,Patty Murray,Jeff Merkley,1
+4174,Patty Murray,Tom Udall,1
+4178,Patty Murray,Brian Schatz,1
+4180,Patty Murray,Richard Blumenthal,1
+4181,Patty Murray,Maria Cantwell,1
+4182,Patty Murray,Tammy Baldwin,1
+4183,Patty Murray,Christopher Murphy,1
+4187,Patty Murray,Bob Casey,1
+4192,Patty Murray,Dianne Feinstein,1
+4193,Patty Murray,Martin Heinrich,1
+4194,Patty Murray,Edward J. Markey,1
+4196,Patty Murray,Kirsten E. Gillibrand,1
+4199,Patty Murray,Michael F. Bennet,1
+4203,Patty Murray,Margaret Wood Hassan,1
+4204,Patty Murray,Tammy Duckworth,1
+4206,Patty Murray,Mazie K. Hirono,1
+4210,Patty Murray,Sherrod Brown,1
+4212,Patty Murray,Gary C. Peters,1
+4213,Patty Murray,Bernard Sanders,1
+4216,Patty Murray,Thomas R. Carper,1
+4217,Patty Murray,Christopher A. Coons,1
+4219,Patty Murray,Jeanne Shaheen,1
+4226,Patty Murray,Elizabeth A. Warren,1
+4227,Patty Murray,Cory A. Booker,1
+4229,Patty Murray,Robert Menendez,1
+4232,Patty Murray,Richard J. Durbin,1
+4233,Patty Murray,Patrick Joseph Leahy,1
+4236,Patty Murray,Sheldon Whitehouse,1
+4240,Patty Murray,Amy Klobuchar,1
+4242,Patty Murray,Deborah Ann Stabenow,1
+4248,Patty Murray,Charles E. Schumer,1
+4249,Patty Murray,John F. Reed,1
+4252,Patty Murray,Kamala D. Harris,1
+4253,Patty Murray,Chris Van Hollen,1
+4258,Patty Murray,Catherine Cortez Masto,1
+4260,Patty Murray,Tina Smith,1
+4268,Dean Heller,Michael D. Crapo,1
+4280,Dean Heller,Deb Fischer,1
+4295,Dean Heller,Pat Roberts,1
+4334,Dean Heller,Roy Blunt,1
+4345,Dean Heller,John Barrasso,1
+4348,Dean Heller,Jim Inhofe,1
+4349,Dean Heller,John Boozman,1
+4350,Dean Heller,Tim Scott,1
+4354,Dean Heller,Thomas Roland Tillis,1
+4359,Dean Heller,Richard Craig Shelby,1
+4447,Richard Burr,Lindsey O. Graham,1
+4454,Richard Burr,Tim Scott,1
+4458,Richard Burr,Thomas Roland Tillis,1
+4462,Richard Burr,Bob Corker,1
+4473,Margaret Wood Hassan,Benjamin L. Cardin,1
+4479,Margaret Wood Hassan,Timothy Kaine,1
+4480,Margaret Wood Hassan,Ron Wyden,1
+4481,Margaret Wood Hassan,Jeff Merkley,1
+4483,Margaret Wood Hassan,Angus King,1
+4486,Margaret Wood Hassan,Tom Udall,1
+4492,Margaret Wood Hassan,Richard Blumenthal,1
+4493,Margaret Wood Hassan,Maria Cantwell,1
+4494,Margaret Wood Hassan,Tammy Baldwin,1
+4495,Margaret Wood Hassan,Christopher Murphy,1
+4499,Margaret Wood Hassan,Bob Casey,1
+4504,Margaret Wood Hassan,Dianne Feinstein,1
+4505,Margaret Wood Hassan,Martin Heinrich,1
+4506,Margaret Wood Hassan,Edward J. Markey,1
+4508,Margaret Wood Hassan,Kirsten E. Gillibrand,1
+4511,Margaret Wood Hassan,Michael F. Bennet,1
+4512,Margaret Wood Hassan,Patty Murray,1
+4516,Margaret Wood Hassan,Tammy Duckworth,1
+4518,Margaret Wood Hassan,Mazie K. Hirono,1
+4522,Margaret Wood Hassan,Sherrod Brown,1
+4523,Margaret Wood Hassan,Claire Mccaskill,1
+4524,Margaret Wood Hassan,Gary C. Peters,1
+4525,Margaret Wood Hassan,Bernard Sanders,1
+4528,Margaret Wood Hassan,Thomas R. Carper,1
+4529,Margaret Wood Hassan,Christopher A. Coons,1
+4531,Margaret Wood Hassan,Jeanne Shaheen,1
+4538,Margaret Wood Hassan,Elizabeth A. Warren,1
+4539,Margaret Wood Hassan,Cory A. Booker,1
+4541,Margaret Wood Hassan,Robert Menendez,1
+4543,Margaret Wood Hassan,Mark R. Warner,1
+4544,Margaret Wood Hassan,Richard J. Durbin,1
+4545,Margaret Wood Hassan,Patrick Joseph Leahy,1
+4548,Margaret Wood Hassan,Sheldon Whitehouse,1
+4552,Margaret Wood Hassan,Amy Klobuchar,1
+4554,Margaret Wood Hassan,Deborah Ann Stabenow,1
+4560,Margaret Wood Hassan,Charles E. Schumer,1
+4561,Margaret Wood Hassan,John F. Reed,1
+4564,Margaret Wood Hassan,Kamala D. Harris,1
+4565,Margaret Wood Hassan,Chris Van Hollen,1
+4570,Margaret Wood Hassan,Catherine Cortez Masto,1
+4572,Margaret Wood Hassan,Tina Smith,1
+4577,Tammy Duckworth,Benjamin L. Cardin,1
+4579,Tammy Duckworth,Al Franken,1
+4583,Tammy Duckworth,Timothy Kaine,1
+4584,Tammy Duckworth,Ron Wyden,1
+4585,Tammy Duckworth,Jeff Merkley,1
+4590,Tammy Duckworth,Tom Udall,1
+4594,Tammy Duckworth,Brian Schatz,1
+4596,Tammy Duckworth,Richard Blumenthal,1
+4597,Tammy Duckworth,Maria Cantwell,1
+4598,Tammy Duckworth,Tammy Baldwin,1
+4599,Tammy Duckworth,Christopher Murphy,1
+4603,Tammy Duckworth,Bob Casey,1
+4608,Tammy Duckworth,Dianne Feinstein,1
+4609,Tammy Duckworth,Martin Heinrich,1
+4610,Tammy Duckworth,Edward J. Markey,1
+4612,Tammy Duckworth,Kirsten E. Gillibrand,1
+4615,Tammy Duckworth,Michael F. Bennet,1
+4616,Tammy Duckworth,Patty Murray,1
+4619,Tammy Duckworth,Margaret Wood Hassan,1
+4622,Tammy Duckworth,Mazie K. Hirono,1
+4626,Tammy Duckworth,Sherrod Brown,1
+4628,Tammy Duckworth,Gary C. Peters,1
+4629,Tammy Duckworth,Bernard Sanders,1
+4632,Tammy Duckworth,Thomas R. Carper,1
+4633,Tammy Duckworth,Christopher A. Coons,1
+4635,Tammy Duckworth,Jeanne Shaheen,1
+4642,Tammy Duckworth,Elizabeth A. Warren,1
+4643,Tammy Duckworth,Cory A. Booker,1
+4645,Tammy Duckworth,Robert Menendez,1
+4648,Tammy Duckworth,Richard J. Durbin,1
+4649,Tammy Duckworth,Patrick Joseph Leahy,1
+4652,Tammy Duckworth,Sheldon Whitehouse,1
+4656,Tammy Duckworth,Amy Klobuchar,1
+4658,Tammy Duckworth,Deborah Ann Stabenow,1
+4664,Tammy Duckworth,Charles E. Schumer,1
+4665,Tammy Duckworth,John F. Reed,1
+4668,Tammy Duckworth,Kamala D. Harris,1
+4669,Tammy Duckworth,Chris Van Hollen,1
+4674,Tammy Duckworth,Catherine Cortez Masto,1
+4676,Tammy Duckworth,Tina Smith,1
+4680,Roger F. Wicker,Michael B. Enzi,1
+4684,Roger F. Wicker,Michael D. Crapo,1
+4685,Roger F. Wicker,Jerry Moran,1
+4695,Roger F. Wicker,Shelley Moore Capito,1
+4696,Roger F. Wicker,Deb Fischer,1
+4699,Roger F. Wicker,John Hoeven,1
+4704,Roger F. Wicker,Johnny Isakson,1
+4710,Roger F. Wicker,Steve Daines,1
+4711,Roger F. Wicker,Pat Roberts,1
+4715,Roger F. Wicker,Joni Ernst,1
+4717,Roger F. Wicker,Ron Johnson,1
+4728,Roger F. Wicker,John Neely Kennedy,1
+4735,Roger F. Wicker,Pat Toomey,1
+4741,Roger F. Wicker,Luther Strange,1
+4743,Roger F. Wicker,Dan Sullivan,1
+4744,Roger F. Wicker,Bill Cassidy,1
+4745,Roger F. Wicker,James Lankford,1
+4748,Roger F. Wicker,John R. Thune,1
+4750,Roger F. Wicker,Roy Blunt,1
+4754,Roger F. Wicker,Todd C. Young,1
+4757,Roger F. Wicker,Mike Rounds,1
+4758,Roger F. Wicker,Tom Cotton,1
+4759,Roger F. Wicker,Lindsey O. Graham,1
+4761,Roger F. Wicker,John Barrasso,1
+4763,Roger F. Wicker,Thad Cochran,1
+4764,Roger F. Wicker,Jim Inhofe,1
+4765,Roger F. Wicker,John Boozman,1
+4766,Roger F. Wicker,Tim Scott,1
+4770,Roger F. Wicker,Thomas Roland Tillis,1
+4771,Roger F. Wicker,James E. Risch,1
+4774,Roger F. Wicker,Bob Corker,1
+4775,Roger F. Wicker,Richard Craig Shelby,1
+4776,Roger F. Wicker,Ben Sasse,1
+4779,Roger F. Wicker,David Alfred Perdue,1
+4782,Roger F. Wicker,Cindy Hyde-Smith,1
+4785,Mazie K. Hirono,Benjamin L. Cardin,1
+4787,Mazie K. Hirono,Al Franken,1
+4791,Mazie K. Hirono,Timothy Kaine,1
+4792,Mazie K. Hirono,Ron Wyden,1
+4793,Mazie K. Hirono,Jeff Merkley,1
+4795,Mazie K. Hirono,Angus King,1
+4798,Mazie K. Hirono,Tom Udall,1
+4802,Mazie K. Hirono,Brian Schatz,1
+4804,Mazie K. Hirono,Richard Blumenthal,1
+4805,Mazie K. Hirono,Maria Cantwell,1
+4806,Mazie K. Hirono,Tammy Baldwin,1
+4807,Mazie K. Hirono,Christopher Murphy,1
+4811,Mazie K. Hirono,Bob Casey,1
+4816,Mazie K. Hirono,Dianne Feinstein,1
+4817,Mazie K. Hirono,Martin Heinrich,1
+4818,Mazie K. Hirono,Edward J. Markey,1
+4820,Mazie K. Hirono,Kirsten E. Gillibrand,1
+4823,Mazie K. Hirono,Michael F. Bennet,1
+4824,Mazie K. Hirono,Patty Murray,1
+4827,Mazie K. Hirono,Margaret Wood Hassan,1
+4828,Mazie K. Hirono,Tammy Duckworth,1
+4834,Mazie K. Hirono,Sherrod Brown,1
+4836,Mazie K. Hirono,Gary C. Peters,1
+4837,Mazie K. Hirono,Bernard Sanders,1
+4840,Mazie K. Hirono,Thomas R. Carper,1
+4841,Mazie K. Hirono,Christopher A. Coons,1
+4843,Mazie K. Hirono,Jeanne Shaheen,1
+4844,Mazie K. Hirono,Heidi Heitkamp,1
+4850,Mazie K. Hirono,Elizabeth A. Warren,1
+4851,Mazie K. Hirono,Cory A. Booker,1
+4853,Mazie K. Hirono,Robert Menendez,1
+4855,Mazie K. Hirono,Mark R. Warner,1
+4856,Mazie K. Hirono,Richard J. Durbin,1
+4857,Mazie K. Hirono,Patrick Joseph Leahy,1
+4860,Mazie K. Hirono,Sheldon Whitehouse,1
+4864,Mazie K. Hirono,Amy Klobuchar,1
+4866,Mazie K. Hirono,Deborah Ann Stabenow,1
+4872,Mazie K. Hirono,Charles E. Schumer,1
+4873,Mazie K. Hirono,John F. Reed,1
+4876,Mazie K. Hirono,Kamala D. Harris,1
+4877,Mazie K. Hirono,Chris Van Hollen,1
+4882,Mazie K. Hirono,Catherine Cortez Masto,1
+4884,Mazie K. Hirono,Tina Smith,1
+4889,Clarence William Nelson,Benjamin L. Cardin,1
+4895,Clarence William Nelson,Timothy Kaine,1
+4908,Clarence William Nelson,Richard Blumenthal,1
+4909,Clarence William Nelson,Maria Cantwell,1
+4915,Clarence William Nelson,Bob Casey,1
+4926,Clarence William Nelson,Marco Rubio,1
+4940,Clarence William Nelson,Gary C. Peters,1
+4944,Clarence William Nelson,Thomas R. Carper,1
+4957,Clarence William Nelson,Robert Menendez,1
+4963,Clarence William Nelson,Joe Donnelly,1
+4970,Clarence William Nelson,Deborah Ann Stabenow,1
+4976,Clarence William Nelson,Charles E. Schumer,1
+4977,Clarence William Nelson,John F. Reed,1
+4981,Clarence William Nelson,Chris Van Hollen,1
+4986,Clarence William Nelson,Catherine Cortez Masto,1
+4992,John Neely Kennedy,Michael B. Enzi,1
+4996,John Neely Kennedy,Michael D. Crapo,1
+4997,John Neely Kennedy,Jerry Moran,1
+4998,John Neely Kennedy,Charles Ernest Grassley,1
+5005,John Neely Kennedy,John Cornyn,1
+5007,John Neely Kennedy,Shelley Moore Capito,1
+5008,John Neely Kennedy,Deb Fischer,1
+5009,John Neely Kennedy,Orrin Grant Hatch,1
+5011,John Neely Kennedy,John Hoeven,1
+5016,John Neely Kennedy,Johnny Isakson,1
+5022,John Neely Kennedy,Steve Daines,1
+5023,John Neely Kennedy,Pat Roberts,1
+5027,John Neely Kennedy,Joni Ernst,1
+5029,John Neely Kennedy,Ron Johnson,1
+5030,John Neely Kennedy,Marco Rubio,1
+5037,John Neely Kennedy,Roger F. Wicker,1
+5041,John Neely Kennedy,Ted Cruz,1
+5047,John Neely Kennedy,Pat Toomey,1
+5056,John Neely Kennedy,Bill Cassidy,1
+5062,John Neely Kennedy,Roy Blunt,1
+5066,John Neely Kennedy,Todd C. Young,1
+5069,John Neely Kennedy,Mike Rounds,1
+5070,John Neely Kennedy,Tom Cotton,1
+5071,John Neely Kennedy,Lindsey O. Graham,1
+5073,John Neely Kennedy,John Barrasso,1
+5076,John Neely Kennedy,Jim Inhofe,1
+5077,John Neely Kennedy,John Boozman,1
+5078,John Neely Kennedy,Tim Scott,1
+5082,John Neely Kennedy,Thomas Roland Tillis,1
+5083,John Neely Kennedy,James E. Risch,1
+5086,John Neely Kennedy,Bob Corker,1
+5087,John Neely Kennedy,Richard Craig Shelby,1
+5088,John Neely Kennedy,Ben Sasse,1
+5091,John Neely Kennedy,David Alfred Perdue,1
+5094,John Neely Kennedy,Cindy Hyde-Smith,1
+5109,Ted Cruz,John Cornyn,1
+5112,Ted Cruz,Deb Fischer,1
+5125,Ted Cruz,Mike Lee,1
+5133,Ted Cruz,Ron Johnson,1
+5134,Ted Cruz,Marco Rubio,1
+5144,Ted Cruz,John Neely Kennedy,1
+5151,Ted Cruz,Pat Toomey,1
+5161,Ted Cruz,James Lankford,1
+5174,Ted Cruz,Tom Cotton,1
+5180,Ted Cruz,Jim Inhofe,1
+5182,Ted Cruz,Tim Scott,1
+5186,Ted Cruz,Thomas Roland Tillis,1
+5191,Ted Cruz,Richard Craig Shelby,1
+5192,Ted Cruz,Ben Sasse,1
+5195,Ted Cruz,David Alfred Perdue,1
+5201,Sherrod Brown,Benjamin L. Cardin,1
+5203,Sherrod Brown,Al Franken,1
+5207,Sherrod Brown,Timothy Kaine,1
+5208,Sherrod Brown,Ron Wyden,1
+5209,Sherrod Brown,Jeff Merkley,1
+5211,Sherrod Brown,Angus King,1
+5220,Sherrod Brown,Richard Blumenthal,1
+5221,Sherrod Brown,Maria Cantwell,1
+5222,Sherrod Brown,Tammy Baldwin,1
+5223,Sherrod Brown,Christopher Murphy,1
+5227,Sherrod Brown,Bob Casey,1
+5232,Sherrod Brown,Dianne Feinstein,1
+5233,Sherrod Brown,Martin Heinrich,1
+5234,Sherrod Brown,Edward J. Markey,1
+5236,Sherrod Brown,Kirsten E. Gillibrand,1
+5240,Sherrod Brown,Patty Murray,1
+5243,Sherrod Brown,Margaret Wood Hassan,1
+5244,Sherrod Brown,Tammy Duckworth,1
+5246,Sherrod Brown,Mazie K. Hirono,1
+5252,Sherrod Brown,Gary C. Peters,1
+5253,Sherrod Brown,Bernard Sanders,1
+5256,Sherrod Brown,Thomas R. Carper,1
+5257,Sherrod Brown,Christopher A. Coons,1
+5259,Sherrod Brown,Jeanne Shaheen,1
+5266,Sherrod Brown,Elizabeth A. Warren,1
+5267,Sherrod Brown,Cory A. Booker,1
+5269,Sherrod Brown,Robert Menendez,1
+5272,Sherrod Brown,Richard J. Durbin,1
+5273,Sherrod Brown,Patrick Joseph Leahy,1
+5276,Sherrod Brown,Sheldon Whitehouse,1
+5280,Sherrod Brown,Amy Klobuchar,1
+5282,Sherrod Brown,Deborah Ann Stabenow,1
+5288,Sherrod Brown,Charles E. Schumer,1
+5289,Sherrod Brown,John F. Reed,1
+5292,Sherrod Brown,Kamala D. Harris,1
+5293,Sherrod Brown,Chris Van Hollen,1
+5298,Sherrod Brown,Catherine Cortez Masto,1
+5300,Sherrod Brown,Tina Smith,1
+5347,Claire Mccaskill,Margaret Wood Hassan,1
+5356,Claire Mccaskill,Gary C. Peters,1
+5360,Claire Mccaskill,Thomas R. Carper,1
+5362,Claire Mccaskill,Jon Tester,1
+5364,Claire Mccaskill,Heidi Heitkamp,1
+5379,Claire Mccaskill,Joe Donnelly,1
+5386,Claire Mccaskill,Deborah Ann Stabenow,1
+5409,Gary C. Peters,Benjamin L. Cardin,1
+5415,Gary C. Peters,Timothy Kaine,1
+5416,Gary C. Peters,Ron Wyden,1
+5417,Gary C. Peters,Jeff Merkley,1
+5419,Gary C. Peters,Angus King,1
+5426,Gary C. Peters,Brian Schatz,1
+5428,Gary C. Peters,Richard Blumenthal,1
+5429,Gary C. Peters,Maria Cantwell,1
+5430,Gary C. Peters,Tammy Baldwin,1
+5431,Gary C. Peters,Christopher Murphy,1
+5435,Gary C. Peters,Bob Casey,1
+5440,Gary C. Peters,Dianne Feinstein,1
+5441,Gary C. Peters,Martin Heinrich,1
+5442,Gary C. Peters,Edward J. Markey,1
+5444,Gary C. Peters,Kirsten E. Gillibrand,1
+5447,Gary C. Peters,Michael F. Bennet,1
+5448,Gary C. Peters,Patty Murray,1
+5451,Gary C. Peters,Margaret Wood Hassan,1
+5452,Gary C. Peters,Tammy Duckworth,1
+5454,Gary C. Peters,Mazie K. Hirono,1
+5455,Gary C. Peters,Clarence William Nelson,1
+5458,Gary C. Peters,Sherrod Brown,1
+5459,Gary C. Peters,Claire Mccaskill,1
+5461,Gary C. Peters,Bernard Sanders,1
+5464,Gary C. Peters,Thomas R. Carper,1
+5465,Gary C. Peters,Christopher A. Coons,1
+5466,Gary C. Peters,Jon Tester,1
+5467,Gary C. Peters,Jeanne Shaheen,1
+5474,Gary C. Peters,Elizabeth A. Warren,1
+5475,Gary C. Peters,Cory A. Booker,1
+5477,Gary C. Peters,Robert Menendez,1
+5479,Gary C. Peters,Mark R. Warner,1
+5480,Gary C. Peters,Richard J. Durbin,1
+5481,Gary C. Peters,Patrick Joseph Leahy,1
+5483,Gary C. Peters,Joe Donnelly,1
+5484,Gary C. Peters,Sheldon Whitehouse,1
+5488,Gary C. Peters,Amy Klobuchar,1
+5490,Gary C. Peters,Deborah Ann Stabenow,1
+5496,Gary C. Peters,Charles E. Schumer,1
+5497,Gary C. Peters,John F. Reed,1
+5500,Gary C. Peters,Kamala D. Harris,1
+5501,Gary C. Peters,Chris Van Hollen,1
+5506,Gary C. Peters,Catherine Cortez Masto,1
+5513,Bernard Sanders,Benjamin L. Cardin,1
+5515,Bernard Sanders,Al Franken,1
+5519,Bernard Sanders,Timothy Kaine,1
+5520,Bernard Sanders,Ron Wyden,1
+5521,Bernard Sanders,Jeff Merkley,1
+5526,Bernard Sanders,Tom Udall,1
+5530,Bernard Sanders,Brian Schatz,1
+5532,Bernard Sanders,Richard Blumenthal,1
+5533,Bernard Sanders,Maria Cantwell,1
+5534,Bernard Sanders,Tammy Baldwin,1
+5535,Bernard Sanders,Christopher Murphy,1
+5539,Bernard Sanders,Bob Casey,1
+5544,Bernard Sanders,Dianne Feinstein,1
+5545,Bernard Sanders,Martin Heinrich,1
+5546,Bernard Sanders,Edward J. Markey,1
+5548,Bernard Sanders,Kirsten E. Gillibrand,1
+5551,Bernard Sanders,Michael F. Bennet,1
+5552,Bernard Sanders,Patty Murray,1
+5555,Bernard Sanders,Margaret Wood Hassan,1
+5556,Bernard Sanders,Tammy Duckworth,1
+5558,Bernard Sanders,Mazie K. Hirono,1
+5562,Bernard Sanders,Sherrod Brown,1
+5564,Bernard Sanders,Gary C. Peters,1
+5568,Bernard Sanders,Thomas R. Carper,1
+5569,Bernard Sanders,Christopher A. Coons,1
+5571,Bernard Sanders,Jeanne Shaheen,1
+5578,Bernard Sanders,Elizabeth A. Warren,1
+5579,Bernard Sanders,Cory A. Booker,1
+5581,Bernard Sanders,Robert Menendez,1
+5584,Bernard Sanders,Richard J. Durbin,1
+5585,Bernard Sanders,Patrick Joseph Leahy,1
+5588,Bernard Sanders,Sheldon Whitehouse,1
+5594,Bernard Sanders,Deborah Ann Stabenow,1
+5600,Bernard Sanders,Charles E. Schumer,1
+5601,Bernard Sanders,John F. Reed,1
+5604,Bernard Sanders,Kamala D. Harris,1
+5605,Bernard Sanders,Chris Van Hollen,1
+5610,Bernard Sanders,Catherine Cortez Masto,1
+5612,Bernard Sanders,Tina Smith,1
+5627,Joe Manchin,Angus King,1
+5631,Joe Manchin,Shelley Moore Capito,1
+5674,Joe Manchin,Jon Tester,1
+5676,Joe Manchin,Heidi Heitkamp,1
+5687,Joe Manchin,Mark R. Warner,1
+5691,Joe Manchin,Joe Donnelly,1
+5725,Pat Toomey,Jerry Moran,1
+5739,Pat Toomey,John Hoeven,1
+5744,Pat Toomey,Johnny Isakson,1
+5745,Pat Toomey,Rob Portman,1
+5751,Pat Toomey,Pat Roberts,1
+5755,Pat Toomey,Joni Ernst,1
+5757,Pat Toomey,Ron Johnson,1
+5758,Pat Toomey,Marco Rubio,1
+5765,Pat Toomey,Roger F. Wicker,1
+5768,Pat Toomey,John Neely Kennedy,1
+5769,Pat Toomey,Ted Cruz,1
+5790,Pat Toomey,Roy Blunt,1
+5794,Pat Toomey,Todd C. Young,1
+5798,Pat Toomey,Tom Cotton,1
+5799,Pat Toomey,Lindsey O. Graham,1
+5804,Pat Toomey,Jim Inhofe,1
+5805,Pat Toomey,John Boozman,1
+5806,Pat Toomey,Tim Scott,1
+5810,Pat Toomey,Thomas Roland Tillis,1
+5814,Pat Toomey,Bob Corker,1
+5815,Pat Toomey,Richard Craig Shelby,1
+5816,Pat Toomey,Ben Sasse,1
+5819,Pat Toomey,David Alfred Perdue,1
+5825,Thomas R. Carper,Benjamin L. Cardin,1
+5831,Thomas R. Carper,Timothy Kaine,1
+5832,Thomas R. Carper,Ron Wyden,1
+5833,Thomas R. Carper,Jeff Merkley,1
+5838,Thomas R. Carper,Tom Udall,1
+5842,Thomas R. Carper,Brian Schatz,1
+5844,Thomas R. Carper,Richard Blumenthal,1
+5845,Thomas R. Carper,Maria Cantwell,1
+5846,Thomas R. Carper,Tammy Baldwin,1
+5847,Thomas R. Carper,Christopher Murphy,1
+5851,Thomas R. Carper,Bob Casey,1
+5856,Thomas R. Carper,Dianne Feinstein,1
+5857,Thomas R. Carper,Martin Heinrich,1
+5858,Thomas R. Carper,Edward J. Markey,1
+5860,Thomas R. Carper,Kirsten E. Gillibrand,1
+5863,Thomas R. Carper,Michael F. Bennet,1
+5864,Thomas R. Carper,Patty Murray,1
+5867,Thomas R. Carper,Margaret Wood Hassan,1
+5868,Thomas R. Carper,Tammy Duckworth,1
+5870,Thomas R. Carper,Mazie K. Hirono,1
+5871,Thomas R. Carper,Clarence William Nelson,1
+5874,Thomas R. Carper,Sherrod Brown,1
+5875,Thomas R. Carper,Claire Mccaskill,1
+5876,Thomas R. Carper,Gary C. Peters,1
+5877,Thomas R. Carper,Bernard Sanders,1
+5881,Thomas R. Carper,Christopher A. Coons,1
+5883,Thomas R. Carper,Jeanne Shaheen,1
+5890,Thomas R. Carper,Elizabeth A. Warren,1
+5891,Thomas R. Carper,Cory A. Booker,1
+5893,Thomas R. Carper,Robert Menendez,1
+5895,Thomas R. Carper,Mark R. Warner,1
+5896,Thomas R. Carper,Richard J. Durbin,1
+5897,Thomas R. Carper,Patrick Joseph Leahy,1
+5900,Thomas R. Carper,Sheldon Whitehouse,1
+5906,Thomas R. Carper,Deborah Ann Stabenow,1
+5912,Thomas R. Carper,Charles E. Schumer,1
+5913,Thomas R. Carper,John F. Reed,1
+5916,Thomas R. Carper,Kamala D. Harris,1
+5917,Thomas R. Carper,Chris Van Hollen,1
+5922,Thomas R. Carper,Catherine Cortez Masto,1
+5924,Thomas R. Carper,Tina Smith,1
+5929,Christopher A. Coons,Benjamin L. Cardin,1
+5935,Christopher A. Coons,Timothy Kaine,1
+5936,Christopher A. Coons,Ron Wyden,1
+5937,Christopher A. Coons,Jeff Merkley,1
+5939,Christopher A. Coons,Angus King,1
+5948,Christopher A. Coons,Richard Blumenthal,1
+5949,Christopher A. Coons,Maria Cantwell,1
+5950,Christopher A. Coons,Tammy Baldwin,1
+5951,Christopher A. Coons,Christopher Murphy,1
+5955,Christopher A. Coons,Bob Casey,1
+5960,Christopher A. Coons,Dianne Feinstein,1
+5962,Christopher A. Coons,Edward J. Markey,1
+5964,Christopher A. Coons,Kirsten E. Gillibrand,1
+5967,Christopher A. Coons,Michael F. Bennet,1
+5968,Christopher A. Coons,Patty Murray,1
+5971,Christopher A. Coons,Margaret Wood Hassan,1
+5972,Christopher A. Coons,Tammy Duckworth,1
+5974,Christopher A. Coons,Mazie K. Hirono,1
+5978,Christopher A. Coons,Sherrod Brown,1
+5980,Christopher A. Coons,Gary C. Peters,1
+5981,Christopher A. Coons,Bernard Sanders,1
+5984,Christopher A. Coons,Thomas R. Carper,1
+5987,Christopher A. Coons,Jeanne Shaheen,1
+5994,Christopher A. Coons,Elizabeth A. Warren,1
+5995,Christopher A. Coons,Cory A. Booker,1
+5997,Christopher A. Coons,Robert Menendez,1
+6000,Christopher A. Coons,Richard J. Durbin,1
+6001,Christopher A. Coons,Patrick Joseph Leahy,1
+6004,Christopher A. Coons,Sheldon Whitehouse,1
+6008,Christopher A. Coons,Amy Klobuchar,1
+6010,Christopher A. Coons,Deborah Ann Stabenow,1
+6016,Christopher A. Coons,Charles E. Schumer,1
+6017,Christopher A. Coons,John F. Reed,1
+6020,Christopher A. Coons,Kamala D. Harris,1
+6021,Christopher A. Coons,Chris Van Hollen,1
+6026,Christopher A. Coons,Catherine Cortez Masto,1
+6043,Jon Tester,Angus King,1
+6046,Jon Tester,Tom Udall,1
+6054,Jon Tester,Tammy Baldwin,1
+6062,Jon Tester,Steve Daines,1
+6065,Jon Tester,Martin Heinrich,1
+6083,Jon Tester,Claire Mccaskill,1
+6084,Jon Tester,Gary C. Peters,1
+6086,Jon Tester,Joe Manchin,1
+6092,Jon Tester,Heidi Heitkamp,1
+6107,Jon Tester,Joe Donnelly,1
+6114,Jon Tester,Deborah Ann Stabenow,1
+6137,Jeanne Shaheen,Benjamin L. Cardin,1
+6139,Jeanne Shaheen,Al Franken,1
+6143,Jeanne Shaheen,Timothy Kaine,1
+6144,Jeanne Shaheen,Ron Wyden,1
+6145,Jeanne Shaheen,Jeff Merkley,1
+6147,Jeanne Shaheen,Angus King,1
+6150,Jeanne Shaheen,Tom Udall,1
+6156,Jeanne Shaheen,Richard Blumenthal,1
+6157,Jeanne Shaheen,Maria Cantwell,1
+6158,Jeanne Shaheen,Tammy Baldwin,1
+6159,Jeanne Shaheen,Christopher Murphy,1
+6163,Jeanne Shaheen,Bob Casey,1
+6164,Jeanne Shaheen,Susan Margaret Collins,1
+6168,Jeanne Shaheen,Dianne Feinstein,1
+6169,Jeanne Shaheen,Martin Heinrich,1
+6170,Jeanne Shaheen,Edward J. Markey,1
+6172,Jeanne Shaheen,Kirsten E. Gillibrand,1
+6175,Jeanne Shaheen,Michael F. Bennet,1
+6176,Jeanne Shaheen,Patty Murray,1
+6179,Jeanne Shaheen,Margaret Wood Hassan,1
+6180,Jeanne Shaheen,Tammy Duckworth,1
+6182,Jeanne Shaheen,Mazie K. Hirono,1
+6186,Jeanne Shaheen,Sherrod Brown,1
+6188,Jeanne Shaheen,Gary C. Peters,1
+6189,Jeanne Shaheen,Bernard Sanders,1
+6192,Jeanne Shaheen,Thomas R. Carper,1
+6193,Jeanne Shaheen,Christopher A. Coons,1
+6202,Jeanne Shaheen,Elizabeth A. Warren,1
+6203,Jeanne Shaheen,Cory A. Booker,1
+6205,Jeanne Shaheen,Robert Menendez,1
+6208,Jeanne Shaheen,Richard J. Durbin,1
+6209,Jeanne Shaheen,Patrick Joseph Leahy,1
+6211,Jeanne Shaheen,Joe Donnelly,1
+6212,Jeanne Shaheen,Sheldon Whitehouse,1
+6216,Jeanne Shaheen,Amy Klobuchar,1
+6218,Jeanne Shaheen,Deborah Ann Stabenow,1
+6224,Jeanne Shaheen,Charles E. Schumer,1
+6225,Jeanne Shaheen,John F. Reed,1
+6228,Jeanne Shaheen,Kamala D. Harris,1
+6229,Jeanne Shaheen,Chris Van Hollen,1
+6234,Jeanne Shaheen,Catherine Cortez Masto,1
+6251,Heidi Heitkamp,Angus King,1
+6254,Heidi Heitkamp,Tom Udall,1
+6259,Heidi Heitkamp,John Hoeven,1
+6273,Heidi Heitkamp,Martin Heinrich,1
+6286,Heidi Heitkamp,Mazie K. Hirono,1
+6291,Heidi Heitkamp,Claire Mccaskill,1
+6294,Heidi Heitkamp,Joe Manchin,1
+6298,Heidi Heitkamp,Jon Tester,1
+6311,Heidi Heitkamp,Mark R. Warner,1
+6315,Heidi Heitkamp,Joe Donnelly,1
+6320,Heidi Heitkamp,Amy Klobuchar,1
+6322,Heidi Heitkamp,Deborah Ann Stabenow,1
+6338,Heidi Heitkamp,Catherine Cortez Masto,1
+6340,Heidi Heitkamp,Tina Smith,1
+6341,Heidi Heitkamp,Doug Jones,1
+6357,Luther Strange,John Cornyn,1
+6375,Luther Strange,Pat Roberts,1
+6389,Luther Strange,Roger F. Wicker,1
+6414,Luther Strange,Roy Blunt,1
+6421,Luther Strange,Mike Rounds,1
+6422,Luther Strange,Tom Cotton,1
+6427,Luther Strange,Thad Cochran,1
+6428,Luther Strange,Jim Inhofe,1
+6429,Luther Strange,John Boozman,1
+6430,Luther Strange,Tim Scott,1
+6435,Luther Strange,James E. Risch,1
+6443,Luther Strange,David Alfred Perdue,1
+6477,Rand Paul,Mike Lee,1
+6485,Rand Paul,Ron Johnson,1
+6513,Rand Paul,James Lankford,1
+6543,Rand Paul,Richard Craig Shelby,1
+6544,Rand Paul,Ben Sasse,1
+6564,Dan Sullivan,Lisa Murkowski,1
+6567,Dan Sullivan,Shelley Moore Capito,1
+6568,Dan Sullivan,Deb Fischer,1
+6571,Dan Sullivan,John Hoeven,1
+6597,Dan Sullivan,Roger F. Wicker,1
+6622,Dan Sullivan,Roy Blunt,1
+6629,Dan Sullivan,Mike Rounds,1
+6631,Dan Sullivan,Lindsey O. Graham,1
+6633,Dan Sullivan,John Barrasso,1
+6636,Dan Sullivan,Jim Inhofe,1
+6637,Dan Sullivan,John Boozman,1
+6646,Dan Sullivan,Bob Corker,1
+6647,Dan Sullivan,Richard Craig Shelby,1
+6658,Bill Cassidy,Lamar Alexander,1
+6672,Bill Cassidy,Deb Fischer,1
+6680,Bill Cassidy,Johnny Isakson,1
+6687,Bill Cassidy,Pat Roberts,1
+6701,Bill Cassidy,Roger F. Wicker,1
+6704,Bill Cassidy,John Neely Kennedy,1
+6735,Bill Cassidy,Lindsey O. Graham,1
+6741,Bill Cassidy,John Boozman,1
+6742,Bill Cassidy,Tim Scott,1
+6746,Bill Cassidy,Thomas Roland Tillis,1
+6750,Bill Cassidy,Bob Corker,1
+6751,Bill Cassidy,Richard Craig Shelby,1
+6760,James Lankford,Michael B. Enzi,1
+6764,James Lankford,Michael D. Crapo,1
+6765,James Lankford,Jerry Moran,1
+6773,James Lankford,John Cornyn,1
+6776,James Lankford,Deb Fischer,1
+6779,James Lankford,John Hoeven,1
+6789,James Lankford,Mike Lee,1
+6790,James Lankford,Steve Daines,1
+6791,James Lankford,Pat Roberts,1
+6795,James Lankford,Joni Ernst,1
+6797,James Lankford,Ron Johnson,1
+6805,James Lankford,Roger F. Wicker,1
+6809,James Lankford,Ted Cruz,1
+6822,James Lankford,Rand Paul,1
+6828,James Lankford,John R. Thune,1
+6830,James Lankford,Roy Blunt,1
+6837,James Lankford,Mike Rounds,1
+6838,James Lankford,Tom Cotton,1
+6841,James Lankford,John Barrasso,1
+6844,James Lankford,Jim Inhofe,1
+6846,James Lankford,Tim Scott,1
+6850,James Lankford,Thomas Roland Tillis,1
+6851,James Lankford,James E. Risch,1
+6855,James Lankford,Richard Craig Shelby,1
+6856,James Lankford,Ben Sasse,1
+6859,James Lankford,David Alfred Perdue,1
+6865,Elizabeth A. Warren,Benjamin L. Cardin,1
+6867,Elizabeth A. Warren,Al Franken,1
+6871,Elizabeth A. Warren,Timothy Kaine,1
+6872,Elizabeth A. Warren,Ron Wyden,1
+6873,Elizabeth A. Warren,Jeff Merkley,1
+6878,Elizabeth A. Warren,Tom Udall,1
+6882,Elizabeth A. Warren,Brian Schatz,1
+6884,Elizabeth A. Warren,Richard Blumenthal,1
+6885,Elizabeth A. Warren,Maria Cantwell,1
+6886,Elizabeth A. Warren,Tammy Baldwin,1
+6887,Elizabeth A. Warren,Christopher Murphy,1
+6891,Elizabeth A. Warren,Bob Casey,1
+6896,Elizabeth A. Warren,Dianne Feinstein,1
+6897,Elizabeth A. Warren,Martin Heinrich,1
+6898,Elizabeth A. Warren,Edward J. Markey,1
+6900,Elizabeth A. Warren,Kirsten E. Gillibrand,1
+6904,Elizabeth A. Warren,Patty Murray,1
+6907,Elizabeth A. Warren,Margaret Wood Hassan,1
+6908,Elizabeth A. Warren,Tammy Duckworth,1
+6910,Elizabeth A. Warren,Mazie K. Hirono,1
+6914,Elizabeth A. Warren,Sherrod Brown,1
+6916,Elizabeth A. Warren,Gary C. Peters,1
+6917,Elizabeth A. Warren,Bernard Sanders,1
+6920,Elizabeth A. Warren,Thomas R. Carper,1
+6921,Elizabeth A. Warren,Christopher A. Coons,1
+6923,Elizabeth A. Warren,Jeanne Shaheen,1
+6931,Elizabeth A. Warren,Cory A. Booker,1
+6933,Elizabeth A. Warren,Robert Menendez,1
+6936,Elizabeth A. Warren,Richard J. Durbin,1
+6937,Elizabeth A. Warren,Patrick Joseph Leahy,1
+6940,Elizabeth A. Warren,Sheldon Whitehouse,1
+6944,Elizabeth A. Warren,Amy Klobuchar,1
+6946,Elizabeth A. Warren,Deborah Ann Stabenow,1
+6952,Elizabeth A. Warren,Charles E. Schumer,1
+6953,Elizabeth A. Warren,John F. Reed,1
+6956,Elizabeth A. Warren,Kamala D. Harris,1
+6957,Elizabeth A. Warren,Chris Van Hollen,1
+6962,Elizabeth A. Warren,Catherine Cortez Masto,1
+6964,Elizabeth A. Warren,Tina Smith,1
+6969,Cory A. Booker,Benjamin L. Cardin,1
+6971,Cory A. Booker,Al Franken,1
+6975,Cory A. Booker,Timothy Kaine,1
+6976,Cory A. Booker,Ron Wyden,1
+6977,Cory A. Booker,Jeff Merkley,1
+6982,Cory A. Booker,Tom Udall,1
+6986,Cory A. Booker,Brian Schatz,1
+6988,Cory A. Booker,Richard Blumenthal,1
+6989,Cory A. Booker,Maria Cantwell,1
+6990,Cory A. Booker,Tammy Baldwin,1
+6991,Cory A. Booker,Christopher Murphy,1
+6995,Cory A. Booker,Bob Casey,1
+7000,Cory A. Booker,Dianne Feinstein,1
+7001,Cory A. Booker,Martin Heinrich,1
+7002,Cory A. Booker,Edward J. Markey,1
+7004,Cory A. Booker,Kirsten E. Gillibrand,1
+7007,Cory A. Booker,Michael F. Bennet,1
+7008,Cory A. Booker,Patty Murray,1
+7011,Cory A. Booker,Margaret Wood Hassan,1
+7012,Cory A. Booker,Tammy Duckworth,1
+7014,Cory A. Booker,Mazie K. Hirono,1
+7018,Cory A. Booker,Sherrod Brown,1
+7020,Cory A. Booker,Gary C. Peters,1
+7021,Cory A. Booker,Bernard Sanders,1
+7024,Cory A. Booker,Thomas R. Carper,1
+7025,Cory A. Booker,Christopher A. Coons,1
+7027,Cory A. Booker,Jeanne Shaheen,1
+7034,Cory A. Booker,Elizabeth A. Warren,1
+7037,Cory A. Booker,Robert Menendez,1
+7040,Cory A. Booker,Richard J. Durbin,1
+7041,Cory A. Booker,Patrick Joseph Leahy,1
+7044,Cory A. Booker,Sheldon Whitehouse,1
+7048,Cory A. Booker,Amy Klobuchar,1
+7056,Cory A. Booker,Charles E. Schumer,1
+7057,Cory A. Booker,John F. Reed,1
+7060,Cory A. Booker,Kamala D. Harris,1
+7061,Cory A. Booker,Chris Van Hollen,1
+7066,Cory A. Booker,Catherine Cortez Masto,1
+7068,Cory A. Booker,Tina Smith,1
+7072,John R. Thune,Michael B. Enzi,1
+7076,John R. Thune,Michael D. Crapo,1
+7077,John R. Thune,Jerry Moran,1
+7088,John R. Thune,Deb Fischer,1
+7091,John R. Thune,John Hoeven,1
+7096,John R. Thune,Johnny Isakson,1
+7102,John R. Thune,Steve Daines,1
+7103,John R. Thune,Pat Roberts,1
+7117,John R. Thune,Roger F. Wicker,1
+7137,John R. Thune,James Lankford,1
+7142,John R. Thune,Roy Blunt,1
+7149,John R. Thune,Mike Rounds,1
+7153,John R. Thune,John Barrasso,1
+7156,John R. Thune,Jim Inhofe,1
+7157,John R. Thune,John Boozman,1
+7158,John R. Thune,Tim Scott,1
+7163,John R. Thune,James E. Risch,1
+7167,John R. Thune,Richard Craig Shelby,1
+7177,Robert Menendez,Benjamin L. Cardin,1
+7183,Robert Menendez,Timothy Kaine,1
+7184,Robert Menendez,Ron Wyden,1
+7185,Robert Menendez,Jeff Merkley,1
+7190,Robert Menendez,Tom Udall,1
+7194,Robert Menendez,Brian Schatz,1
+7196,Robert Menendez,Richard Blumenthal,1
+7197,Robert Menendez,Maria Cantwell,1
+7198,Robert Menendez,Tammy Baldwin,1
+7199,Robert Menendez,Christopher Murphy,1
+7203,Robert Menendez,Bob Casey,1
+7208,Robert Menendez,Dianne Feinstein,1
+7209,Robert Menendez,Martin Heinrich,1
+7210,Robert Menendez,Edward J. Markey,1
+7212,Robert Menendez,Kirsten E. Gillibrand,1
+7215,Robert Menendez,Michael F. Bennet,1
+7216,Robert Menendez,Patty Murray,1
+7219,Robert Menendez,Margaret Wood Hassan,1
+7220,Robert Menendez,Tammy Duckworth,1
+7222,Robert Menendez,Mazie K. Hirono,1
+7223,Robert Menendez,Clarence William Nelson,1
+7226,Robert Menendez,Sherrod Brown,1
+7228,Robert Menendez,Gary C. Peters,1
+7229,Robert Menendez,Bernard Sanders,1
+7232,Robert Menendez,Thomas R. Carper,1
+7233,Robert Menendez,Christopher A. Coons,1
+7235,Robert Menendez,Jeanne Shaheen,1
+7242,Robert Menendez,Elizabeth A. Warren,1
+7243,Robert Menendez,Cory A. Booker,1
+7248,Robert Menendez,Richard J. Durbin,1
+7249,Robert Menendez,Patrick Joseph Leahy,1
+7252,Robert Menendez,Sheldon Whitehouse,1
+7258,Robert Menendez,Deborah Ann Stabenow,1
+7264,Robert Menendez,Charles E. Schumer,1
+7265,Robert Menendez,John F. Reed,1
+7268,Robert Menendez,Kamala D. Harris,1
+7269,Robert Menendez,Chris Van Hollen,1
+7274,Robert Menendez,Catherine Cortez Masto,1
+7280,Roy Blunt,Michael B. Enzi,1
+7284,Roy Blunt,Michael D. Crapo,1
+7285,Roy Blunt,Jerry Moran,1
+7286,Roy Blunt,Charles Ernest Grassley,1
+7295,Roy Blunt,Shelley Moore Capito,1
+7296,Roy Blunt,Deb Fischer,1
+7299,Roy Blunt,John Hoeven,1
+7304,Roy Blunt,Johnny Isakson,1
+7310,Roy Blunt,Steve Daines,1
+7311,Roy Blunt,Pat Roberts,1
+7315,Roy Blunt,Joni Ernst,1
+7321,Roy Blunt,Dean Heller,1
+7325,Roy Blunt,Roger F. Wicker,1
+7328,Roy Blunt,John Neely Kennedy,1
+7335,Roy Blunt,Pat Toomey,1
+7341,Roy Blunt,Luther Strange,1
+7343,Roy Blunt,Dan Sullivan,1
+7345,Roy Blunt,James Lankford,1
+7348,Roy Blunt,John R. Thune,1
+7354,Roy Blunt,Todd C. Young,1
+7357,Roy Blunt,Mike Rounds,1
+7358,Roy Blunt,Tom Cotton,1
+7359,Roy Blunt,Lindsey O. Graham,1
+7361,Roy Blunt,John Barrasso,1
+7363,Roy Blunt,Thad Cochran,1
+7364,Roy Blunt,Jim Inhofe,1
+7365,Roy Blunt,John Boozman,1
+7366,Roy Blunt,Tim Scott,1
+7370,Roy Blunt,Thomas Roland Tillis,1
+7371,Roy Blunt,James E. Risch,1
+7374,Roy Blunt,Bob Corker,1
+7375,Roy Blunt,Richard Craig Shelby,1
+7376,Roy Blunt,Ben Sasse,1
+7382,Roy Blunt,Cindy Hyde-Smith,1
+7385,Mark R. Warner,Benjamin L. Cardin,1
+7391,Mark R. Warner,Timothy Kaine,1
+7395,Mark R. Warner,Angus King,1
+7405,Mark R. Warner,Maria Cantwell,1
+7417,Mark R. Warner,Martin Heinrich,1
+7423,Mark R. Warner,Michael F. Bennet,1
+7427,Mark R. Warner,Margaret Wood Hassan,1
+7430,Mark R. Warner,Mazie K. Hirono,1
+7436,Mark R. Warner,Gary C. Peters,1
+7438,Mark R. Warner,Joe Manchin,1
+7440,Mark R. Warner,Thomas R. Carper,1
+7444,Mark R. Warner,Heidi Heitkamp,1
+7466,Mark R. Warner,Deborah Ann Stabenow,1
+7472,Mark R. Warner,Charles E. Schumer,1
+7477,Mark R. Warner,Chris Van Hollen,1
+7482,Mark R. Warner,Catherine Cortez Masto,1
+7489,Richard J. Durbin,Benjamin L. Cardin,1
+7491,Richard J. Durbin,Al Franken,1
+7495,Richard J. Durbin,Timothy Kaine,1
+7496,Richard J. Durbin,Ron Wyden,1
+7497,Richard J. Durbin,Jeff Merkley,1
+7502,Richard J. Durbin,Tom Udall,1
+7506,Richard J. Durbin,Brian Schatz,1
+7508,Richard J. Durbin,Richard Blumenthal,1
+7509,Richard J. Durbin,Maria Cantwell,1
+7510,Richard J. Durbin,Tammy Baldwin,1
+7511,Richard J. Durbin,Christopher Murphy,1
+7515,Richard J. Durbin,Bob Casey,1
+7520,Richard J. Durbin,Dianne Feinstein,1
+7521,Richard J. Durbin,Martin Heinrich,1
+7522,Richard J. Durbin,Edward J. Markey,1
+7524,Richard J. Durbin,Kirsten E. Gillibrand,1
+7527,Richard J. Durbin,Michael F. Bennet,1
+7528,Richard J. Durbin,Patty Murray,1
+7531,Richard J. Durbin,Margaret Wood Hassan,1
+7532,Richard J. Durbin,Tammy Duckworth,1
+7534,Richard J. Durbin,Mazie K. Hirono,1
+7538,Richard J. Durbin,Sherrod Brown,1
+7540,Richard J. Durbin,Gary C. Peters,1
+7541,Richard J. Durbin,Bernard Sanders,1
+7544,Richard J. Durbin,Thomas R. Carper,1
+7545,Richard J. Durbin,Christopher A. Coons,1
+7547,Richard J. Durbin,Jeanne Shaheen,1
+7554,Richard J. Durbin,Elizabeth A. Warren,1
+7555,Richard J. Durbin,Cory A. Booker,1
+7557,Richard J. Durbin,Robert Menendez,1
+7561,Richard J. Durbin,Patrick Joseph Leahy,1
+7564,Richard J. Durbin,Sheldon Whitehouse,1
+7568,Richard J. Durbin,Amy Klobuchar,1
+7576,Richard J. Durbin,Charles E. Schumer,1
+7577,Richard J. Durbin,John F. Reed,1
+7580,Richard J. Durbin,Kamala D. Harris,1
+7581,Richard J. Durbin,Chris Van Hollen,1
+7586,Richard J. Durbin,Catherine Cortez Masto,1
+7588,Richard J. Durbin,Tina Smith,1
+7593,Patrick Joseph Leahy,Benjamin L. Cardin,1
+7595,Patrick Joseph Leahy,Al Franken,1
+7599,Patrick Joseph Leahy,Timothy Kaine,1
+7600,Patrick Joseph Leahy,Ron Wyden,1
+7601,Patrick Joseph Leahy,Jeff Merkley,1
+7606,Patrick Joseph Leahy,Tom Udall,1
+7610,Patrick Joseph Leahy,Brian Schatz,1
+7612,Patrick Joseph Leahy,Richard Blumenthal,1
+7613,Patrick Joseph Leahy,Maria Cantwell,1
+7614,Patrick Joseph Leahy,Tammy Baldwin,1
+7615,Patrick Joseph Leahy,Christopher Murphy,1
+7619,Patrick Joseph Leahy,Bob Casey,1
+7624,Patrick Joseph Leahy,Dianne Feinstein,1
+7625,Patrick Joseph Leahy,Martin Heinrich,1
+7626,Patrick Joseph Leahy,Edward J. Markey,1
+7628,Patrick Joseph Leahy,Kirsten E. Gillibrand,1
+7631,Patrick Joseph Leahy,Michael F. Bennet,1
+7632,Patrick Joseph Leahy,Patty Murray,1
+7635,Patrick Joseph Leahy,Margaret Wood Hassan,1
+7636,Patrick Joseph Leahy,Tammy Duckworth,1
+7638,Patrick Joseph Leahy,Mazie K. Hirono,1
+7642,Patrick Joseph Leahy,Sherrod Brown,1
+7644,Patrick Joseph Leahy,Gary C. Peters,1
+7645,Patrick Joseph Leahy,Bernard Sanders,1
+7648,Patrick Joseph Leahy,Thomas R. Carper,1
+7649,Patrick Joseph Leahy,Christopher A. Coons,1
+7651,Patrick Joseph Leahy,Jeanne Shaheen,1
+7658,Patrick Joseph Leahy,Elizabeth A. Warren,1
+7659,Patrick Joseph Leahy,Cory A. Booker,1
+7661,Patrick Joseph Leahy,Robert Menendez,1
+7664,Patrick Joseph Leahy,Richard J. Durbin,1
+7668,Patrick Joseph Leahy,Sheldon Whitehouse,1
+7672,Patrick Joseph Leahy,Amy Klobuchar,1
+7674,Patrick Joseph Leahy,Deborah Ann Stabenow,1
+7680,Patrick Joseph Leahy,Charles E. Schumer,1
+7681,Patrick Joseph Leahy,John F. Reed,1
+7684,Patrick Joseph Leahy,Kamala D. Harris,1
+7685,Patrick Joseph Leahy,Chris Van Hollen,1
+7690,Patrick Joseph Leahy,Catherine Cortez Masto,1
+7692,Patrick Joseph Leahy,Tina Smith,1
+7698,Todd C. Young,Lamar Alexander,1
+7715,Todd C. Young,John Hoeven,1
+7720,Todd C. Young,Johnny Isakson,1
+7721,Todd C. Young,Rob Portman,1
+7727,Todd C. Young,Pat Roberts,1
+7731,Todd C. Young,Joni Ernst,1
+7734,Todd C. Young,Marco Rubio,1
+7741,Todd C. Young,Roger F. Wicker,1
+7744,Todd C. Young,John Neely Kennedy,1
+7751,Todd C. Young,Pat Toomey,1
+7766,Todd C. Young,Roy Blunt,1
+7771,Todd C. Young,Joe Donnelly,1
+7773,Todd C. Young,Mike Rounds,1
+7774,Todd C. Young,Tom Cotton,1
+7775,Todd C. Young,Lindsey O. Graham,1
+7777,Todd C. Young,John Barrasso,1
+7780,Todd C. Young,Jim Inhofe,1
+7781,Todd C. Young,John Boozman,1
+7782,Todd C. Young,Tim Scott,1
+7786,Todd C. Young,Thomas Roland Tillis,1
+7790,Todd C. Young,Bob Corker,1
+7791,Todd C. Young,Richard Craig Shelby,1
+7792,Todd C. Young,Ben Sasse,1
+7795,Todd C. Young,David Alfred Perdue,1
+7798,Todd C. Young,Cindy Hyde-Smith,1
+7805,Joe Donnelly,Jerry Moran,1
+7811,Joe Donnelly,Angus King,1
+7816,Joe Donnelly,Deb Fischer,1
+7819,Joe Donnelly,John Hoeven,1
+7822,Joe Donnelly,Tammy Baldwin,1
+7827,Joe Donnelly,Bob Casey,1
+7831,Joe Donnelly,Pat Roberts,1
+7835,Joe Donnelly,Joni Ernst,1
+7847,Joe Donnelly,Clarence William Nelson,1
+7851,Joe Donnelly,Claire Mccaskill,1
+7852,Joe Donnelly,Gary C. Peters,1
+7854,Joe Donnelly,Joe Manchin,1
+7858,Joe Donnelly,Jon Tester,1
+7859,Joe Donnelly,Jeanne Shaheen,1
+7860,Joe Donnelly,Heidi Heitkamp,1
+7874,Joe Donnelly,Todd C. Young,1
+7877,Joe Donnelly,Mike Rounds,1
+7880,Joe Donnelly,Amy Klobuchar,1
+7882,Joe Donnelly,Deborah Ann Stabenow,1
+7885,Joe Donnelly,John Boozman,1
+7901,Joe Donnelly,Doug Jones,1
+7905,Sheldon Whitehouse,Benjamin L. Cardin,1
+7907,Sheldon Whitehouse,Al Franken,1
+7911,Sheldon Whitehouse,Timothy Kaine,1
+7912,Sheldon Whitehouse,Ron Wyden,1
+7913,Sheldon Whitehouse,Jeff Merkley,1
+7918,Sheldon Whitehouse,Tom Udall,1
+7922,Sheldon Whitehouse,Brian Schatz,1
+7924,Sheldon Whitehouse,Richard Blumenthal,1
+7925,Sheldon Whitehouse,Maria Cantwell,1
+7926,Sheldon Whitehouse,Tammy Baldwin,1
+7927,Sheldon Whitehouse,Christopher Murphy,1
+7931,Sheldon Whitehouse,Bob Casey,1
+7936,Sheldon Whitehouse,Dianne Feinstein,1
+7937,Sheldon Whitehouse,Martin Heinrich,1
+7938,Sheldon Whitehouse,Edward J. Markey,1
+7940,Sheldon Whitehouse,Kirsten E. Gillibrand,1
+7943,Sheldon Whitehouse,Michael F. Bennet,1
+7944,Sheldon Whitehouse,Patty Murray,1
+7947,Sheldon Whitehouse,Margaret Wood Hassan,1
+7948,Sheldon Whitehouse,Tammy Duckworth,1
+7950,Sheldon Whitehouse,Mazie K. Hirono,1
+7954,Sheldon Whitehouse,Sherrod Brown,1
+7956,Sheldon Whitehouse,Gary C. Peters,1
+7957,Sheldon Whitehouse,Bernard Sanders,1
+7960,Sheldon Whitehouse,Thomas R. Carper,1
+7961,Sheldon Whitehouse,Christopher A. Coons,1
+7963,Sheldon Whitehouse,Jeanne Shaheen,1
+7970,Sheldon Whitehouse,Elizabeth A. Warren,1
+7971,Sheldon Whitehouse,Cory A. Booker,1
+7973,Sheldon Whitehouse,Robert Menendez,1
+7976,Sheldon Whitehouse,Richard J. Durbin,1
+7977,Sheldon Whitehouse,Patrick Joseph Leahy,1
+7984,Sheldon Whitehouse,Amy Klobuchar,1
+7986,Sheldon Whitehouse,Deborah Ann Stabenow,1
+7992,Sheldon Whitehouse,Charles E. Schumer,1
+7993,Sheldon Whitehouse,John F. Reed,1
+7996,Sheldon Whitehouse,Kamala D. Harris,1
+7997,Sheldon Whitehouse,Chris Van Hollen,1
+8002,Sheldon Whitehouse,Catherine Cortez Masto,1
+8004,Sheldon Whitehouse,Tina Smith,1
+8008,Mike Rounds,Michael B. Enzi,1
+8012,Mike Rounds,Michael D. Crapo,1
+8013,Mike Rounds,Jerry Moran,1
+8023,Mike Rounds,Shelley Moore Capito,1
+8024,Mike Rounds,Deb Fischer,1
+8027,Mike Rounds,John Hoeven,1
+8032,Mike Rounds,Johnny Isakson,1
+8038,Mike Rounds,Steve Daines,1
+8039,Mike Rounds,Pat Roberts,1
+8043,Mike Rounds,Joni Ernst,1
+8045,Mike Rounds,Ron Johnson,1
+8053,Mike Rounds,Roger F. Wicker,1
+8056,Mike Rounds,John Neely Kennedy,1
+8069,Mike Rounds,Luther Strange,1
+8071,Mike Rounds,Dan Sullivan,1
+8073,Mike Rounds,James Lankford,1
+8076,Mike Rounds,John R. Thune,1
+8078,Mike Rounds,Roy Blunt,1
+8082,Mike Rounds,Todd C. Young,1
+8083,Mike Rounds,Joe Donnelly,1
+8086,Mike Rounds,Tom Cotton,1
+8087,Mike Rounds,Lindsey O. Graham,1
+8089,Mike Rounds,John Barrasso,1
+8091,Mike Rounds,Thad Cochran,1
+8092,Mike Rounds,Jim Inhofe,1
+8093,Mike Rounds,John Boozman,1
+8094,Mike Rounds,Tim Scott,1
+8098,Mike Rounds,Thomas Roland Tillis,1
+8099,Mike Rounds,James E. Risch,1
+8103,Mike Rounds,Richard Craig Shelby,1
+8104,Mike Rounds,Ben Sasse,1
+8107,Mike Rounds,David Alfred Perdue,1
+8110,Mike Rounds,Cindy Hyde-Smith,1
+8112,Tom Cotton,Michael B. Enzi,1
+8116,Tom Cotton,Michael D. Crapo,1
+8117,Tom Cotton,Jerry Moran,1
+8125,Tom Cotton,John Cornyn,1
+8128,Tom Cotton,Deb Fischer,1
+8131,Tom Cotton,John Hoeven,1
+8136,Tom Cotton,Johnny Isakson,1
+8143,Tom Cotton,Pat Roberts,1
+8147,Tom Cotton,Joni Ernst,1
+8149,Tom Cotton,Ron Johnson,1
+8150,Tom Cotton,Marco Rubio,1
+8157,Tom Cotton,Roger F. Wicker,1
+8160,Tom Cotton,John Neely Kennedy,1
+8161,Tom Cotton,Ted Cruz,1
+8167,Tom Cotton,Pat Toomey,1
+8173,Tom Cotton,Luther Strange,1
+8177,Tom Cotton,James Lankford,1
+8182,Tom Cotton,Roy Blunt,1
+8186,Tom Cotton,Todd C. Young,1
+8189,Tom Cotton,Mike Rounds,1
+8191,Tom Cotton,Lindsey O. Graham,1
+8193,Tom Cotton,John Barrasso,1
+8196,Tom Cotton,Jim Inhofe,1
+8197,Tom Cotton,John Boozman,1
+8198,Tom Cotton,Tim Scott,1
+8202,Tom Cotton,Thomas Roland Tillis,1
+8203,Tom Cotton,James E. Risch,1
+8206,Tom Cotton,Bob Corker,1
+8207,Tom Cotton,Richard Craig Shelby,1
+8208,Tom Cotton,Ben Sasse,1
+8211,Tom Cotton,David Alfred Perdue,1
+8214,Tom Cotton,Cindy Hyde-Smith,1
+8218,Lindsey O. Graham,Lamar Alexander,1
+8221,Lindsey O. Graham,Jerry Moran,1
+8229,Lindsey O. Graham,John Cornyn,1
+8240,Lindsey O. Graham,Johnny Isakson,1
+8241,Lindsey O. Graham,Rob Portman,1
+8247,Lindsey O. Graham,Pat Roberts,1
+8251,Lindsey O. Graham,Joni Ernst,1
+8258,Lindsey O. Graham,Richard Burr,1
+8261,Lindsey O. Graham,Roger F. Wicker,1
+8264,Lindsey O. Graham,John Neely Kennedy,1
+8271,Lindsey O. Graham,Pat Toomey,1
+8279,Lindsey O. Graham,Dan Sullivan,1
+8280,Lindsey O. Graham,Bill Cassidy,1
+8286,Lindsey O. Graham,Roy Blunt,1
+8290,Lindsey O. Graham,Todd C. Young,1
+8293,Lindsey O. Graham,Mike Rounds,1
+8294,Lindsey O. Graham,Tom Cotton,1
+8300,Lindsey O. Graham,Jim Inhofe,1
+8301,Lindsey O. Graham,John Boozman,1
+8302,Lindsey O. Graham,Tim Scott,1
+8306,Lindsey O. Graham,Thomas Roland Tillis,1
+8310,Lindsey O. Graham,Bob Corker,1
+8311,Lindsey O. Graham,Richard Craig Shelby,1
+8312,Lindsey O. Graham,Ben Sasse,1
+8313,Lindsey O. Graham,Mitch Mcconnell,1
+8315,Lindsey O. Graham,David Alfred Perdue,1
+8321,Amy Klobuchar,Benjamin L. Cardin,1
+8323,Amy Klobuchar,Al Franken,1
+8327,Amy Klobuchar,Timothy Kaine,1
+8331,Amy Klobuchar,Angus King,1
+8334,Amy Klobuchar,Tom Udall,1
+8340,Amy Klobuchar,Richard Blumenthal,1
+8341,Amy Klobuchar,Maria Cantwell,1
+8342,Amy Klobuchar,Tammy Baldwin,1
+8343,Amy Klobuchar,Christopher Murphy,1
+8347,Amy Klobuchar,Bob Casey,1
+8352,Amy Klobuchar,Dianne Feinstein,1
+8353,Amy Klobuchar,Martin Heinrich,1
+8354,Amy Klobuchar,Edward J. Markey,1
+8356,Amy Klobuchar,Kirsten E. Gillibrand,1
+8359,Amy Klobuchar,Michael F. Bennet,1
+8360,Amy Klobuchar,Patty Murray,1
+8363,Amy Klobuchar,Margaret Wood Hassan,1
+8364,Amy Klobuchar,Tammy Duckworth,1
+8366,Amy Klobuchar,Mazie K. Hirono,1
+8370,Amy Klobuchar,Sherrod Brown,1
+8372,Amy Klobuchar,Gary C. Peters,1
+8377,Amy Klobuchar,Christopher A. Coons,1
+8379,Amy Klobuchar,Jeanne Shaheen,1
+8380,Amy Klobuchar,Heidi Heitkamp,1
+8386,Amy Klobuchar,Elizabeth A. Warren,1
+8387,Amy Klobuchar,Cory A. Booker,1
+8392,Amy Klobuchar,Richard J. Durbin,1
+8393,Amy Klobuchar,Patrick Joseph Leahy,1
+8395,Amy Klobuchar,Joe Donnelly,1
+8396,Amy Klobuchar,Sheldon Whitehouse,1
+8402,Amy Klobuchar,Deborah Ann Stabenow,1
+8408,Amy Klobuchar,Charles E. Schumer,1
+8409,Amy Klobuchar,John F. Reed,1
+8412,Amy Klobuchar,Kamala D. Harris,1
+8413,Amy Klobuchar,Chris Van Hollen,1
+8418,Amy Klobuchar,Catherine Cortez Masto,1
+8420,Amy Klobuchar,Tina Smith,1
+8424,John Barrasso,Michael B. Enzi,1
+8428,John Barrasso,Michael D. Crapo,1
+8429,John Barrasso,Jerry Moran,1
+8434,John Barrasso,Cory Gardner,1
+8439,John Barrasso,Shelley Moore Capito,1
+8440,John Barrasso,Deb Fischer,1
+8443,John Barrasso,John Hoeven,1
+8448,John Barrasso,Johnny Isakson,1
+8450,John Barrasso,Jeff Flake,1
+8453,John Barrasso,Mike Lee,1
+8454,John Barrasso,Steve Daines,1
+8455,John Barrasso,Pat Roberts,1
+8459,John Barrasso,Joni Ernst,1
+8461,John Barrasso,Ron Johnson,1
+8465,John Barrasso,Dean Heller,1
+8469,John Barrasso,Roger F. Wicker,1
+8472,John Barrasso,John Neely Kennedy,1
+8487,John Barrasso,Dan Sullivan,1
+8489,John Barrasso,James Lankford,1
+8492,John Barrasso,John R. Thune,1
+8494,John Barrasso,Roy Blunt,1
+8498,John Barrasso,Todd C. Young,1
+8501,John Barrasso,Mike Rounds,1
+8502,John Barrasso,Tom Cotton,1
+8507,John Barrasso,Thad Cochran,1
+8508,John Barrasso,Jim Inhofe,1
+8509,John Barrasso,John Boozman,1
+8510,John Barrasso,Tim Scott,1
+8514,John Barrasso,Thomas Roland Tillis,1
+8515,John Barrasso,James E. Risch,1
+8519,John Barrasso,Richard Craig Shelby,1
+8520,John Barrasso,Ben Sasse,1
+8521,John Barrasso,Mitch Mcconnell,1
+8523,John Barrasso,David Alfred Perdue,1
+8526,John Barrasso,Cindy Hyde-Smith,1
+8529,Deborah Ann Stabenow,Benjamin L. Cardin,1
+8531,Deborah Ann Stabenow,Al Franken,1
+8535,Deborah Ann Stabenow,Timothy Kaine,1
+8536,Deborah Ann Stabenow,Ron Wyden,1
+8537,Deborah Ann Stabenow,Jeff Merkley,1
+8539,Deborah Ann Stabenow,Angus King,1
+8548,Deborah Ann Stabenow,Richard Blumenthal,1
+8549,Deborah Ann Stabenow,Maria Cantwell,1
+8550,Deborah Ann Stabenow,Tammy Baldwin,1
+8551,Deborah Ann Stabenow,Christopher Murphy,1
+8555,Deborah Ann Stabenow,Bob Casey,1
+8560,Deborah Ann Stabenow,Dianne Feinstein,1
+8561,Deborah Ann Stabenow,Martin Heinrich,1
+8562,Deborah Ann Stabenow,Edward J. Markey,1
+8564,Deborah Ann Stabenow,Kirsten E. Gillibrand,1
+8567,Deborah Ann Stabenow,Michael F. Bennet,1
+8568,Deborah Ann Stabenow,Patty Murray,1
+8571,Deborah Ann Stabenow,Margaret Wood Hassan,1
+8572,Deborah Ann Stabenow,Tammy Duckworth,1
+8574,Deborah Ann Stabenow,Mazie K. Hirono,1
+8575,Deborah Ann Stabenow,Clarence William Nelson,1
+8578,Deborah Ann Stabenow,Sherrod Brown,1
+8579,Deborah Ann Stabenow,Claire Mccaskill,1
+8580,Deborah Ann Stabenow,Gary C. Peters,1
+8581,Deborah Ann Stabenow,Bernard Sanders,1
+8584,Deborah Ann Stabenow,Thomas R. Carper,1
+8585,Deborah Ann Stabenow,Christopher A. Coons,1
+8586,Deborah Ann Stabenow,Jon Tester,1
+8587,Deborah Ann Stabenow,Jeanne Shaheen,1
+8588,Deborah Ann Stabenow,Heidi Heitkamp,1
+8594,Deborah Ann Stabenow,Elizabeth A. Warren,1
+8597,Deborah Ann Stabenow,Robert Menendez,1
+8599,Deborah Ann Stabenow,Mark R. Warner,1
+8601,Deborah Ann Stabenow,Patrick Joseph Leahy,1
+8603,Deborah Ann Stabenow,Joe Donnelly,1
+8604,Deborah Ann Stabenow,Sheldon Whitehouse,1
+8608,Deborah Ann Stabenow,Amy Klobuchar,1
+8616,Deborah Ann Stabenow,Charles E. Schumer,1
+8617,Deborah Ann Stabenow,John F. Reed,1
+8620,Deborah Ann Stabenow,Kamala D. Harris,1
+8621,Deborah Ann Stabenow,Chris Van Hollen,1
+8626,Deborah Ann Stabenow,Catherine Cortez Masto,1
+8628,Deborah Ann Stabenow,Tina Smith,1
+8637,Thad Cochran,Jerry Moran,1
+8647,Thad Cochran,Shelley Moore Capito,1
+8656,Thad Cochran,Johnny Isakson,1
+8662,Thad Cochran,Steve Daines,1
+8663,Thad Cochran,Pat Roberts,1
+8677,Thad Cochran,Roger F. Wicker,1
+8693,Thad Cochran,Luther Strange,1
+8702,Thad Cochran,Roy Blunt,1
+8709,Thad Cochran,Mike Rounds,1
+8713,Thad Cochran,John Barrasso,1
+8716,Thad Cochran,Jim Inhofe,1
+8717,Thad Cochran,John Boozman,1
+8727,Thad Cochran,Richard Craig Shelby,1
+8736,Jim Inhofe,Michael B. Enzi,1
+8740,Jim Inhofe,Michael D. Crapo,1
+8741,Jim Inhofe,Jerry Moran,1
+8749,Jim Inhofe,John Cornyn,1
+8751,Jim Inhofe,Shelley Moore Capito,1
+8752,Jim Inhofe,Deb Fischer,1
+8753,Jim Inhofe,Orrin Grant Hatch,1
+8755,Jim Inhofe,John Hoeven,1
+8760,Jim Inhofe,Johnny Isakson,1
+8765,Jim Inhofe,Mike Lee,1
+8766,Jim Inhofe,Steve Daines,1
+8767,Jim Inhofe,Pat Roberts,1
+8771,Jim Inhofe,Joni Ernst,1
+8773,Jim Inhofe,Ron Johnson,1
+8774,Jim Inhofe,Marco Rubio,1
+8777,Jim Inhofe,Dean Heller,1
+8781,Jim Inhofe,Roger F. Wicker,1
+8784,Jim Inhofe,John Neely Kennedy,1
+8785,Jim Inhofe,Ted Cruz,1
+8791,Jim Inhofe,Pat Toomey,1
+8797,Jim Inhofe,Luther Strange,1
+8799,Jim Inhofe,Dan Sullivan,1
+8801,Jim Inhofe,James Lankford,1
+8804,Jim Inhofe,John R. Thune,1
+8806,Jim Inhofe,Roy Blunt,1
+8810,Jim Inhofe,Todd C. Young,1
+8813,Jim Inhofe,Mike Rounds,1
+8814,Jim Inhofe,Tom Cotton,1
+8815,Jim Inhofe,Lindsey O. Graham,1
+8817,Jim Inhofe,John Barrasso,1
+8819,Jim Inhofe,Thad Cochran,1
+8821,Jim Inhofe,John Boozman,1
+8822,Jim Inhofe,Tim Scott,1
+8826,Jim Inhofe,Thomas Roland Tillis,1
+8827,Jim Inhofe,James E. Risch,1
+8830,Jim Inhofe,Bob Corker,1
+8831,Jim Inhofe,Richard Craig Shelby,1
+8832,Jim Inhofe,Ben Sasse,1
+8833,Jim Inhofe,Mitch Mcconnell,1
+8835,Jim Inhofe,David Alfred Perdue,1
+8838,Jim Inhofe,Cindy Hyde-Smith,1
+8840,John Boozman,Michael B. Enzi,1
+8844,John Boozman,Michael D. Crapo,1
+8845,John Boozman,Jerry Moran,1
+8855,John Boozman,Shelley Moore Capito,1
+8856,John Boozman,Deb Fischer,1
+8859,John Boozman,John Hoeven,1
+8864,John Boozman,Johnny Isakson,1
+8870,John Boozman,Steve Daines,1
+8871,John Boozman,Pat Roberts,1
+8875,John Boozman,Joni Ernst,1
+8877,John Boozman,Ron Johnson,1
+8878,John Boozman,Marco Rubio,1
+8881,John Boozman,Dean Heller,1
+8885,John Boozman,Roger F. Wicker,1
+8888,John Boozman,John Neely Kennedy,1
+8895,John Boozman,Pat Toomey,1
+8901,John Boozman,Luther Strange,1
+8903,John Boozman,Dan Sullivan,1
+8904,John Boozman,Bill Cassidy,1
+8908,John Boozman,John R. Thune,1
+8910,John Boozman,Roy Blunt,1
+8914,John Boozman,Todd C. Young,1
+8915,John Boozman,Joe Donnelly,1
+8917,John Boozman,Mike Rounds,1
+8918,John Boozman,Tom Cotton,1
+8919,John Boozman,Lindsey O. Graham,1
+8921,John Boozman,John Barrasso,1
+8923,John Boozman,Thad Cochran,1
+8924,John Boozman,Jim Inhofe,1
+8926,John Boozman,Tim Scott,1
+8930,John Boozman,Thomas Roland Tillis,1
+8931,John Boozman,James E. Risch,1
+8934,John Boozman,Bob Corker,1
+8935,John Boozman,Richard Craig Shelby,1
+8936,John Boozman,Ben Sasse,1
+8939,John Boozman,David Alfred Perdue,1
+8942,John Boozman,Cindy Hyde-Smith,1
+8944,Tim Scott,Michael B. Enzi,1
+8946,Tim Scott,Lamar Alexander,1
+8949,Tim Scott,Jerry Moran,1
+8950,Tim Scott,Charles Ernest Grassley,1
+8957,Tim Scott,John Cornyn,1
+8960,Tim Scott,Deb Fischer,1
+8961,Tim Scott,Orrin Grant Hatch,1
+8963,Tim Scott,John Hoeven,1
+8968,Tim Scott,Johnny Isakson,1
+8969,Tim Scott,Rob Portman,1
+8973,Tim Scott,Mike Lee,1
+8974,Tim Scott,Steve Daines,1
+8975,Tim Scott,Pat Roberts,1
+8979,Tim Scott,Joni Ernst,1
+8981,Tim Scott,Ron Johnson,1
+8982,Tim Scott,Marco Rubio,1
+8985,Tim Scott,Dean Heller,1
+8986,Tim Scott,Richard Burr,1
+8989,Tim Scott,Roger F. Wicker,1
+8992,Tim Scott,John Neely Kennedy,1
+8993,Tim Scott,Ted Cruz,1
+8999,Tim Scott,Pat Toomey,1
+9005,Tim Scott,Luther Strange,1
+9008,Tim Scott,Bill Cassidy,1
+9009,Tim Scott,James Lankford,1
+9012,Tim Scott,John R. Thune,1
+9014,Tim Scott,Roy Blunt,1
+9018,Tim Scott,Todd C. Young,1
+9021,Tim Scott,Mike Rounds,1
+9022,Tim Scott,Tom Cotton,1
+9023,Tim Scott,Lindsey O. Graham,1
+9025,Tim Scott,John Barrasso,1
+9028,Tim Scott,Jim Inhofe,1
+9029,Tim Scott,John Boozman,1
+9034,Tim Scott,Thomas Roland Tillis,1
+9035,Tim Scott,James E. Risch,1
+9038,Tim Scott,Bob Corker,1
+9039,Tim Scott,Richard Craig Shelby,1
+9040,Tim Scott,Ben Sasse,1
+9041,Tim Scott,Mitch Mcconnell,1
+9043,Tim Scott,David Alfred Perdue,1
+9046,Tim Scott,Cindy Hyde-Smith,1
+9074,John Sidney Mccain,Jeff Flake,1
+9085,John Sidney Mccain,Ron Johnson,1
+9153,Charles E. Schumer,Benjamin L. Cardin,1
+9159,Charles E. Schumer,Timothy Kaine,1
+9160,Charles E. Schumer,Ron Wyden,1
+9161,Charles E. Schumer,Jeff Merkley,1
+9166,Charles E. Schumer,Tom Udall,1
+9170,Charles E. Schumer,Brian Schatz,1
+9172,Charles E. Schumer,Richard Blumenthal,1
+9173,Charles E. Schumer,Maria Cantwell,1
+9174,Charles E. Schumer,Tammy Baldwin,1
+9175,Charles E. Schumer,Christopher Murphy,1
+9179,Charles E. Schumer,Bob Casey,1
+9184,Charles E. Schumer,Dianne Feinstein,1
+9185,Charles E. Schumer,Martin Heinrich,1
+9186,Charles E. Schumer,Edward J. Markey,1
+9188,Charles E. Schumer,Kirsten E. Gillibrand,1
+9191,Charles E. Schumer,Michael F. Bennet,1
+9192,Charles E. Schumer,Patty Murray,1
+9195,Charles E. Schumer,Margaret Wood Hassan,1
+9196,Charles E. Schumer,Tammy Duckworth,1
+9198,Charles E. Schumer,Mazie K. Hirono,1
+9199,Charles E. Schumer,Clarence William Nelson,1
+9202,Charles E. Schumer,Sherrod Brown,1
+9204,Charles E. Schumer,Gary C. Peters,1
+9205,Charles E. Schumer,Bernard Sanders,1
+9208,Charles E. Schumer,Thomas R. Carper,1
+9209,Charles E. Schumer,Christopher A. Coons,1
+9211,Charles E. Schumer,Jeanne Shaheen,1
+9218,Charles E. Schumer,Elizabeth A. Warren,1
+9219,Charles E. Schumer,Cory A. Booker,1
+9221,Charles E. Schumer,Robert Menendez,1
+9223,Charles E. Schumer,Mark R. Warner,1
+9224,Charles E. Schumer,Richard J. Durbin,1
+9225,Charles E. Schumer,Patrick Joseph Leahy,1
+9228,Charles E. Schumer,Sheldon Whitehouse,1
+9232,Charles E. Schumer,Amy Klobuchar,1
+9234,Charles E. Schumer,Deborah Ann Stabenow,1
+9241,Charles E. Schumer,John F. Reed,1
+9244,Charles E. Schumer,Kamala D. Harris,1
+9245,Charles E. Schumer,Chris Van Hollen,1
+9249,Charles E. Schumer,Mitch Mcconnell,1
+9250,Charles E. Schumer,Catherine Cortez Masto,1
+9252,Charles E. Schumer,Tina Smith,1
+9257,John F. Reed,Benjamin L. Cardin,1
+9259,John F. Reed,Al Franken,1
+9263,John F. Reed,Timothy Kaine,1
+9264,John F. Reed,Ron Wyden,1
+9265,John F. Reed,Jeff Merkley,1
+9270,John F. Reed,Tom Udall,1
+9274,John F. Reed,Brian Schatz,1
+9276,John F. Reed,Richard Blumenthal,1
+9277,John F. Reed,Maria Cantwell,1
+9278,John F. Reed,Tammy Baldwin,1
+9279,John F. Reed,Christopher Murphy,1
+9283,John F. Reed,Bob Casey,1
+9288,John F. Reed,Dianne Feinstein,1
+9289,John F. Reed,Martin Heinrich,1
+9290,John F. Reed,Edward J. Markey,1
+9292,John F. Reed,Kirsten E. Gillibrand,1
+9295,John F. Reed,Michael F. Bennet,1
+9296,John F. Reed,Patty Murray,1
+9299,John F. Reed,Margaret Wood Hassan,1
+9300,John F. Reed,Tammy Duckworth,1
+9302,John F. Reed,Mazie K. Hirono,1
+9303,John F. Reed,Clarence William Nelson,1
+9306,John F. Reed,Sherrod Brown,1
+9308,John F. Reed,Gary C. Peters,1
+9309,John F. Reed,Bernard Sanders,1
+9312,John F. Reed,Thomas R. Carper,1
+9313,John F. Reed,Christopher A. Coons,1
+9315,John F. Reed,Jeanne Shaheen,1
+9322,John F. Reed,Elizabeth A. Warren,1
+9323,John F. Reed,Cory A. Booker,1
+9325,John F. Reed,Robert Menendez,1
+9328,John F. Reed,Richard J. Durbin,1
+9329,John F. Reed,Patrick Joseph Leahy,1
+9332,John F. Reed,Sheldon Whitehouse,1
+9336,John F. Reed,Amy Klobuchar,1
+9338,John F. Reed,Deborah Ann Stabenow,1
+9344,John F. Reed,Charles E. Schumer,1
+9348,John F. Reed,Kamala D. Harris,1
+9349,John F. Reed,Chris Van Hollen,1
+9354,John F. Reed,Catherine Cortez Masto,1
+9356,John F. Reed,Tina Smith,1
+9365,Thomas Roland Tillis,Jerry Moran,1
+9366,Thomas Roland Tillis,Charles Ernest Grassley,1
+9373,Thomas Roland Tillis,John Cornyn,1
+9376,Thomas Roland Tillis,Deb Fischer,1
+9377,Thomas Roland Tillis,Orrin Grant Hatch,1
+9379,Thomas Roland Tillis,John Hoeven,1
+9384,Thomas Roland Tillis,Johnny Isakson,1
+9391,Thomas Roland Tillis,Pat Roberts,1
+9395,Thomas Roland Tillis,Joni Ernst,1
+9397,Thomas Roland Tillis,Ron Johnson,1
+9398,Thomas Roland Tillis,Marco Rubio,1
+9401,Thomas Roland Tillis,Dean Heller,1
+9402,Thomas Roland Tillis,Richard Burr,1
+9405,Thomas Roland Tillis,Roger F. Wicker,1
+9408,Thomas Roland Tillis,John Neely Kennedy,1
+9409,Thomas Roland Tillis,Ted Cruz,1
+9415,Thomas Roland Tillis,Pat Toomey,1
+9424,Thomas Roland Tillis,Bill Cassidy,1
+9425,Thomas Roland Tillis,James Lankford,1
+9430,Thomas Roland Tillis,Roy Blunt,1
+9434,Thomas Roland Tillis,Todd C. Young,1
+9437,Thomas Roland Tillis,Mike Rounds,1
+9438,Thomas Roland Tillis,Tom Cotton,1
+9439,Thomas Roland Tillis,Lindsey O. Graham,1
+9441,Thomas Roland Tillis,John Barrasso,1
+9444,Thomas Roland Tillis,Jim Inhofe,1
+9445,Thomas Roland Tillis,John Boozman,1
+9446,Thomas Roland Tillis,Tim Scott,1
+9454,Thomas Roland Tillis,Bob Corker,1
+9455,Thomas Roland Tillis,Richard Craig Shelby,1
+9459,Thomas Roland Tillis,David Alfred Perdue,1
+9462,Thomas Roland Tillis,Cindy Hyde-Smith,1
+9464,James E. Risch,Michael B. Enzi,1
+9468,James E. Risch,Michael D. Crapo,1
+9469,James E. Risch,Jerry Moran,1
+9480,James E. Risch,Deb Fischer,1
+9483,James E. Risch,John Hoeven,1
+9488,James E. Risch,Johnny Isakson,1
+9490,James E. Risch,Jeff Flake,1
+9493,James E. Risch,Mike Lee,1
+9494,James E. Risch,Steve Daines,1
+9495,James E. Risch,Pat Roberts,1
+9499,James E. Risch,Joni Ernst,1
+9501,James E. Risch,Ron Johnson,1
+9509,James E. Risch,Roger F. Wicker,1
+9512,James E. Risch,John Neely Kennedy,1
+9525,James E. Risch,Luther Strange,1
+9529,James E. Risch,James Lankford,1
+9532,James E. Risch,John R. Thune,1
+9534,James E. Risch,Roy Blunt,1
+9541,James E. Risch,Mike Rounds,1
+9542,James E. Risch,Tom Cotton,1
+9545,James E. Risch,John Barrasso,1
+9548,James E. Risch,Jim Inhofe,1
+9549,James E. Risch,John Boozman,1
+9550,James E. Risch,Tim Scott,1
+9559,James E. Risch,Richard Craig Shelby,1
+9560,James E. Risch,Ben Sasse,1
+9563,James E. Risch,David Alfred Perdue,1
+9566,James E. Risch,Cindy Hyde-Smith,1
+9569,Kamala D. Harris,Benjamin L. Cardin,1
+9571,Kamala D. Harris,Al Franken,1
+9575,Kamala D. Harris,Timothy Kaine,1
+9576,Kamala D. Harris,Ron Wyden,1
+9577,Kamala D. Harris,Jeff Merkley,1
+9582,Kamala D. Harris,Tom Udall,1
+9586,Kamala D. Harris,Brian Schatz,1
+9588,Kamala D. Harris,Richard Blumenthal,1
+9589,Kamala D. Harris,Maria Cantwell,1
+9590,Kamala D. Harris,Tammy Baldwin,1
+9591,Kamala D. Harris,Christopher Murphy,1
+9595,Kamala D. Harris,Bob Casey,1
+9600,Kamala D. Harris,Dianne Feinstein,1
+9601,Kamala D. Harris,Martin Heinrich,1
+9602,Kamala D. Harris,Edward J. Markey,1
+9604,Kamala D. Harris,Kirsten E. Gillibrand,1
+9607,Kamala D. Harris,Michael F. Bennet,1
+9608,Kamala D. Harris,Patty Murray,1
+9611,Kamala D. Harris,Margaret Wood Hassan,1
+9612,Kamala D. Harris,Tammy Duckworth,1
+9614,Kamala D. Harris,Mazie K. Hirono,1
+9618,Kamala D. Harris,Sherrod Brown,1
+9620,Kamala D. Harris,Gary C. Peters,1
+9621,Kamala D. Harris,Bernard Sanders,1
+9624,Kamala D. Harris,Thomas R. Carper,1
+9625,Kamala D. Harris,Christopher A. Coons,1
+9627,Kamala D. Harris,Jeanne Shaheen,1
+9634,Kamala D. Harris,Elizabeth A. Warren,1
+9635,Kamala D. Harris,Cory A. Booker,1
+9637,Kamala D. Harris,Robert Menendez,1
+9640,Kamala D. Harris,Richard J. Durbin,1
+9641,Kamala D. Harris,Patrick Joseph Leahy,1
+9644,Kamala D. Harris,Sheldon Whitehouse,1
+9648,Kamala D. Harris,Amy Klobuchar,1
+9650,Kamala D. Harris,Deborah Ann Stabenow,1
+9656,Kamala D. Harris,Charles E. Schumer,1
+9657,Kamala D. Harris,John F. Reed,1
+9661,Kamala D. Harris,Chris Van Hollen,1
+9666,Kamala D. Harris,Catherine Cortez Masto,1
+9668,Kamala D. Harris,Tina Smith,1
+9673,Chris Van Hollen,Benjamin L. Cardin,1
+9675,Chris Van Hollen,Al Franken,1
+9679,Chris Van Hollen,Timothy Kaine,1
+9680,Chris Van Hollen,Ron Wyden,1
+9681,Chris Van Hollen,Jeff Merkley,1
+9683,Chris Van Hollen,Angus King,1
+9686,Chris Van Hollen,Tom Udall,1
+9690,Chris Van Hollen,Brian Schatz,1
+9692,Chris Van Hollen,Richard Blumenthal,1
+9693,Chris Van Hollen,Maria Cantwell,1
+9694,Chris Van Hollen,Tammy Baldwin,1
+9695,Chris Van Hollen,Christopher Murphy,1
+9699,Chris Van Hollen,Bob Casey,1
+9704,Chris Van Hollen,Dianne Feinstein,1
+9705,Chris Van Hollen,Martin Heinrich,1
+9706,Chris Van Hollen,Edward J. Markey,1
+9708,Chris Van Hollen,Kirsten E. Gillibrand,1
+9711,Chris Van Hollen,Michael F. Bennet,1
+9712,Chris Van Hollen,Patty Murray,1
+9715,Chris Van Hollen,Margaret Wood Hassan,1
+9716,Chris Van Hollen,Tammy Duckworth,1
+9718,Chris Van Hollen,Mazie K. Hirono,1
+9719,Chris Van Hollen,Clarence William Nelson,1
+9722,Chris Van Hollen,Sherrod Brown,1
+9724,Chris Van Hollen,Gary C. Peters,1
+9725,Chris Van Hollen,Bernard Sanders,1
+9728,Chris Van Hollen,Thomas R. Carper,1
+9729,Chris Van Hollen,Christopher A. Coons,1
+9731,Chris Van Hollen,Jeanne Shaheen,1
+9738,Chris Van Hollen,Elizabeth A. Warren,1
+9739,Chris Van Hollen,Cory A. Booker,1
+9741,Chris Van Hollen,Robert Menendez,1
+9743,Chris Van Hollen,Mark R. Warner,1
+9744,Chris Van Hollen,Richard J. Durbin,1
+9745,Chris Van Hollen,Patrick Joseph Leahy,1
+9748,Chris Van Hollen,Sheldon Whitehouse,1
+9752,Chris Van Hollen,Amy Klobuchar,1
+9754,Chris Van Hollen,Deborah Ann Stabenow,1
+9760,Chris Van Hollen,Charles E. Schumer,1
+9761,Chris Van Hollen,John F. Reed,1
+9764,Chris Van Hollen,Kamala D. Harris,1
+9770,Chris Van Hollen,Catherine Cortez Masto,1
+9772,Chris Van Hollen,Tina Smith,1
+9778,Bob Corker,Lamar Alexander,1
+9780,Bob Corker,Michael D. Crapo,1
+9781,Bob Corker,Jerry Moran,1
+9795,Bob Corker,John Hoeven,1
+9800,Bob Corker,Johnny Isakson,1
+9801,Bob Corker,Rob Portman,1
+9807,Bob Corker,Pat Roberts,1
+9811,Bob Corker,Joni Ernst,1
+9814,Bob Corker,Marco Rubio,1
+9818,Bob Corker,Richard Burr,1
+9821,Bob Corker,Roger F. Wicker,1
+9824,Bob Corker,John Neely Kennedy,1
+9831,Bob Corker,Pat Toomey,1
+9839,Bob Corker,Dan Sullivan,1
+9840,Bob Corker,Bill Cassidy,1
+9846,Bob Corker,Roy Blunt,1
+9850,Bob Corker,Todd C. Young,1
+9854,Bob Corker,Tom Cotton,1
+9855,Bob Corker,Lindsey O. Graham,1
+9860,Bob Corker,Jim Inhofe,1
+9861,Bob Corker,John Boozman,1
+9862,Bob Corker,Tim Scott,1
+9866,Bob Corker,Thomas Roland Tillis,1
+9871,Bob Corker,Richard Craig Shelby,1
+9872,Bob Corker,Ben Sasse,1
+9873,Bob Corker,Mitch Mcconnell,1
+9875,Bob Corker,David Alfred Perdue,1
+9880,Richard Craig Shelby,Michael B. Enzi,1
+9882,Richard Craig Shelby,Lamar Alexander,1
+9884,Richard Craig Shelby,Michael D. Crapo,1
+9885,Richard Craig Shelby,Jerry Moran,1
+9886,Richard Craig Shelby,Charles Ernest Grassley,1
+9893,Richard Craig Shelby,John Cornyn,1
+9895,Richard Craig Shelby,Shelley Moore Capito,1
+9896,Richard Craig Shelby,Deb Fischer,1
+9899,Richard Craig Shelby,John Hoeven,1
+9904,Richard Craig Shelby,Johnny Isakson,1
+9906,Richard Craig Shelby,Jeff Flake,1
+9909,Richard Craig Shelby,Mike Lee,1
+9910,Richard Craig Shelby,Steve Daines,1
+9911,Richard Craig Shelby,Pat Roberts,1
+9915,Richard Craig Shelby,Joni Ernst,1
+9917,Richard Craig Shelby,Ron Johnson,1
+9921,Richard Craig Shelby,Dean Heller,1
+9925,Richard Craig Shelby,Roger F. Wicker,1
+9928,Richard Craig Shelby,John Neely Kennedy,1
+9929,Richard Craig Shelby,Ted Cruz,1
+9935,Richard Craig Shelby,Pat Toomey,1
+9942,Richard Craig Shelby,Rand Paul,1
+9943,Richard Craig Shelby,Dan Sullivan,1
+9944,Richard Craig Shelby,Bill Cassidy,1
+9945,Richard Craig Shelby,James Lankford,1
+9948,Richard Craig Shelby,John R. Thune,1
+9950,Richard Craig Shelby,Roy Blunt,1
+9954,Richard Craig Shelby,Todd C. Young,1
+9957,Richard Craig Shelby,Mike Rounds,1
+9958,Richard Craig Shelby,Tom Cotton,1
+9959,Richard Craig Shelby,Lindsey O. Graham,1
+9961,Richard Craig Shelby,John Barrasso,1
+9963,Richard Craig Shelby,Thad Cochran,1
+9964,Richard Craig Shelby,Jim Inhofe,1
+9965,Richard Craig Shelby,John Boozman,1
+9966,Richard Craig Shelby,Tim Scott,1
+9970,Richard Craig Shelby,Thomas Roland Tillis,1
+9971,Richard Craig Shelby,James E. Risch,1
+9974,Richard Craig Shelby,Bob Corker,1
+9976,Richard Craig Shelby,Ben Sasse,1
+9977,Richard Craig Shelby,Mitch Mcconnell,1
+9979,Richard Craig Shelby,David Alfred Perdue,1
+9984,Ben Sasse,Michael B. Enzi,1
+9988,Ben Sasse,Michael D. Crapo,1
+9989,Ben Sasse,Jerry Moran,1
+9997,Ben Sasse,John Cornyn,1
+10000,Ben Sasse,Deb Fischer,1
+10003,Ben Sasse,John Hoeven,1
+10010,Ben Sasse,Jeff Flake,1
+10013,Ben Sasse,Mike Lee,1
+10014,Ben Sasse,Steve Daines,1
+10015,Ben Sasse,Pat Roberts,1
+10019,Ben Sasse,Joni Ernst,1
+10021,Ben Sasse,Ron Johnson,1
+10022,Ben Sasse,Marco Rubio,1
+10029,Ben Sasse,Roger F. Wicker,1
+10032,Ben Sasse,John Neely Kennedy,1
+10033,Ben Sasse,Ted Cruz,1
+10039,Ben Sasse,Pat Toomey,1
+10046,Ben Sasse,Rand Paul,1
+10049,Ben Sasse,James Lankford,1
+10054,Ben Sasse,Roy Blunt,1
+10058,Ben Sasse,Todd C. Young,1
+10061,Ben Sasse,Mike Rounds,1
+10062,Ben Sasse,Tom Cotton,1
+10063,Ben Sasse,Lindsey O. Graham,1
+10065,Ben Sasse,John Barrasso,1
+10068,Ben Sasse,Jim Inhofe,1
+10069,Ben Sasse,John Boozman,1
+10070,Ben Sasse,Tim Scott,1
+10075,Ben Sasse,James E. Risch,1
+10078,Ben Sasse,Bob Corker,1
+10079,Ben Sasse,Richard Craig Shelby,1
+10081,Ben Sasse,Mitch Mcconnell,1
+10083,Ben Sasse,David Alfred Perdue,1
+10086,Ben Sasse,Cindy Hyde-Smith,1
+10088,Mitch Mcconnell,Michael B. Enzi,1
+10090,Mitch Mcconnell,Lamar Alexander,1
+10101,Mitch Mcconnell,John Cornyn,1
+10105,Mitch Mcconnell,Orrin Grant Hatch,1
+10112,Mitch Mcconnell,Johnny Isakson,1
+10119,Mitch Mcconnell,Pat Roberts,1
+10125,Mitch Mcconnell,Ron Johnson,1
+10167,Mitch Mcconnell,Lindsey O. Graham,1
+10169,Mitch Mcconnell,John Barrasso,1
+10172,Mitch Mcconnell,Jim Inhofe,1
+10174,Mitch Mcconnell,Tim Scott,1
+10176,Mitch Mcconnell,Charles E. Schumer,1
+10182,Mitch Mcconnell,Bob Corker,1
+10183,Mitch Mcconnell,Richard Craig Shelby,1
+10184,Mitch Mcconnell,Ben Sasse,1
+10187,Mitch Mcconnell,David Alfred Perdue,1
+10193,Catherine Cortez Masto,Benjamin L. Cardin,1
+10199,Catherine Cortez Masto,Timothy Kaine,1
+10200,Catherine Cortez Masto,Ron Wyden,1
+10201,Catherine Cortez Masto,Jeff Merkley,1
+10206,Catherine Cortez Masto,Tom Udall,1
+10210,Catherine Cortez Masto,Brian Schatz,1
+10212,Catherine Cortez Masto,Richard Blumenthal,1
+10213,Catherine Cortez Masto,Maria Cantwell,1
+10214,Catherine Cortez Masto,Tammy Baldwin,1
+10215,Catherine Cortez Masto,Christopher Murphy,1
+10219,Catherine Cortez Masto,Bob Casey,1
+10224,Catherine Cortez Masto,Dianne Feinstein,1
+10225,Catherine Cortez Masto,Martin Heinrich,1
+10226,Catherine Cortez Masto,Edward J. Markey,1
+10228,Catherine Cortez Masto,Kirsten E. Gillibrand,1
+10231,Catherine Cortez Masto,Michael F. Bennet,1
+10232,Catherine Cortez Masto,Patty Murray,1
+10235,Catherine Cortez Masto,Margaret Wood Hassan,1
+10236,Catherine Cortez Masto,Tammy Duckworth,1
+10238,Catherine Cortez Masto,Mazie K. Hirono,1
+10239,Catherine Cortez Masto,Clarence William Nelson,1
+10242,Catherine Cortez Masto,Sherrod Brown,1
+10244,Catherine Cortez Masto,Gary C. Peters,1
+10245,Catherine Cortez Masto,Bernard Sanders,1
+10248,Catherine Cortez Masto,Thomas R. Carper,1
+10249,Catherine Cortez Masto,Christopher A. Coons,1
+10251,Catherine Cortez Masto,Jeanne Shaheen,1
+10252,Catherine Cortez Masto,Heidi Heitkamp,1
+10258,Catherine Cortez Masto,Elizabeth A. Warren,1
+10259,Catherine Cortez Masto,Cory A. Booker,1
+10261,Catherine Cortez Masto,Robert Menendez,1
+10263,Catherine Cortez Masto,Mark R. Warner,1
+10264,Catherine Cortez Masto,Richard J. Durbin,1
+10265,Catherine Cortez Masto,Patrick Joseph Leahy,1
+10268,Catherine Cortez Masto,Sheldon Whitehouse,1
+10272,Catherine Cortez Masto,Amy Klobuchar,1
+10274,Catherine Cortez Masto,Deborah Ann Stabenow,1
+10280,Catherine Cortez Masto,Charles E. Schumer,1
+10281,Catherine Cortez Masto,John F. Reed,1
+10284,Catherine Cortez Masto,Kamala D. Harris,1
+10285,Catherine Cortez Masto,Chris Van Hollen,1
+10292,Catherine Cortez Masto,Tina Smith,1
+10293,Catherine Cortez Masto,Doug Jones,1
+10296,David Alfred Perdue,Michael B. Enzi,1
+10301,David Alfred Perdue,Jerry Moran,1
+10309,David Alfred Perdue,John Cornyn,1
+10320,David Alfred Perdue,Johnny Isakson,1
+10325,David Alfred Perdue,Mike Lee,1
+10326,David Alfred Perdue,Steve Daines,1
+10327,David Alfred Perdue,Pat Roberts,1
+10331,David Alfred Perdue,Joni Ernst,1
+10333,David Alfred Perdue,Ron Johnson,1
+10334,David Alfred Perdue,Marco Rubio,1
+10341,David Alfred Perdue,Roger F. Wicker,1
+10344,David Alfred Perdue,John Neely Kennedy,1
+10345,David Alfred Perdue,Ted Cruz,1
+10351,David Alfred Perdue,Pat Toomey,1
+10357,David Alfred Perdue,Luther Strange,1
+10361,David Alfred Perdue,James Lankford,1
+10370,David Alfred Perdue,Todd C. Young,1
+10373,David Alfred Perdue,Mike Rounds,1
+10374,David Alfred Perdue,Tom Cotton,1
+10375,David Alfred Perdue,Lindsey O. Graham,1
+10377,David Alfred Perdue,John Barrasso,1
+10380,David Alfred Perdue,Jim Inhofe,1
+10381,David Alfred Perdue,John Boozman,1
+10382,David Alfred Perdue,Tim Scott,1
+10386,David Alfred Perdue,Thomas Roland Tillis,1
+10387,David Alfred Perdue,James E. Risch,1
+10390,David Alfred Perdue,Bob Corker,1
+10391,David Alfred Perdue,Richard Craig Shelby,1
+10392,David Alfred Perdue,Ben Sasse,1
+10393,David Alfred Perdue,Mitch Mcconnell,1
+10398,David Alfred Perdue,Cindy Hyde-Smith,1
+10401,Tina Smith,Benjamin L. Cardin,1
+10407,Tina Smith,Timothy Kaine,1
+10408,Tina Smith,Ron Wyden,1
+10409,Tina Smith,Jeff Merkley,1
+10414,Tina Smith,Tom Udall,1
+10420,Tina Smith,Richard Blumenthal,1
+10421,Tina Smith,Maria Cantwell,1
+10422,Tina Smith,Tammy Baldwin,1
+10423,Tina Smith,Christopher Murphy,1
+10427,Tina Smith,Bob Casey,1
+10432,Tina Smith,Dianne Feinstein,1
+10433,Tina Smith,Martin Heinrich,1
+10434,Tina Smith,Edward J. Markey,1
+10436,Tina Smith,Kirsten E. Gillibrand,1
+10439,Tina Smith,Michael F. Bennet,1
+10440,Tina Smith,Patty Murray,1
+10443,Tina Smith,Margaret Wood Hassan,1
+10444,Tina Smith,Tammy Duckworth,1
+10446,Tina Smith,Mazie K. Hirono,1
+10450,Tina Smith,Sherrod Brown,1
+10453,Tina Smith,Bernard Sanders,1
+10456,Tina Smith,Thomas R. Carper,1
+10460,Tina Smith,Heidi Heitkamp,1
+10466,Tina Smith,Elizabeth A. Warren,1
+10467,Tina Smith,Cory A. Booker,1
+10472,Tina Smith,Richard J. Durbin,1
+10473,Tina Smith,Patrick Joseph Leahy,1
+10476,Tina Smith,Sheldon Whitehouse,1
+10480,Tina Smith,Amy Klobuchar,1
+10482,Tina Smith,Deborah Ann Stabenow,1
+10488,Tina Smith,Charles E. Schumer,1
+10489,Tina Smith,John F. Reed,1
+10492,Tina Smith,Kamala D. Harris,1
+10493,Tina Smith,Chris Van Hollen,1
+10498,Tina Smith,Catherine Cortez Masto,1
+10501,Tina Smith,Doug Jones,1
+10564,Doug Jones,Heidi Heitkamp,1
+10579,Doug Jones,Joe Donnelly,1
+10602,Doug Jones,Catherine Cortez Masto,1
+10604,Doug Jones,Tina Smith,1
+10608,Cindy Hyde-Smith,Michael B. Enzi,1
+10612,Cindy Hyde-Smith,Michael D. Crapo,1
+10613,Cindy Hyde-Smith,Jerry Moran,1
+10614,Cindy Hyde-Smith,Charles Ernest Grassley,1
+10623,Cindy Hyde-Smith,Shelley Moore Capito,1
+10624,Cindy Hyde-Smith,Deb Fischer,1
+10627,Cindy Hyde-Smith,John Hoeven,1
+10632,Cindy Hyde-Smith,Johnny Isakson,1
+10638,Cindy Hyde-Smith,Steve Daines,1
+10639,Cindy Hyde-Smith,Pat Roberts,1
+10643,Cindy Hyde-Smith,Joni Ernst,1
+10646,Cindy Hyde-Smith,Marco Rubio,1
+10653,Cindy Hyde-Smith,Roger F. Wicker,1
+10656,Cindy Hyde-Smith,John Neely Kennedy,1
+10678,Cindy Hyde-Smith,Roy Blunt,1
+10682,Cindy Hyde-Smith,Todd C. Young,1
+10685,Cindy Hyde-Smith,Mike Rounds,1
+10686,Cindy Hyde-Smith,Tom Cotton,1
+10689,Cindy Hyde-Smith,John Barrasso,1
+10692,Cindy Hyde-Smith,Jim Inhofe,1
+10693,Cindy Hyde-Smith,John Boozman,1
+10694,Cindy Hyde-Smith,Tim Scott,1
+10698,Cindy Hyde-Smith,Thomas Roland Tillis,1
+10699,Cindy Hyde-Smith,James E. Risch,1
+10704,Cindy Hyde-Smith,Ben Sasse,1
+10707,Cindy Hyde-Smith,David Alfred Perdue,1

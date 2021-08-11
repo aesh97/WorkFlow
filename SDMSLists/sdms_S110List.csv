@@ -1,0 +1,1971 @@
+,From,To,edge
+2,Mel Martinez,A. Wayne Allard,1
+6,Mel Martinez,George F. Allen,1
+8,Mel Martinez,Jon Llewellyn Kyl,1
+10,Mel Martinez,Rick Santorum,1
+17,Mel Martinez,James W. Demint,1
+22,Mel Martinez,Norm Coleman,1
+28,Mel Martinez,Jim Bunning,1
+32,Mel Martinez,Lamar Alexander,1
+43,Mel Martinez,Chester Trent Lott,1
+45,Mel Martinez,Clarence William Nelson,1
+48,Mel Martinez,Thad Cochran,1
+49,Mel Martinez,John R. Thune,1
+51,Mel Martinez,Elizabeth H. Dole,1
+54,Mel Martinez,Kay Bailey Hutchison,1
+55,Mel Martinez,David Vitter,1
+56,Mel Martinez,John Cornyn,1
+58,Mel Martinez,Richard Craig Shelby,1
+65,Mel Martinez,Saxby Chambliss,1
+74,Mel Martinez,Johnny Isakson,1
+76,Mel Martinez,Sam Brownback,1
+81,Mel Martinez,Conrad R. Burns,1
+82,Mel Martinez,Chuck Hagel,1
+89,Mel Martinez,E. Benjamin Nelson,1
+91,Mel Martinez,Tom Coburn,1
+92,Mel Martinez,John Ensign,1
+93,Mel Martinez,Jeff Sessions,1
+98,Mel Martinez,Mitch Mcconnell,1
+99,Mel Martinez,Richard Burr,1
+110,Pete Vichi Domenici,Jesse Francis Bingaman,1
+127,Pete Vichi Domenici,Pat Roberts,1
+133,Pete Vichi Domenici,Lamar Alexander,1
+143,Pete Vichi Domenici,Theodore F. Stevens,1
+149,Pete Vichi Domenici,Thad Cochran,1
+155,Pete Vichi Domenici,Kay Bailey Hutchison,1
+163,Pete Vichi Domenici,Lisa Murkowski,1
+169,Pete Vichi Domenici,Larry Edwin Craig,1
+171,Pete Vichi Domenici,Robert F. Bennett,1
+182,Pete Vichi Domenici,Conrad R. Burns,1
+183,Pete Vichi Domenici,Chuck Hagel,1
+190,Pete Vichi Domenici,E. Benjamin Nelson,1
+202,A. Wayne Allard,Mel Martinez,1
+210,A. Wayne Allard,Jon Llewellyn Kyl,1
+213,A. Wayne Allard,Michael D. Crapo,1
+228,A. Wayne Allard,Pat Roberts,1
+230,A. Wayne Allard,Jim Bunning,1
+236,A. Wayne Allard,Ken Salazar,1
+251,A. Wayne Allard,John R. Thune,1
+253,A. Wayne Allard,Elizabeth H. Dole,1
+257,A. Wayne Allard,David Vitter,1
+260,A. Wayne Allard,Richard Craig Shelby,1
+267,A. Wayne Allard,Saxby Chambliss,1
+270,A. Wayne Allard,Larry Edwin Craig,1
+283,A. Wayne Allard,Conrad R. Burns,1
+293,A. Wayne Allard,Tom Coburn,1
+294,A. Wayne Allard,John Ensign,1
+295,A. Wayne Allard,Jeff Sessions,1
+299,A. Wayne Allard,Craig Thomas,1
+300,A. Wayne Allard,Mitch Mcconnell,1
+317,Ron Wyden,Edward Moore Kennedy,1
+318,Ron Wyden,Dianne Feinstein,1
+322,Ron Wyden,Paul Spyros Sarbanes,1
+326,Ron Wyden,Gordon H. Smith,1
+327,Ron Wyden,Christopher John Dodd,1
+332,Ron Wyden,John F. Reed,1
+333,Ron Wyden,Maria Cantwell,1
+334,Ron Wyden,Barbara Boxer,1
+349,Ron Wyden,Carl Milton Levin,1
+350,Ron Wyden,Patty Murray,1
+356,Ron Wyden,Tim Johnson,1
+366,Ron Wyden,Joseph I. Lieberman,1
+367,Ron Wyden,Russell D. Feingold,1
+370,Ron Wyden,Deborah Ann Stabenow,1
+374,Ron Wyden,John Forbes Kerry,1
+376,Ron Wyden,Barbara Ann Mikulski,1
+383,Ron Wyden,Joseph Robinette Biden,1
+388,Ron Wyden,Mark Dayton,1
+393,Ron Wyden,Patrick Joseph Leahy,1
+397,Ron Wyden,Evan Bayh,1
+412,Charles Ernest Grassley,Jon Llewellyn Kyl,1
+425,Charles Ernest Grassley,Jim Talent,1
+430,Charles Ernest Grassley,Pat Roberts,1
+440,Charles Ernest Grassley,Orrin Grant Hatch,1
+452,Charles Ernest Grassley,Thad Cochran,1
+453,Charles Ernest Grassley,John R. Thune,1
+460,Charles Ernest Grassley,John Cornyn,1
+464,Charles Ernest Grassley,Max Sieben Baucus,1
+470,Charles Ernest Grassley,Lindsey O. Graham,1
+486,Charles Ernest Grassley,Chuck Hagel,1
+493,Charles Ernest Grassley,E. Benjamin Nelson,1
+501,Charles Ernest Grassley,Craig Thomas,1
+513,John Sidney Mccain,Jon Llewellyn Kyl,1
+543,John Sidney Mccain,John E. Sununu,1
+606,George F. Allen,Mel Martinez,1
+614,George F. Allen,Jon Llewellyn Kyl,1
+616,George F. Allen,Rick Santorum,1
+623,George F. Allen,James W. Demint,1
+627,George F. Allen,Jim Talent,1
+634,George F. Allen,Jim Bunning,1
+638,George F. Allen,Lamar Alexander,1
+639,George F. Allen,Jim Inhofe,1
+643,George F. Allen,John William Warner,1
+644,George F. Allen,John E. Sununu,1
+649,George F. Allen,Chester Trent Lott,1
+654,George F. Allen,Thad Cochran,1
+655,George F. Allen,John R. Thune,1
+657,George F. Allen,Elizabeth H. Dole,1
+661,George F. Allen,David Vitter,1
+662,George F. Allen,John Cornyn,1
+671,George F. Allen,Saxby Chambliss,1
+672,George F. Allen,Lindsey O. Graham,1
+674,George F. Allen,Larry Edwin Craig,1
+680,George F. Allen,Johnny Isakson,1
+687,George F. Allen,Conrad R. Burns,1
+697,George F. Allen,Tom Coburn,1
+698,George F. Allen,John Ensign,1
+703,George F. Allen,Craig Thomas,1
+704,George F. Allen,Mitch Mcconnell,1
+705,George F. Allen,Richard Burr,1
+787,Richard Green Lugar,Joseph Robinette Biden,1
+789,Richard Green Lugar,Chuck Hagel,1
+801,Richard Green Lugar,Evan Bayh,1
+808,Jon Llewellyn Kyl,Mel Martinez,1
+810,Jon Llewellyn Kyl,A. Wayne Allard,1
+812,Jon Llewellyn Kyl,Charles Ernest Grassley,1
+813,Jon Llewellyn Kyl,John Sidney Mccain,1
+814,Jon Llewellyn Kyl,George F. Allen,1
+819,Jon Llewellyn Kyl,Michael D. Crapo,1
+825,Jon Llewellyn Kyl,James W. Demint,1
+836,Jon Llewellyn Kyl,Jim Bunning,1
+844,Jon Llewellyn Kyl,Orrin Grant Hatch,1
+851,Jon Llewellyn Kyl,Chester Trent Lott,1
+859,Jon Llewellyn Kyl,Elizabeth H. Dole,1
+864,Jon Llewellyn Kyl,John Cornyn,1
+866,Jon Llewellyn Kyl,Richard Craig Shelby,1
+873,Jon Llewellyn Kyl,Saxby Chambliss,1
+874,Jon Llewellyn Kyl,Lindsey O. Graham,1
+884,Jon Llewellyn Kyl,Sam Brownback,1
+899,Jon Llewellyn Kyl,Tom Coburn,1
+900,Jon Llewellyn Kyl,John Ensign,1
+901,Jon Llewellyn Kyl,Jeff Sessions,1
+905,Jon Llewellyn Kyl,Craig Thomas,1
+906,Jon Llewellyn Kyl,Mitch Mcconnell,1
+910,Jesse Francis Bingaman,Pete Vichi Domenici,1
+923,Jesse Francis Bingaman,Edward Moore Kennedy,1
+929,Jesse Francis Bingaman,Richard J. Durbin,1
+933,Jesse Francis Bingaman,Christopher John Dodd,1
+934,Jesse Francis Bingaman,Hillary R Clinton,1
+938,Jesse Francis Bingaman,John F. Reed,1
+939,Jesse Francis Bingaman,Maria Cantwell,1
+940,Jesse Francis Bingaman,Barbara Boxer,1
+943,Jesse Francis Bingaman,Ken Salazar,1
+950,Jesse Francis Bingaman,Blanche Lambert Lincoln,1
+954,Jesse Francis Bingaman,Clarence William Nelson,1
+956,Jesse Francis Bingaman,Patty Murray,1
+961,Jesse Francis Bingaman,Thomas Richard Harkin,1
+962,Jesse Francis Bingaman,Tim Johnson,1
+970,Jesse Francis Bingaman,Kent Conrad,1
+972,Jesse Francis Bingaman,Joseph I. Lieberman,1
+976,Jesse Francis Bingaman,Deborah Ann Stabenow,1
+980,Jesse Francis Bingaman,John Forbes Kerry,1
+982,Jesse Francis Bingaman,Barbara Ann Mikulski,1
+994,Jesse Francis Bingaman,Mark Dayton,1
+996,Jesse Francis Bingaman,Herbert H. Kohl,1
+1003,Jesse Francis Bingaman,Evan Bayh,1
+1004,Jesse Francis Bingaman,Mark Lunsford Pryor,1
+1005,Jesse Francis Bingaman,Byron Leslie Dorgan,1
+1010,Rick Santorum,Mel Martinez,1
+1016,Rick Santorum,George F. Allen,1
+1031,Rick Santorum,Jim Talent,1
+1038,Rick Santorum,Jim Bunning,1
+1058,Rick Santorum,Thad Cochran,1
+1061,Rick Santorum,Elizabeth H. Dole,1
+1086,Rick Santorum,Sam Brownback,1
+1101,Rick Santorum,Tom Coburn,1
+1108,Rick Santorum,Mitch Mcconnell,1
+1113,Michael D. Crapo,A. Wayne Allard,1
+1119,Michael D. Crapo,Jon Llewellyn Kyl,1
+1123,Michael D. Crapo,Michael B. Enzi,1
+1128,Michael D. Crapo,James W. Demint,1
+1139,Michael D. Crapo,Jim Bunning,1
+1144,Michael D. Crapo,Jim Inhofe,1
+1160,Michael D. Crapo,John R. Thune,1
+1179,Michael D. Crapo,Larry Edwin Craig,1
+1192,Michael D. Crapo,Conrad R. Burns,1
+1208,Michael D. Crapo,Craig Thomas,1
+1223,Michael B. Enzi,Michael D. Crapo,1
+1238,Michael B. Enzi,Pat Roberts,1
+1240,Michael B. Enzi,Jim Bunning,1
+1261,Michael B. Enzi,John R. Thune,1
+1280,Michael B. Enzi,Larry Edwin Craig,1
+1286,Michael B. Enzi,Johnny Isakson,1
+1293,Michael B. Enzi,Conrad R. Burns,1
+1305,Michael B. Enzi,Jeff Sessions,1
+1309,Michael B. Enzi,Craig Thomas,1
+1311,Michael B. Enzi,Richard Burr,1
+1327,James Merrill Jeffords,Edward Moore Kennedy,1
+1329,James Merrill Jeffords,Olympia J. Snowe,1
+1331,James Merrill Jeffords,Lincoln D. Chafee,1
+1332,James Merrill Jeffords,Paul Spyros Sarbanes,1
+1333,James Merrill Jeffords,Richard J. Durbin,1
+1337,James Merrill Jeffords,Christopher John Dodd,1
+1338,James Merrill Jeffords,Hillary R Clinton,1
+1342,James Merrill Jeffords,John F. Reed,1
+1343,James Merrill Jeffords,Maria Cantwell,1
+1344,James Merrill Jeffords,Barbara Boxer,1
+1352,James Merrill Jeffords,Charles E. Schumer,1
+1354,James Merrill Jeffords,Blanche Lambert Lincoln,1
+1360,James Merrill Jeffords,Patty Murray,1
+1365,James Merrill Jeffords,Thomas Richard Harkin,1
+1366,James Merrill Jeffords,Tim Johnson,1
+1370,James Merrill Jeffords,Jon S. Corzine,1
+1376,James Merrill Jeffords,Joseph I. Lieberman,1
+1380,James Merrill Jeffords,Deborah Ann Stabenow,1
+1384,James Merrill Jeffords,John Forbes Kerry,1
+1386,James Merrill Jeffords,Barbara Ann Mikulski,1
+1388,James Merrill Jeffords,Susan Margaret Collins,1
+1398,James Merrill Jeffords,Mark Dayton,1
+1399,James Merrill Jeffords,Frank R. Lautenberg,1
+1403,James Merrill Jeffords,Patrick Joseph Leahy,1
+1408,James Merrill Jeffords,Mark Lunsford Pryor,1
+1417,Edward Moore Kennedy,Ron Wyden,1
+1423,Edward Moore Kennedy,Jesse Francis Bingaman,1
+1427,Edward Moore Kennedy,James Merrill Jeffords,1
+1433,Edward Moore Kennedy,Paul Spyros Sarbanes,1
+1434,Edward Moore Kennedy,Richard J. Durbin,1
+1438,Edward Moore Kennedy,Christopher John Dodd,1
+1439,Edward Moore Kennedy,Hillary R Clinton,1
+1443,Edward Moore Kennedy,John F. Reed,1
+1444,Edward Moore Kennedy,Maria Cantwell,1
+1445,Edward Moore Kennedy,Barbara Boxer,1
+1449,Edward Moore Kennedy,Daniel Kohikina Akaka,1
+1453,Edward Moore Kennedy,Charles E. Schumer,1
+1460,Edward Moore Kennedy,Carl Milton Levin,1
+1461,Edward Moore Kennedy,Patty Murray,1
+1466,Edward Moore Kennedy,Thomas Richard Harkin,1
+1467,Edward Moore Kennedy,Tim Johnson,1
+1471,Edward Moore Kennedy,Jon S. Corzine,1
+1477,Edward Moore Kennedy,Joseph I. Lieberman,1
+1478,Edward Moore Kennedy,Russell D. Feingold,1
+1481,Edward Moore Kennedy,Deborah Ann Stabenow,1
+1485,Edward Moore Kennedy,John Forbes Kerry,1
+1487,Edward Moore Kennedy,Barbara Ann Mikulski,1
+1493,Edward Moore Kennedy,Barack Obama,1
+1499,Edward Moore Kennedy,Mark Dayton,1
+1500,Edward Moore Kennedy,Frank R. Lautenberg,1
+1501,Edward Moore Kennedy,Herbert H. Kohl,1
+1504,Edward Moore Kennedy,Patrick Joseph Leahy,1
+1518,Dianne Feinstein,Ron Wyden,1
+1535,Dianne Feinstein,Richard J. Durbin,1
+1539,Dianne Feinstein,Christopher John Dodd,1
+1540,Dianne Feinstein,Hillary R Clinton,1
+1544,Dianne Feinstein,John F. Reed,1
+1545,Dianne Feinstein,Maria Cantwell,1
+1546,Dianne Feinstein,Barbara Boxer,1
+1549,Dianne Feinstein,Ken Salazar,1
+1554,Dianne Feinstein,Charles E. Schumer,1
+1561,Dianne Feinstein,Carl Milton Levin,1
+1562,Dianne Feinstein,Patty Murray,1
+1578,Dianne Feinstein,Joseph I. Lieberman,1
+1579,Dianne Feinstein,Russell D. Feingold,1
+1582,Dianne Feinstein,Deborah Ann Stabenow,1
+1586,Dianne Feinstein,John Forbes Kerry,1
+1588,Dianne Feinstein,Barbara Ann Mikulski,1
+1601,Dianne Feinstein,Frank R. Lautenberg,1
+1602,Dianne Feinstein,Herbert H. Kohl,1
+1605,Dianne Feinstein,Patrick Joseph Leahy,1
+1609,Dianne Feinstein,Evan Bayh,1
+1629,Olympia J. Snowe,James Merrill Jeffords,1
+1634,Olympia J. Snowe,Lincoln D. Chafee,1
+1645,Olympia J. Snowe,John F. Reed,1
+1646,Olympia J. Snowe,Maria Cantwell,1
+1657,Olympia J. Snowe,Blanche Lambert Lincoln,1
+1679,Olympia J. Snowe,Joseph I. Lieberman,1
+1687,Olympia J. Snowe,John Forbes Kerry,1
+1691,Olympia J. Snowe,Susan Margaret Collins,1
+1711,Olympia J. Snowe,Mark Lunsford Pryor,1
+1717,James W. Demint,Mel Martinez,1
+1723,James W. Demint,George F. Allen,1
+1725,James W. Demint,Jon Llewellyn Kyl,1
+1728,James W. Demint,Michael D. Crapo,1
+1745,James W. Demint,Jim Bunning,1
+1750,James W. Demint,Jim Inhofe,1
+1766,James W. Demint,John R. Thune,1
+1772,James W. Demint,David Vitter,1
+1783,James W. Demint,Lindsey O. Graham,1
+1791,James W. Demint,Johnny Isakson,1
+1808,James W. Demint,Tom Coburn,1
+1809,James W. Demint,John Ensign,1
+1810,James W. Demint,Jeff Sessions,1
+1815,James W. Demint,Mitch Mcconnell,1
+1816,James W. Demint,Richard Burr,1
+1831,Lincoln D. Chafee,James Merrill Jeffords,1
+1834,Lincoln D. Chafee,Olympia J. Snowe,1
+1842,Lincoln D. Chafee,Christopher John Dodd,1
+1847,Lincoln D. Chafee,John F. Reed,1
+1848,Lincoln D. Chafee,Maria Cantwell,1
+1856,Lincoln D. Chafee,John E. Sununu,1
+1865,Lincoln D. Chafee,Patty Murray,1
+1881,Lincoln D. Chafee,Joseph I. Lieberman,1
+1889,Lincoln D. Chafee,John Forbes Kerry,1
+1893,Lincoln D. Chafee,Susan Margaret Collins,1
+1922,Paul Spyros Sarbanes,Ron Wyden,1
+1932,Paul Spyros Sarbanes,James Merrill Jeffords,1
+1933,Paul Spyros Sarbanes,Edward Moore Kennedy,1
+1939,Paul Spyros Sarbanes,Richard J. Durbin,1
+1943,Paul Spyros Sarbanes,Christopher John Dodd,1
+1944,Paul Spyros Sarbanes,Hillary R Clinton,1
+1946,Paul Spyros Sarbanes,Mary Landrieu,1
+1948,Paul Spyros Sarbanes,John F. Reed,1
+1949,Paul Spyros Sarbanes,Maria Cantwell,1
+1950,Paul Spyros Sarbanes,Barbara Boxer,1
+1954,Paul Spyros Sarbanes,Daniel Kohikina Akaka,1
+1958,Paul Spyros Sarbanes,Charles E. Schumer,1
+1965,Paul Spyros Sarbanes,Carl Milton Levin,1
+1966,Paul Spyros Sarbanes,Patty Murray,1
+1971,Paul Spyros Sarbanes,Thomas Richard Harkin,1
+1972,Paul Spyros Sarbanes,Tim Johnson,1
+1976,Paul Spyros Sarbanes,Jon S. Corzine,1
+1982,Paul Spyros Sarbanes,Joseph I. Lieberman,1
+1986,Paul Spyros Sarbanes,Deborah Ann Stabenow,1
+1990,Paul Spyros Sarbanes,John Forbes Kerry,1
+1992,Paul Spyros Sarbanes,Barbara Ann Mikulski,1
+1996,Paul Spyros Sarbanes,Daniel Ken Inouye,1
+1999,Paul Spyros Sarbanes,Joseph Robinette Biden,1
+2004,Paul Spyros Sarbanes,Mark Dayton,1
+2005,Paul Spyros Sarbanes,Frank R. Lautenberg,1
+2006,Paul Spyros Sarbanes,Herbert H. Kohl,1
+2009,Paul Spyros Sarbanes,Patrick Joseph Leahy,1
+2013,Paul Spyros Sarbanes,Evan Bayh,1
+2029,Richard J. Durbin,Jesse Francis Bingaman,1
+2033,Richard J. Durbin,James Merrill Jeffords,1
+2034,Richard J. Durbin,Edward Moore Kennedy,1
+2035,Richard J. Durbin,Dianne Feinstein,1
+2039,Richard J. Durbin,Paul Spyros Sarbanes,1
+2044,Richard J. Durbin,Christopher John Dodd,1
+2045,Richard J. Durbin,Hillary R Clinton,1
+2047,Richard J. Durbin,Mary Landrieu,1
+2049,Richard J. Durbin,John F. Reed,1
+2050,Richard J. Durbin,Maria Cantwell,1
+2051,Richard J. Durbin,Barbara Boxer,1
+2054,Richard J. Durbin,Ken Salazar,1
+2055,Richard J. Durbin,Daniel Kohikina Akaka,1
+2059,Richard J. Durbin,Charles E. Schumer,1
+2066,Richard J. Durbin,Carl Milton Levin,1
+2067,Richard J. Durbin,Patty Murray,1
+2072,Richard J. Durbin,Thomas Richard Harkin,1
+2073,Richard J. Durbin,Tim Johnson,1
+2077,Richard J. Durbin,Jon S. Corzine,1
+2083,Richard J. Durbin,Joseph I. Lieberman,1
+2084,Richard J. Durbin,Russell D. Feingold,1
+2087,Richard J. Durbin,Deborah Ann Stabenow,1
+2091,Richard J. Durbin,John Forbes Kerry,1
+2093,Richard J. Durbin,Barbara Ann Mikulski,1
+2099,Richard J. Durbin,Barack Obama,1
+2100,Richard J. Durbin,Joseph Robinette Biden,1
+2105,Richard J. Durbin,Mark Dayton,1
+2106,Richard J. Durbin,Frank R. Lautenberg,1
+2107,Richard J. Durbin,Herbert H. Kohl,1
+2110,Richard J. Durbin,Patrick Joseph Leahy,1
+2114,Richard J. Durbin,Evan Bayh,1
+2115,Richard J. Durbin,Mark Lunsford Pryor,1
+2125,Jim Talent,Charles Ernest Grassley,1
+2127,Jim Talent,George F. Allen,1
+2131,Jim Talent,Rick Santorum,1
+2143,Jim Talent,Norm Coleman,1
+2147,Jim Talent,Pat Roberts,1
+2149,Jim Talent,Jim Bunning,1
+2153,Jim Talent,Lamar Alexander,1
+2169,Jim Talent,Thad Cochran,1
+2170,Jim Talent,John R. Thune,1
+2172,Jim Talent,Elizabeth H. Dole,1
+2175,Jim Talent,Kay Bailey Hutchison,1
+2176,Jim Talent,David Vitter,1
+2195,Jim Talent,Johnny Isakson,1
+2202,Jim Talent,Conrad R. Burns,1
+2203,Jim Talent,Chuck Hagel,1
+2209,Jim Talent,Christopher S. Bond,1
+2210,Jim Talent,E. Benjamin Nelson,1
+2216,Jim Talent,Mark Lunsford Pryor,1
+2219,Jim Talent,Mitch Mcconnell,1
+2222,Norm Coleman,Mel Martinez,1
+2243,Norm Coleman,Jim Talent,1
+2263,Norm Coleman,Blanche Lambert Lincoln,1
+2267,Norm Coleman,Clarence William Nelson,1
+2270,Norm Coleman,Thad Cochran,1
+2272,Norm Coleman,George V. Voinovich,1
+2275,Norm Coleman,Tim Johnson,1
+2297,Norm Coleman,Susan Margaret Collins,1
+2304,Norm Coleman,Chuck Hagel,1
+2306,Norm Coleman,Michael Dewine,1
+2307,Norm Coleman,Mark Dayton,1
+2311,Norm Coleman,E. Benjamin Nelson,1
+2316,Norm Coleman,Evan Bayh,1
+2317,Norm Coleman,Mark Lunsford Pryor,1
+2326,Gordon H. Smith,Ron Wyden,1
+2368,Gordon H. Smith,Clarence William Nelson,1
+2427,Christopher John Dodd,Ron Wyden,1
+2433,Christopher John Dodd,Jesse Francis Bingaman,1
+2437,Christopher John Dodd,James Merrill Jeffords,1
+2438,Christopher John Dodd,Edward Moore Kennedy,1
+2439,Christopher John Dodd,Dianne Feinstein,1
+2442,Christopher John Dodd,Lincoln D. Chafee,1
+2443,Christopher John Dodd,Paul Spyros Sarbanes,1
+2444,Christopher John Dodd,Richard J. Durbin,1
+2449,Christopher John Dodd,Hillary R Clinton,1
+2451,Christopher John Dodd,Mary Landrieu,1
+2453,Christopher John Dodd,John F. Reed,1
+2454,Christopher John Dodd,Maria Cantwell,1
+2455,Christopher John Dodd,Barbara Boxer,1
+2459,Christopher John Dodd,Daniel Kohikina Akaka,1
+2463,Christopher John Dodd,Charles E. Schumer,1
+2470,Christopher John Dodd,Carl Milton Levin,1
+2471,Christopher John Dodd,Patty Murray,1
+2476,Christopher John Dodd,Thomas Richard Harkin,1
+2477,Christopher John Dodd,Tim Johnson,1
+2481,Christopher John Dodd,Jon S. Corzine,1
+2487,Christopher John Dodd,Joseph I. Lieberman,1
+2488,Christopher John Dodd,Russell D. Feingold,1
+2491,Christopher John Dodd,Deborah Ann Stabenow,1
+2495,Christopher John Dodd,John Forbes Kerry,1
+2497,Christopher John Dodd,Barbara Ann Mikulski,1
+2499,Christopher John Dodd,Susan Margaret Collins,1
+2503,Christopher John Dodd,Barack Obama,1
+2504,Christopher John Dodd,Joseph Robinette Biden,1
+2509,Christopher John Dodd,Mark Dayton,1
+2510,Christopher John Dodd,Frank R. Lautenberg,1
+2511,Christopher John Dodd,Herbert H. Kohl,1
+2514,Christopher John Dodd,Patrick Joseph Leahy,1
+2518,Christopher John Dodd,Evan Bayh,1
+2534,Hillary R Clinton,Jesse Francis Bingaman,1
+2538,Hillary R Clinton,James Merrill Jeffords,1
+2539,Hillary R Clinton,Edward Moore Kennedy,1
+2540,Hillary R Clinton,Dianne Feinstein,1
+2544,Hillary R Clinton,Paul Spyros Sarbanes,1
+2545,Hillary R Clinton,Richard J. Durbin,1
+2549,Hillary R Clinton,Christopher John Dodd,1
+2552,Hillary R Clinton,Mary Landrieu,1
+2554,Hillary R Clinton,John F. Reed,1
+2555,Hillary R Clinton,Maria Cantwell,1
+2556,Hillary R Clinton,Barbara Boxer,1
+2559,Hillary R Clinton,Ken Salazar,1
+2564,Hillary R Clinton,Charles E. Schumer,1
+2570,Hillary R Clinton,Clarence William Nelson,1
+2571,Hillary R Clinton,Carl Milton Levin,1
+2572,Hillary R Clinton,Patty Murray,1
+2577,Hillary R Clinton,Thomas Richard Harkin,1
+2578,Hillary R Clinton,Tim Johnson,1
+2582,Hillary R Clinton,Jon S. Corzine,1
+2588,Hillary R Clinton,Joseph I. Lieberman,1
+2592,Hillary R Clinton,Deborah Ann Stabenow,1
+2596,Hillary R Clinton,John Forbes Kerry,1
+2598,Hillary R Clinton,Barbara Ann Mikulski,1
+2600,Hillary R Clinton,Susan Margaret Collins,1
+2604,Hillary R Clinton,Barack Obama,1
+2610,Hillary R Clinton,Mark Dayton,1
+2611,Hillary R Clinton,Frank R. Lautenberg,1
+2612,Hillary R Clinton,Herbert H. Kohl,1
+2615,Hillary R Clinton,Patrick Joseph Leahy,1
+2619,Hillary R Clinton,Evan Bayh,1
+2620,Hillary R Clinton,Mark Lunsford Pryor,1
+2625,Hillary R Clinton,Robert Menendez,1
+2627,Pat Roberts,Pete Vichi Domenici,1
+2628,Pat Roberts,A. Wayne Allard,1
+2630,Pat Roberts,Charles Ernest Grassley,1
+2638,Pat Roberts,Michael B. Enzi,1
+2647,Pat Roberts,Jim Talent,1
+2654,Pat Roberts,Jim Bunning,1
+2658,Pat Roberts,Lamar Alexander,1
+2662,Pat Roberts,Orrin Grant Hatch,1
+2663,Pat Roberts,John William Warner,1
+2669,Pat Roberts,Chester Trent Lott,1
+2675,Pat Roberts,John R. Thune,1
+2677,Pat Roberts,Elizabeth H. Dole,1
+2680,Pat Roberts,Kay Bailey Hutchison,1
+2684,Pat Roberts,Richard Craig Shelby,1
+2691,Pat Roberts,Saxby Chambliss,1
+2694,Pat Roberts,Larry Edwin Craig,1
+2696,Pat Roberts,Robert F. Bennett,1
+2700,Pat Roberts,Johnny Isakson,1
+2702,Pat Roberts,Sam Brownback,1
+2707,Pat Roberts,Conrad R. Burns,1
+2708,Pat Roberts,Chuck Hagel,1
+2714,Pat Roberts,Christopher S. Bond,1
+2715,Pat Roberts,E. Benjamin Nelson,1
+2719,Pat Roberts,Jeff Sessions,1
+2721,Pat Roberts,Mark Lunsford Pryor,1
+2723,Pat Roberts,Craig Thomas,1
+2724,Pat Roberts,Mitch Mcconnell,1
+2725,Pat Roberts,Richard Burr,1
+2746,Mary Landrieu,Paul Spyros Sarbanes,1
+2747,Mary Landrieu,Richard J. Durbin,1
+2751,Mary Landrieu,Christopher John Dodd,1
+2752,Mary Landrieu,Hillary R Clinton,1
+2757,Mary Landrieu,Maria Cantwell,1
+2758,Mary Landrieu,Barbara Boxer,1
+2761,Mary Landrieu,Ken Salazar,1
+2768,Mary Landrieu,Blanche Lambert Lincoln,1
+2774,Mary Landrieu,Patty Murray,1
+2775,Mary Landrieu,Thad Cochran,1
+2780,Mary Landrieu,Tim Johnson,1
+2782,Mary Landrieu,David Vitter,1
+2790,Mary Landrieu,Joseph I. Lieberman,1
+2794,Mary Landrieu,Deborah Ann Stabenow,1
+2798,Mary Landrieu,John Forbes Kerry,1
+2800,Mary Landrieu,Barbara Ann Mikulski,1
+2802,Mary Landrieu,Susan Margaret Collins,1
+2812,Mary Landrieu,Mark Dayton,1
+2813,Mary Landrieu,Frank R. Lautenberg,1
+2814,Mary Landrieu,Herbert H. Kohl,1
+2816,Mary Landrieu,E. Benjamin Nelson,1
+2821,Mary Landrieu,Evan Bayh,1
+2822,Mary Landrieu,Mark Lunsford Pryor,1
+2828,Jim Bunning,Mel Martinez,1
+2830,Jim Bunning,A. Wayne Allard,1
+2834,Jim Bunning,George F. Allen,1
+2836,Jim Bunning,Jon Llewellyn Kyl,1
+2838,Jim Bunning,Rick Santorum,1
+2839,Jim Bunning,Michael D. Crapo,1
+2840,Jim Bunning,Michael B. Enzi,1
+2845,Jim Bunning,James W. Demint,1
+2849,Jim Bunning,Jim Talent,1
+2854,Jim Bunning,Pat Roberts,1
+2861,Jim Bunning,Jim Inhofe,1
+2864,Jim Bunning,Orrin Grant Hatch,1
+2871,Jim Bunning,Chester Trent Lott,1
+2876,Jim Bunning,Thad Cochran,1
+2877,Jim Bunning,John R. Thune,1
+2879,Jim Bunning,Elizabeth H. Dole,1
+2883,Jim Bunning,David Vitter,1
+2886,Jim Bunning,Richard Craig Shelby,1
+2893,Jim Bunning,Saxby Chambliss,1
+2894,Jim Bunning,Lindsey O. Graham,1
+2896,Jim Bunning,Larry Edwin Craig,1
+2902,Jim Bunning,Johnny Isakson,1
+2904,Jim Bunning,Sam Brownback,1
+2909,Jim Bunning,Conrad R. Burns,1
+2917,Jim Bunning,E. Benjamin Nelson,1
+2919,Jim Bunning,Tom Coburn,1
+2920,Jim Bunning,John Ensign,1
+2921,Jim Bunning,Jeff Sessions,1
+2925,Jim Bunning,Craig Thomas,1
+2926,Jim Bunning,Mitch Mcconnell,1
+2927,Jim Bunning,Richard Burr,1
+2932,John F. Reed,Ron Wyden,1
+2938,John F. Reed,Jesse Francis Bingaman,1
+2942,John F. Reed,James Merrill Jeffords,1
+2943,John F. Reed,Edward Moore Kennedy,1
+2944,John F. Reed,Dianne Feinstein,1
+2945,John F. Reed,Olympia J. Snowe,1
+2947,John F. Reed,Lincoln D. Chafee,1
+2948,John F. Reed,Paul Spyros Sarbanes,1
+2949,John F. Reed,Richard J. Durbin,1
+2953,John F. Reed,Christopher John Dodd,1
+2954,John F. Reed,Hillary R Clinton,1
+2959,John F. Reed,Maria Cantwell,1
+2960,John F. Reed,Barbara Boxer,1
+2964,John F. Reed,Daniel Kohikina Akaka,1
+2968,John F. Reed,Charles E. Schumer,1
+2975,John F. Reed,Carl Milton Levin,1
+2976,John F. Reed,Patty Murray,1
+2981,John F. Reed,Thomas Richard Harkin,1
+2982,John F. Reed,Tim Johnson,1
+2986,John F. Reed,Jon S. Corzine,1
+2992,John F. Reed,Joseph I. Lieberman,1
+2996,John F. Reed,Deborah Ann Stabenow,1
+3000,John F. Reed,John Forbes Kerry,1
+3001,John F. Reed,Thomas R. Carper,1
+3002,John F. Reed,Barbara Ann Mikulski,1
+3004,John F. Reed,Susan Margaret Collins,1
+3006,John F. Reed,Daniel Ken Inouye,1
+3009,John F. Reed,Joseph Robinette Biden,1
+3014,John F. Reed,Mark Dayton,1
+3015,John F. Reed,Frank R. Lautenberg,1
+3016,John F. Reed,Herbert H. Kohl,1
+3019,John F. Reed,Patrick Joseph Leahy,1
+3023,John F. Reed,Evan Bayh,1
+3024,John F. Reed,Mark Lunsford Pryor,1
+3033,Maria Cantwell,Ron Wyden,1
+3039,Maria Cantwell,Jesse Francis Bingaman,1
+3043,Maria Cantwell,James Merrill Jeffords,1
+3044,Maria Cantwell,Edward Moore Kennedy,1
+3045,Maria Cantwell,Dianne Feinstein,1
+3046,Maria Cantwell,Olympia J. Snowe,1
+3048,Maria Cantwell,Lincoln D. Chafee,1
+3049,Maria Cantwell,Paul Spyros Sarbanes,1
+3050,Maria Cantwell,Richard J. Durbin,1
+3054,Maria Cantwell,Christopher John Dodd,1
+3055,Maria Cantwell,Hillary R Clinton,1
+3057,Maria Cantwell,Mary Landrieu,1
+3059,Maria Cantwell,John F. Reed,1
+3061,Maria Cantwell,Barbara Boxer,1
+3064,Maria Cantwell,Ken Salazar,1
+3065,Maria Cantwell,Daniel Kohikina Akaka,1
+3069,Maria Cantwell,Charles E. Schumer,1
+3071,Maria Cantwell,Blanche Lambert Lincoln,1
+3075,Maria Cantwell,Clarence William Nelson,1
+3077,Maria Cantwell,Patty Murray,1
+3082,Maria Cantwell,Thomas Richard Harkin,1
+3083,Maria Cantwell,Tim Johnson,1
+3087,Maria Cantwell,Jon S. Corzine,1
+3093,Maria Cantwell,Joseph I. Lieberman,1
+3097,Maria Cantwell,Deborah Ann Stabenow,1
+3101,Maria Cantwell,John Forbes Kerry,1
+3103,Maria Cantwell,Barbara Ann Mikulski,1
+3105,Maria Cantwell,Susan Margaret Collins,1
+3107,Maria Cantwell,Daniel Ken Inouye,1
+3110,Maria Cantwell,Joseph Robinette Biden,1
+3115,Maria Cantwell,Mark Dayton,1
+3116,Maria Cantwell,Frank R. Lautenberg,1
+3117,Maria Cantwell,Herbert H. Kohl,1
+3120,Maria Cantwell,Patrick Joseph Leahy,1
+3124,Maria Cantwell,Evan Bayh,1
+3125,Maria Cantwell,Mark Lunsford Pryor,1
+3126,Maria Cantwell,Byron Leslie Dorgan,1
+3134,Barbara Boxer,Ron Wyden,1
+3140,Barbara Boxer,Jesse Francis Bingaman,1
+3144,Barbara Boxer,James Merrill Jeffords,1
+3145,Barbara Boxer,Edward Moore Kennedy,1
+3146,Barbara Boxer,Dianne Feinstein,1
+3150,Barbara Boxer,Paul Spyros Sarbanes,1
+3151,Barbara Boxer,Richard J. Durbin,1
+3155,Barbara Boxer,Christopher John Dodd,1
+3156,Barbara Boxer,Hillary R Clinton,1
+3158,Barbara Boxer,Mary Landrieu,1
+3160,Barbara Boxer,John F. Reed,1
+3161,Barbara Boxer,Maria Cantwell,1
+3165,Barbara Boxer,Ken Salazar,1
+3166,Barbara Boxer,Daniel Kohikina Akaka,1
+3170,Barbara Boxer,Charles E. Schumer,1
+3172,Barbara Boxer,Blanche Lambert Lincoln,1
+3176,Barbara Boxer,Clarence William Nelson,1
+3177,Barbara Boxer,Carl Milton Levin,1
+3178,Barbara Boxer,Patty Murray,1
+3183,Barbara Boxer,Thomas Richard Harkin,1
+3184,Barbara Boxer,Tim Johnson,1
+3188,Barbara Boxer,Jon S. Corzine,1
+3194,Barbara Boxer,Joseph I. Lieberman,1
+3195,Barbara Boxer,Russell D. Feingold,1
+3198,Barbara Boxer,Deborah Ann Stabenow,1
+3202,Barbara Boxer,John Forbes Kerry,1
+3204,Barbara Boxer,Barbara Ann Mikulski,1
+3206,Barbara Boxer,Susan Margaret Collins,1
+3208,Barbara Boxer,Daniel Ken Inouye,1
+3210,Barbara Boxer,Barack Obama,1
+3211,Barbara Boxer,Joseph Robinette Biden,1
+3216,Barbara Boxer,Mark Dayton,1
+3217,Barbara Boxer,Frank R. Lautenberg,1
+3218,Barbara Boxer,Herbert H. Kohl,1
+3221,Barbara Boxer,Patrick Joseph Leahy,1
+3225,Barbara Boxer,Evan Bayh,1
+3226,Barbara Boxer,Mark Lunsford Pryor,1
+3231,Barbara Boxer,Robert Menendez,1
+3232,Lamar Alexander,Mel Martinez,1
+3233,Lamar Alexander,Pete Vichi Domenici,1
+3238,Lamar Alexander,George F. Allen,1
+3253,Lamar Alexander,Jim Talent,1
+3258,Lamar Alexander,Pat Roberts,1
+3272,Lamar Alexander,William H. Frist,1
+3282,Lamar Alexander,George V. Voinovich,1
+3283,Lamar Alexander,Elizabeth H. Dole,1
+3286,Lamar Alexander,Kay Bailey Hutchison,1
+3288,Lamar Alexander,John Cornyn,1
+3306,Lamar Alexander,Johnny Isakson,1
+3314,Lamar Alexander,Chuck Hagel,1
+3325,Lamar Alexander,Jeff Sessions,1
+3330,Lamar Alexander,Mitch Mcconnell,1
+3331,Lamar Alexander,Richard Burr,1
+3339,Jim Inhofe,George F. Allen,1
+3344,Jim Inhofe,Michael D. Crapo,1
+3350,Jim Inhofe,James W. Demint,1
+3361,Jim Inhofe,Jim Bunning,1
+3382,Jim Inhofe,John R. Thune,1
+3388,Jim Inhofe,David Vitter,1
+3401,Jim Inhofe,Larry Edwin Craig,1
+3409,Jim Inhofe,Sam Brownback,1
+3424,Jim Inhofe,Tom Coburn,1
+3425,Jim Inhofe,John Ensign,1
+3426,Jim Inhofe,Jeff Sessions,1
+3436,Ken Salazar,A. Wayne Allard,1
+3443,Ken Salazar,Jesse Francis Bingaman,1
+3449,Ken Salazar,Dianne Feinstein,1
+3454,Ken Salazar,Richard J. Durbin,1
+3459,Ken Salazar,Hillary R Clinton,1
+3461,Ken Salazar,Mary Landrieu,1
+3464,Ken Salazar,Maria Cantwell,1
+3465,Ken Salazar,Barbara Boxer,1
+3475,Ken Salazar,Blanche Lambert Lincoln,1
+3479,Ken Salazar,Clarence William Nelson,1
+3481,Ken Salazar,Patty Murray,1
+3486,Ken Salazar,Thomas Richard Harkin,1
+3487,Ken Salazar,Tim Johnson,1
+3494,Ken Salazar,Max Sieben Baucus,1
+3495,Ken Salazar,Kent Conrad,1
+3497,Ken Salazar,Joseph I. Lieberman,1
+3501,Ken Salazar,Deborah Ann Stabenow,1
+3505,Ken Salazar,John Forbes Kerry,1
+3507,Ken Salazar,Barbara Ann Mikulski,1
+3513,Ken Salazar,Barack Obama,1
+3514,Ken Salazar,Joseph Robinette Biden,1
+3519,Ken Salazar,Mark Dayton,1
+3521,Ken Salazar,Herbert H. Kohl,1
+3523,Ken Salazar,E. Benjamin Nelson,1
+3528,Ken Salazar,Evan Bayh,1
+3529,Ken Salazar,Mark Lunsford Pryor,1
+3530,Ken Salazar,Byron Leslie Dorgan,1
+3549,Daniel Kohikina Akaka,Edward Moore Kennedy,1
+3554,Daniel Kohikina Akaka,Paul Spyros Sarbanes,1
+3555,Daniel Kohikina Akaka,Richard J. Durbin,1
+3559,Daniel Kohikina Akaka,Christopher John Dodd,1
+3564,Daniel Kohikina Akaka,John F. Reed,1
+3565,Daniel Kohikina Akaka,Maria Cantwell,1
+3566,Daniel Kohikina Akaka,Barbara Boxer,1
+3581,Daniel Kohikina Akaka,Carl Milton Levin,1
+3582,Daniel Kohikina Akaka,Patty Murray,1
+3598,Daniel Kohikina Akaka,Joseph I. Lieberman,1
+3602,Daniel Kohikina Akaka,Deborah Ann Stabenow,1
+3606,Daniel Kohikina Akaka,John Forbes Kerry,1
+3608,Daniel Kohikina Akaka,Barbara Ann Mikulski,1
+3612,Daniel Kohikina Akaka,Daniel Ken Inouye,1
+3620,Daniel Kohikina Akaka,Mark Dayton,1
+3621,Daniel Kohikina Akaka,Frank R. Lautenberg,1
+3630,Daniel Kohikina Akaka,Mark Lunsford Pryor,1
+3640,Orrin Grant Hatch,Charles Ernest Grassley,1
+3644,Orrin Grant Hatch,Jon Llewellyn Kyl,1
+3662,Orrin Grant Hatch,Pat Roberts,1
+3664,Orrin Grant Hatch,Jim Bunning,1
+3684,Orrin Grant Hatch,Thad Cochran,1
+3692,Orrin Grant Hatch,John Cornyn,1
+3706,Orrin Grant Hatch,Robert F. Bennett,1
+3729,Orrin Grant Hatch,Jeff Sessions,1
+3734,Orrin Grant Hatch,Mitch Mcconnell,1
+3743,John William Warner,George F. Allen,1
+3763,John William Warner,Pat Roberts,1
+3785,John William Warner,Thad Cochran,1
+3843,John E. Sununu,John Sidney Mccain,1
+3844,John E. Sununu,George F. Allen,1
+3856,John E. Sununu,Lincoln D. Chafee,1
+3906,John E. Sununu,Larry Edwin Craig,1
+3920,John E. Sununu,Chuck Hagel,1
+3921,John E. Sununu,Judd Gregg,1
+3930,John E. Sununu,John Ensign,1
+3952,Charles E. Schumer,James Merrill Jeffords,1
+3953,Charles E. Schumer,Edward Moore Kennedy,1
+3954,Charles E. Schumer,Dianne Feinstein,1
+3958,Charles E. Schumer,Paul Spyros Sarbanes,1
+3959,Charles E. Schumer,Richard J. Durbin,1
+3963,Charles E. Schumer,Christopher John Dodd,1
+3964,Charles E. Schumer,Hillary R Clinton,1
+3968,Charles E. Schumer,John F. Reed,1
+3969,Charles E. Schumer,Maria Cantwell,1
+3970,Charles E. Schumer,Barbara Boxer,1
+3985,Charles E. Schumer,Carl Milton Levin,1
+3986,Charles E. Schumer,Patty Murray,1
+3991,Charles E. Schumer,Thomas Richard Harkin,1
+3992,Charles E. Schumer,Tim Johnson,1
+3996,Charles E. Schumer,Jon S. Corzine,1
+4002,Charles E. Schumer,Joseph I. Lieberman,1
+4006,Charles E. Schumer,Deborah Ann Stabenow,1
+4010,Charles E. Schumer,John Forbes Kerry,1
+4012,Charles E. Schumer,Barbara Ann Mikulski,1
+4019,Charles E. Schumer,Joseph Robinette Biden,1
+4024,Charles E. Schumer,Mark Dayton,1
+4025,Charles E. Schumer,Frank R. Lautenberg,1
+4026,Charles E. Schumer,Herbert H. Kohl,1
+4029,Charles E. Schumer,Patrick Joseph Leahy,1
+4033,Charles E. Schumer,Evan Bayh,1
+4034,Charles E. Schumer,Mark Lunsford Pryor,1
+4039,Charles E. Schumer,Robert Menendez,1
+4072,William H. Frist,Lamar Alexander,1
+4084,William H. Frist,Harry M. Reid,1
+4138,William H. Frist,Mitch Mcconnell,1
+4150,Blanche Lambert Lincoln,Jesse Francis Bingaman,1
+4154,Blanche Lambert Lincoln,James Merrill Jeffords,1
+4157,Blanche Lambert Lincoln,Olympia J. Snowe,1
+4163,Blanche Lambert Lincoln,Norm Coleman,1
+4168,Blanche Lambert Lincoln,Mary Landrieu,1
+4171,Blanche Lambert Lincoln,Maria Cantwell,1
+4172,Blanche Lambert Lincoln,Barbara Boxer,1
+4175,Blanche Lambert Lincoln,Ken Salazar,1
+4188,Blanche Lambert Lincoln,Patty Murray,1
+4189,Blanche Lambert Lincoln,Thad Cochran,1
+4193,Blanche Lambert Lincoln,Thomas Richard Harkin,1
+4194,Blanche Lambert Lincoln,Tim Johnson,1
+4200,Blanche Lambert Lincoln,Jay Rockefeller,1
+4201,Blanche Lambert Lincoln,Max Sieben Baucus,1
+4202,Blanche Lambert Lincoln,Kent Conrad,1
+4208,Blanche Lambert Lincoln,Deborah Ann Stabenow,1
+4214,Blanche Lambert Lincoln,Barbara Ann Mikulski,1
+4216,Blanche Lambert Lincoln,Susan Margaret Collins,1
+4226,Blanche Lambert Lincoln,Mark Dayton,1
+4228,Blanche Lambert Lincoln,Herbert H. Kohl,1
+4229,Blanche Lambert Lincoln,Christopher S. Bond,1
+4230,Blanche Lambert Lincoln,E. Benjamin Nelson,1
+4231,Blanche Lambert Lincoln,Patrick Joseph Leahy,1
+4235,Blanche Lambert Lincoln,Evan Bayh,1
+4236,Blanche Lambert Lincoln,Mark Lunsford Pryor,1
+4237,Blanche Lambert Lincoln,Byron Leslie Dorgan,1
+4243,Theodore F. Stevens,Pete Vichi Domenici,1
+4285,Theodore F. Stevens,Chester Trent Lott,1
+4290,Theodore F. Stevens,Thad Cochran,1
+4296,Theodore F. Stevens,Kay Bailey Hutchison,1
+4304,Theodore F. Stevens,Lisa Murkowski,1
+4319,Theodore F. Stevens,Daniel Ken Inouye,1
+4323,Theodore F. Stevens,Conrad R. Burns,1
+4339,Theodore F. Stevens,Craig Thomas,1
+4343,Chester Trent Lott,Mel Martinez,1
+4349,Chester Trent Lott,George F. Allen,1
+4351,Chester Trent Lott,Jon Llewellyn Kyl,1
+4369,Chester Trent Lott,Pat Roberts,1
+4371,Chester Trent Lott,Jim Bunning,1
+4385,Chester Trent Lott,Theodore F. Stevens,1
+4391,Chester Trent Lott,Thad Cochran,1
+4392,Chester Trent Lott,John R. Thune,1
+4394,Chester Trent Lott,Elizabeth H. Dole,1
+4398,Chester Trent Lott,David Vitter,1
+4401,Chester Trent Lott,Richard Craig Shelby,1
+4408,Chester Trent Lott,Saxby Chambliss,1
+4409,Chester Trent Lott,Lindsey O. Graham,1
+4424,Chester Trent Lott,Conrad R. Burns,1
+4436,Chester Trent Lott,Jeff Sessions,1
+4441,Chester Trent Lott,Mitch Mcconnell,1
+4442,Chester Trent Lott,Richard Burr,1
+4484,Harry M. Reid,William H. Frist,1
+4511,Harry M. Reid,Deborah Ann Stabenow,1
+4517,Harry M. Reid,Barbara Ann Mikulski,1
+4529,Harry M. Reid,Mark Dayton,1
+4531,Harry M. Reid,Herbert H. Kohl,1
+4545,Clarence William Nelson,Mel Martinez,1
+4554,Clarence William Nelson,Jesse Francis Bingaman,1
+4567,Clarence William Nelson,Norm Coleman,1
+4568,Clarence William Nelson,Gordon H. Smith,1
+4570,Clarence William Nelson,Hillary R Clinton,1
+4575,Clarence William Nelson,Maria Cantwell,1
+4576,Clarence William Nelson,Barbara Boxer,1
+4579,Clarence William Nelson,Ken Salazar,1
+4598,Clarence William Nelson,Tim Johnson,1
+4608,Clarence William Nelson,Joseph I. Lieberman,1
+4612,Clarence William Nelson,Deborah Ann Stabenow,1
+4616,Clarence William Nelson,John Forbes Kerry,1
+4618,Clarence William Nelson,Barbara Ann Mikulski,1
+4625,Clarence William Nelson,Joseph Robinette Biden,1
+4629,Clarence William Nelson,Michael Dewine,1
+4630,Clarence William Nelson,Mark Dayton,1
+4631,Clarence William Nelson,Frank R. Lautenberg,1
+4632,Clarence William Nelson,Herbert H. Kohl,1
+4634,Clarence William Nelson,E. Benjamin Nelson,1
+4635,Clarence William Nelson,Patrick Joseph Leahy,1
+4639,Clarence William Nelson,Evan Bayh,1
+4640,Clarence William Nelson,Mark Lunsford Pryor,1
+4641,Clarence William Nelson,Byron Leslie Dorgan,1
+4649,Carl Milton Levin,Ron Wyden,1
+4660,Carl Milton Levin,Edward Moore Kennedy,1
+4661,Carl Milton Levin,Dianne Feinstein,1
+4665,Carl Milton Levin,Paul Spyros Sarbanes,1
+4666,Carl Milton Levin,Richard J. Durbin,1
+4670,Carl Milton Levin,Christopher John Dodd,1
+4671,Carl Milton Levin,Hillary R Clinton,1
+4675,Carl Milton Levin,John F. Reed,1
+4677,Carl Milton Levin,Barbara Boxer,1
+4681,Carl Milton Levin,Daniel Kohikina Akaka,1
+4685,Carl Milton Levin,Charles E. Schumer,1
+4696,Carl Milton Levin,George V. Voinovich,1
+4703,Carl Milton Levin,Jon S. Corzine,1
+4709,Carl Milton Levin,Joseph I. Lieberman,1
+4710,Carl Milton Levin,Russell D. Feingold,1
+4713,Carl Milton Levin,Deborah Ann Stabenow,1
+4717,Carl Milton Levin,John Forbes Kerry,1
+4719,Carl Milton Levin,Barbara Ann Mikulski,1
+4725,Carl Milton Levin,Barack Obama,1
+4726,Carl Milton Levin,Joseph Robinette Biden,1
+4731,Carl Milton Levin,Mark Dayton,1
+4732,Carl Milton Levin,Frank R. Lautenberg,1
+4733,Carl Milton Levin,Herbert H. Kohl,1
+4740,Carl Milton Levin,Evan Bayh,1
+4750,Patty Murray,Ron Wyden,1
+4756,Patty Murray,Jesse Francis Bingaman,1
+4760,Patty Murray,James Merrill Jeffords,1
+4761,Patty Murray,Edward Moore Kennedy,1
+4762,Patty Murray,Dianne Feinstein,1
+4765,Patty Murray,Lincoln D. Chafee,1
+4766,Patty Murray,Paul Spyros Sarbanes,1
+4767,Patty Murray,Richard J. Durbin,1
+4771,Patty Murray,Christopher John Dodd,1
+4772,Patty Murray,Hillary R Clinton,1
+4774,Patty Murray,Mary Landrieu,1
+4776,Patty Murray,John F. Reed,1
+4777,Patty Murray,Maria Cantwell,1
+4778,Patty Murray,Barbara Boxer,1
+4781,Patty Murray,Ken Salazar,1
+4782,Patty Murray,Daniel Kohikina Akaka,1
+4786,Patty Murray,Charles E. Schumer,1
+4788,Patty Murray,Blanche Lambert Lincoln,1
+4799,Patty Murray,Thomas Richard Harkin,1
+4800,Patty Murray,Tim Johnson,1
+4804,Patty Murray,Jon S. Corzine,1
+4810,Patty Murray,Joseph I. Lieberman,1
+4814,Patty Murray,Deborah Ann Stabenow,1
+4818,Patty Murray,John Forbes Kerry,1
+4820,Patty Murray,Barbara Ann Mikulski,1
+4822,Patty Murray,Susan Margaret Collins,1
+4824,Patty Murray,Daniel Ken Inouye,1
+4832,Patty Murray,Mark Dayton,1
+4833,Patty Murray,Frank R. Lautenberg,1
+4834,Patty Murray,Herbert H. Kohl,1
+4836,Patty Murray,E. Benjamin Nelson,1
+4837,Patty Murray,Patrick Joseph Leahy,1
+4841,Patty Murray,Evan Bayh,1
+4842,Patty Murray,Mark Lunsford Pryor,1
+4848,Thad Cochran,Mel Martinez,1
+4849,Thad Cochran,Pete Vichi Domenici,1
+4852,Thad Cochran,Charles Ernest Grassley,1
+4854,Thad Cochran,George F. Allen,1
+4858,Thad Cochran,Rick Santorum,1
+4869,Thad Cochran,Jim Talent,1
+4870,Thad Cochran,Norm Coleman,1
+4875,Thad Cochran,Mary Landrieu,1
+4876,Thad Cochran,Jim Bunning,1
+4884,Thad Cochran,Orrin Grant Hatch,1
+4885,Thad Cochran,John William Warner,1
+4889,Thad Cochran,Blanche Lambert Lincoln,1
+4890,Thad Cochran,Theodore F. Stevens,1
+4891,Thad Cochran,Chester Trent Lott,1
+4899,Thad Cochran,Elizabeth H. Dole,1
+4903,Thad Cochran,David Vitter,1
+4904,Thad Cochran,John Cornyn,1
+4906,Thad Cochran,Richard Craig Shelby,1
+4910,Thad Cochran,Lisa Murkowski,1
+4913,Thad Cochran,Saxby Chambliss,1
+4916,Thad Cochran,Larry Edwin Craig,1
+4922,Thad Cochran,Johnny Isakson,1
+4929,Thad Cochran,Conrad R. Burns,1
+4930,Thad Cochran,Chuck Hagel,1
+4937,Thad Cochran,E. Benjamin Nelson,1
+4947,Thad Cochran,Richard Burr,1
+4949,John R. Thune,Mel Martinez,1
+4951,John R. Thune,A. Wayne Allard,1
+4953,John R. Thune,Charles Ernest Grassley,1
+4955,John R. Thune,George F. Allen,1
+4960,John R. Thune,Michael D. Crapo,1
+4961,John R. Thune,Michael B. Enzi,1
+4966,John R. Thune,James W. Demint,1
+4970,John R. Thune,Jim Talent,1
+4975,John R. Thune,Pat Roberts,1
+4977,John R. Thune,Jim Bunning,1
+4982,John R. Thune,Jim Inhofe,1
+4992,John R. Thune,Chester Trent Lott,1
+5000,John R. Thune,Elizabeth H. Dole,1
+5002,John R. Thune,Tim Johnson,1
+5004,John R. Thune,David Vitter,1
+5010,John R. Thune,Kent Conrad,1
+5014,John R. Thune,Saxby Chambliss,1
+5017,John R. Thune,Larry Edwin Craig,1
+5023,John R. Thune,Johnny Isakson,1
+5030,John R. Thune,Conrad R. Burns,1
+5031,John R. Thune,Chuck Hagel,1
+5037,John R. Thune,Christopher S. Bond,1
+5038,John R. Thune,E. Benjamin Nelson,1
+5040,John R. Thune,Tom Coburn,1
+5041,John R. Thune,John Ensign,1
+5042,John R. Thune,Jeff Sessions,1
+5045,John R. Thune,Byron Leslie Dorgan,1
+5046,John R. Thune,Craig Thomas,1
+5047,John R. Thune,Mitch Mcconnell,1
+5048,John R. Thune,Richard Burr,1
+5072,George V. Voinovich,Norm Coleman,1
+5082,George V. Voinovich,Lamar Alexander,1
+5096,George V. Voinovich,Carl Milton Levin,1
+5101,George V. Voinovich,Elizabeth H. Dole,1
+5134,George V. Voinovich,Michael Dewine,1
+5148,George V. Voinovich,Mitch Mcconnell,1
+5151,Elizabeth H. Dole,Mel Martinez,1
+5153,Elizabeth H. Dole,A. Wayne Allard,1
+5157,Elizabeth H. Dole,George F. Allen,1
+5159,Elizabeth H. Dole,Jon Llewellyn Kyl,1
+5161,Elizabeth H. Dole,Rick Santorum,1
+5172,Elizabeth H. Dole,Jim Talent,1
+5177,Elizabeth H. Dole,Pat Roberts,1
+5179,Elizabeth H. Dole,Jim Bunning,1
+5183,Elizabeth H. Dole,Lamar Alexander,1
+5194,Elizabeth H. Dole,Chester Trent Lott,1
+5199,Elizabeth H. Dole,Thad Cochran,1
+5200,Elizabeth H. Dole,John R. Thune,1
+5201,Elizabeth H. Dole,George V. Voinovich,1
+5205,Elizabeth H. Dole,Kay Bailey Hutchison,1
+5206,Elizabeth H. Dole,David Vitter,1
+5213,Elizabeth H. Dole,Lisa Murkowski,1
+5216,Elizabeth H. Dole,Saxby Chambliss,1
+5217,Elizabeth H. Dole,Lindsey O. Graham,1
+5225,Elizabeth H. Dole,Johnny Isakson,1
+5227,Elizabeth H. Dole,Sam Brownback,1
+5233,Elizabeth H. Dole,Chuck Hagel,1
+5240,Elizabeth H. Dole,E. Benjamin Nelson,1
+5242,Elizabeth H. Dole,Tom Coburn,1
+5244,Elizabeth H. Dole,Jeff Sessions,1
+5249,Elizabeth H. Dole,Mitch Mcconnell,1
+5250,Elizabeth H. Dole,Richard Burr,1
+5261,Thomas Richard Harkin,Jesse Francis Bingaman,1
+5265,Thomas Richard Harkin,James Merrill Jeffords,1
+5266,Thomas Richard Harkin,Edward Moore Kennedy,1
+5271,Thomas Richard Harkin,Paul Spyros Sarbanes,1
+5272,Thomas Richard Harkin,Richard J. Durbin,1
+5276,Thomas Richard Harkin,Christopher John Dodd,1
+5277,Thomas Richard Harkin,Hillary R Clinton,1
+5281,Thomas Richard Harkin,John F. Reed,1
+5282,Thomas Richard Harkin,Maria Cantwell,1
+5283,Thomas Richard Harkin,Barbara Boxer,1
+5286,Thomas Richard Harkin,Ken Salazar,1
+5291,Thomas Richard Harkin,Charles E. Schumer,1
+5293,Thomas Richard Harkin,Blanche Lambert Lincoln,1
+5299,Thomas Richard Harkin,Patty Murray,1
+5305,Thomas Richard Harkin,Tim Johnson,1
+5309,Thomas Richard Harkin,Jon S. Corzine,1
+5313,Thomas Richard Harkin,Kent Conrad,1
+5319,Thomas Richard Harkin,Deborah Ann Stabenow,1
+5323,Thomas Richard Harkin,John Forbes Kerry,1
+5325,Thomas Richard Harkin,Barbara Ann Mikulski,1
+5331,Thomas Richard Harkin,Barack Obama,1
+5337,Thomas Richard Harkin,Mark Dayton,1
+5338,Thomas Richard Harkin,Frank R. Lautenberg,1
+5339,Thomas Richard Harkin,Herbert H. Kohl,1
+5342,Thomas Richard Harkin,Patrick Joseph Leahy,1
+5346,Thomas Richard Harkin,Evan Bayh,1
+5347,Thomas Richard Harkin,Mark Lunsford Pryor,1
+5348,Thomas Richard Harkin,Byron Leslie Dorgan,1
+5356,Tim Johnson,Ron Wyden,1
+5362,Tim Johnson,Jesse Francis Bingaman,1
+5366,Tim Johnson,James Merrill Jeffords,1
+5367,Tim Johnson,Edward Moore Kennedy,1
+5372,Tim Johnson,Paul Spyros Sarbanes,1
+5373,Tim Johnson,Richard J. Durbin,1
+5375,Tim Johnson,Norm Coleman,1
+5377,Tim Johnson,Christopher John Dodd,1
+5378,Tim Johnson,Hillary R Clinton,1
+5380,Tim Johnson,Mary Landrieu,1
+5382,Tim Johnson,John F. Reed,1
+5383,Tim Johnson,Maria Cantwell,1
+5384,Tim Johnson,Barbara Boxer,1
+5387,Tim Johnson,Ken Salazar,1
+5392,Tim Johnson,Charles E. Schumer,1
+5394,Tim Johnson,Blanche Lambert Lincoln,1
+5398,Tim Johnson,Clarence William Nelson,1
+5400,Tim Johnson,Patty Murray,1
+5402,Tim Johnson,John R. Thune,1
+5405,Tim Johnson,Thomas Richard Harkin,1
+5412,Tim Johnson,Jay Rockefeller,1
+5413,Tim Johnson,Max Sieben Baucus,1
+5414,Tim Johnson,Kent Conrad,1
+5416,Tim Johnson,Joseph I. Lieberman,1
+5420,Tim Johnson,Deborah Ann Stabenow,1
+5424,Tim Johnson,John Forbes Kerry,1
+5426,Tim Johnson,Barbara Ann Mikulski,1
+5428,Tim Johnson,Susan Margaret Collins,1
+5435,Tim Johnson,Chuck Hagel,1
+5438,Tim Johnson,Mark Dayton,1
+5439,Tim Johnson,Frank R. Lautenberg,1
+5440,Tim Johnson,Herbert H. Kohl,1
+5442,Tim Johnson,E. Benjamin Nelson,1
+5443,Tim Johnson,Patrick Joseph Leahy,1
+5447,Tim Johnson,Evan Bayh,1
+5448,Tim Johnson,Mark Lunsford Pryor,1
+5449,Tim Johnson,Byron Leslie Dorgan,1
+5453,Tim Johnson,Robert Menendez,1
+5454,Kay Bailey Hutchison,Mel Martinez,1
+5455,Kay Bailey Hutchison,Pete Vichi Domenici,1
+5475,Kay Bailey Hutchison,Jim Talent,1
+5480,Kay Bailey Hutchison,Pat Roberts,1
+5486,Kay Bailey Hutchison,Lamar Alexander,1
+5496,Kay Bailey Hutchison,Theodore F. Stevens,1
+5505,Kay Bailey Hutchison,Elizabeth H. Dole,1
+5510,Kay Bailey Hutchison,John Cornyn,1
+5535,Kay Bailey Hutchison,Conrad R. Burns,1
+5552,Kay Bailey Hutchison,Mitch Mcconnell,1
+5555,David Vitter,Mel Martinez,1
+5557,David Vitter,A. Wayne Allard,1
+5561,David Vitter,George F. Allen,1
+5572,David Vitter,James W. Demint,1
+5576,David Vitter,Jim Talent,1
+5582,David Vitter,Mary Landrieu,1
+5583,David Vitter,Jim Bunning,1
+5588,David Vitter,Jim Inhofe,1
+5598,David Vitter,Chester Trent Lott,1
+5603,David Vitter,Thad Cochran,1
+5604,David Vitter,John R. Thune,1
+5606,David Vitter,Elizabeth H. Dole,1
+5613,David Vitter,Richard Craig Shelby,1
+5620,David Vitter,Saxby Chambliss,1
+5629,David Vitter,Johnny Isakson,1
+5643,David Vitter,Christopher S. Bond,1
+5644,David Vitter,E. Benjamin Nelson,1
+5646,David Vitter,Tom Coburn,1
+5648,David Vitter,Jeff Sessions,1
+5653,David Vitter,Mitch Mcconnell,1
+5654,David Vitter,Richard Burr,1
+5656,John Cornyn,Mel Martinez,1
+5660,John Cornyn,Charles Ernest Grassley,1
+5662,John Cornyn,George F. Allen,1
+5664,John Cornyn,Jon Llewellyn Kyl,1
+5688,John Cornyn,Lamar Alexander,1
+5692,John Cornyn,Orrin Grant Hatch,1
+5704,John Cornyn,Thad Cochran,1
+5710,John Cornyn,Kay Bailey Hutchison,1
+5730,John Cornyn,Johnny Isakson,1
+5747,John Cornyn,Tom Coburn,1
+5749,John Cornyn,Jeff Sessions,1
+5754,John Cornyn,Mitch Mcconnell,1
+5770,Jon S. Corzine,James Merrill Jeffords,1
+5771,Jon S. Corzine,Edward Moore Kennedy,1
+5776,Jon S. Corzine,Paul Spyros Sarbanes,1
+5777,Jon S. Corzine,Richard J. Durbin,1
+5781,Jon S. Corzine,Christopher John Dodd,1
+5782,Jon S. Corzine,Hillary R Clinton,1
+5786,Jon S. Corzine,John F. Reed,1
+5787,Jon S. Corzine,Maria Cantwell,1
+5788,Jon S. Corzine,Barbara Boxer,1
+5796,Jon S. Corzine,Charles E. Schumer,1
+5803,Jon S. Corzine,Carl Milton Levin,1
+5804,Jon S. Corzine,Patty Murray,1
+5809,Jon S. Corzine,Thomas Richard Harkin,1
+5820,Jon S. Corzine,Joseph I. Lieberman,1
+5821,Jon S. Corzine,Russell D. Feingold,1
+5824,Jon S. Corzine,Deborah Ann Stabenow,1
+5828,Jon S. Corzine,John Forbes Kerry,1
+5830,Jon S. Corzine,Barbara Ann Mikulski,1
+5842,Jon S. Corzine,Mark Dayton,1
+5843,Jon S. Corzine,Frank R. Lautenberg,1
+5847,Jon S. Corzine,Patrick Joseph Leahy,1
+5858,Richard Craig Shelby,Mel Martinez,1
+5860,Richard Craig Shelby,A. Wayne Allard,1
+5866,Richard Craig Shelby,Jon Llewellyn Kyl,1
+5884,Richard Craig Shelby,Pat Roberts,1
+5886,Richard Craig Shelby,Jim Bunning,1
+5901,Richard Craig Shelby,Chester Trent Lott,1
+5906,Richard Craig Shelby,Thad Cochran,1
+5913,Richard Craig Shelby,David Vitter,1
+5951,Richard Craig Shelby,Jeff Sessions,1
+5956,Richard Craig Shelby,Mitch Mcconnell,1
+6000,Jay Rockefeller,Blanche Lambert Lincoln,1
+6012,Jay Rockefeller,Tim Johnson,1
+6026,Jay Rockefeller,Deborah Ann Stabenow,1
+6028,Jay Rockefeller,Robert Carlyle Byrd,1
+6032,Jay Rockefeller,Barbara Ann Mikulski,1
+6046,Jay Rockefeller,Herbert H. Kohl,1
+6053,Jay Rockefeller,Evan Bayh,1
+6054,Jay Rockefeller,Mark Lunsford Pryor,1
+6055,Jay Rockefeller,Byron Leslie Dorgan,1
+6064,Max Sieben Baucus,Charles Ernest Grassley,1
+6094,Max Sieben Baucus,Ken Salazar,1
+6101,Max Sieben Baucus,Blanche Lambert Lincoln,1
+6113,Max Sieben Baucus,Tim Johnson,1
+6121,Max Sieben Baucus,Kent Conrad,1
+6141,Max Sieben Baucus,Conrad R. Burns,1
+6149,Max Sieben Baucus,E. Benjamin Nelson,1
+6155,Max Sieben Baucus,Mark Lunsford Pryor,1
+6156,Max Sieben Baucus,Byron Leslie Dorgan,1
+6157,Max Sieben Baucus,Craig Thomas,1
+6170,Kent Conrad,Jesse Francis Bingaman,1
+6195,Kent Conrad,Ken Salazar,1
+6202,Kent Conrad,Blanche Lambert Lincoln,1
+6210,Kent Conrad,John R. Thune,1
+6213,Kent Conrad,Thomas Richard Harkin,1
+6214,Kent Conrad,Tim Johnson,1
+6221,Kent Conrad,Max Sieben Baucus,1
+6228,Kent Conrad,Deborah Ann Stabenow,1
+6230,Kent Conrad,Robert Carlyle Byrd,1
+6242,Kent Conrad,Conrad R. Burns,1
+6246,Kent Conrad,Mark Dayton,1
+6248,Kent Conrad,Herbert H. Kohl,1
+6250,Kent Conrad,E. Benjamin Nelson,1
+6255,Kent Conrad,Evan Bayh,1
+6256,Kent Conrad,Mark Lunsford Pryor,1
+6257,Kent Conrad,Byron Leslie Dorgan,1
+6258,Kent Conrad,Craig Thomas,1
+6263,Lisa Murkowski,Pete Vichi Domenici,1
+6304,Lisa Murkowski,Theodore F. Stevens,1
+6310,Lisa Murkowski,Thad Cochran,1
+6313,Lisa Murkowski,Elizabeth H. Dole,1
+6330,Lisa Murkowski,Larry Edwin Craig,1
+6343,Lisa Murkowski,Conrad R. Burns,1
+6366,Joseph I. Lieberman,Ron Wyden,1
+6372,Joseph I. Lieberman,Jesse Francis Bingaman,1
+6376,Joseph I. Lieberman,James Merrill Jeffords,1
+6377,Joseph I. Lieberman,Edward Moore Kennedy,1
+6378,Joseph I. Lieberman,Dianne Feinstein,1
+6379,Joseph I. Lieberman,Olympia J. Snowe,1
+6381,Joseph I. Lieberman,Lincoln D. Chafee,1
+6382,Joseph I. Lieberman,Paul Spyros Sarbanes,1
+6383,Joseph I. Lieberman,Richard J. Durbin,1
+6387,Joseph I. Lieberman,Christopher John Dodd,1
+6388,Joseph I. Lieberman,Hillary R Clinton,1
+6390,Joseph I. Lieberman,Mary Landrieu,1
+6392,Joseph I. Lieberman,John F. Reed,1
+6393,Joseph I. Lieberman,Maria Cantwell,1
+6394,Joseph I. Lieberman,Barbara Boxer,1
+6397,Joseph I. Lieberman,Ken Salazar,1
+6398,Joseph I. Lieberman,Daniel Kohikina Akaka,1
+6402,Joseph I. Lieberman,Charles E. Schumer,1
+6408,Joseph I. Lieberman,Clarence William Nelson,1
+6409,Joseph I. Lieberman,Carl Milton Levin,1
+6410,Joseph I. Lieberman,Patty Murray,1
+6416,Joseph I. Lieberman,Tim Johnson,1
+6420,Joseph I. Lieberman,Jon S. Corzine,1
+6427,Joseph I. Lieberman,Russell D. Feingold,1
+6430,Joseph I. Lieberman,Deborah Ann Stabenow,1
+6434,Joseph I. Lieberman,John Forbes Kerry,1
+6435,Joseph I. Lieberman,Thomas R. Carper,1
+6436,Joseph I. Lieberman,Barbara Ann Mikulski,1
+6438,Joseph I. Lieberman,Susan Margaret Collins,1
+6442,Joseph I. Lieberman,Barack Obama,1
+6443,Joseph I. Lieberman,Joseph Robinette Biden,1
+6448,Joseph I. Lieberman,Mark Dayton,1
+6449,Joseph I. Lieberman,Frank R. Lautenberg,1
+6450,Joseph I. Lieberman,Herbert H. Kohl,1
+6453,Joseph I. Lieberman,Patrick Joseph Leahy,1
+6457,Joseph I. Lieberman,Evan Bayh,1
+6458,Joseph I. Lieberman,Mark Lunsford Pryor,1
+6463,Joseph I. Lieberman,Robert Menendez,1
+6467,Russell D. Feingold,Ron Wyden,1
+6478,Russell D. Feingold,Edward Moore Kennedy,1
+6479,Russell D. Feingold,Dianne Feinstein,1
+6484,Russell D. Feingold,Richard J. Durbin,1
+6488,Russell D. Feingold,Christopher John Dodd,1
+6495,Russell D. Feingold,Barbara Boxer,1
+6510,Russell D. Feingold,Carl Milton Levin,1
+6521,Russell D. Feingold,Jon S. Corzine,1
+6527,Russell D. Feingold,Joseph I. Lieberman,1
+6531,Russell D. Feingold,Deborah Ann Stabenow,1
+6535,Russell D. Feingold,John Forbes Kerry,1
+6537,Russell D. Feingold,Barbara Ann Mikulski,1
+6543,Russell D. Feingold,Barack Obama,1
+6549,Russell D. Feingold,Mark Dayton,1
+6550,Russell D. Feingold,Frank R. Lautenberg,1
+6551,Russell D. Feingold,Herbert H. Kohl,1
+6554,Russell D. Feingold,Patrick Joseph Leahy,1
+6565,Saxby Chambliss,Mel Martinez,1
+6567,Saxby Chambliss,A. Wayne Allard,1
+6571,Saxby Chambliss,George F. Allen,1
+6573,Saxby Chambliss,Jon Llewellyn Kyl,1
+6591,Saxby Chambliss,Pat Roberts,1
+6593,Saxby Chambliss,Jim Bunning,1
+6608,Saxby Chambliss,Chester Trent Lott,1
+6613,Saxby Chambliss,Thad Cochran,1
+6614,Saxby Chambliss,John R. Thune,1
+6616,Saxby Chambliss,Elizabeth H. Dole,1
+6620,Saxby Chambliss,David Vitter,1
+6631,Saxby Chambliss,Lindsey O. Graham,1
+6639,Saxby Chambliss,Johnny Isakson,1
+6658,Saxby Chambliss,Jeff Sessions,1
+6663,Saxby Chambliss,Mitch Mcconnell,1
+6664,Saxby Chambliss,Richard Burr,1
+6670,Lindsey O. Graham,Charles Ernest Grassley,1
+6672,Lindsey O. Graham,George F. Allen,1
+6674,Lindsey O. Graham,Jon Llewellyn Kyl,1
+6683,Lindsey O. Graham,James W. Demint,1
+6694,Lindsey O. Graham,Jim Bunning,1
+6709,Lindsey O. Graham,Chester Trent Lott,1
+6717,Lindsey O. Graham,Elizabeth H. Dole,1
+6731,Lindsey O. Graham,Saxby Chambliss,1
+6740,Lindsey O. Graham,Johnny Isakson,1
+6759,Lindsey O. Graham,Jeff Sessions,1
+6765,Lindsey O. Graham,Richard Burr,1
+6770,Deborah Ann Stabenow,Ron Wyden,1
+6776,Deborah Ann Stabenow,Jesse Francis Bingaman,1
+6780,Deborah Ann Stabenow,James Merrill Jeffords,1
+6781,Deborah Ann Stabenow,Edward Moore Kennedy,1
+6782,Deborah Ann Stabenow,Dianne Feinstein,1
+6786,Deborah Ann Stabenow,Paul Spyros Sarbanes,1
+6787,Deborah Ann Stabenow,Richard J. Durbin,1
+6791,Deborah Ann Stabenow,Christopher John Dodd,1
+6792,Deborah Ann Stabenow,Hillary R Clinton,1
+6794,Deborah Ann Stabenow,Mary Landrieu,1
+6796,Deborah Ann Stabenow,John F. Reed,1
+6797,Deborah Ann Stabenow,Maria Cantwell,1
+6798,Deborah Ann Stabenow,Barbara Boxer,1
+6801,Deborah Ann Stabenow,Ken Salazar,1
+6802,Deborah Ann Stabenow,Daniel Kohikina Akaka,1
+6806,Deborah Ann Stabenow,Charles E. Schumer,1
+6808,Deborah Ann Stabenow,Blanche Lambert Lincoln,1
+6811,Deborah Ann Stabenow,Harry M. Reid,1
+6812,Deborah Ann Stabenow,Clarence William Nelson,1
+6813,Deborah Ann Stabenow,Carl Milton Levin,1
+6814,Deborah Ann Stabenow,Patty Murray,1
+6819,Deborah Ann Stabenow,Thomas Richard Harkin,1
+6820,Deborah Ann Stabenow,Tim Johnson,1
+6824,Deborah Ann Stabenow,Jon S. Corzine,1
+6826,Deborah Ann Stabenow,Jay Rockefeller,1
+6828,Deborah Ann Stabenow,Kent Conrad,1
+6830,Deborah Ann Stabenow,Joseph I. Lieberman,1
+6831,Deborah Ann Stabenow,Russell D. Feingold,1
+6838,Deborah Ann Stabenow,John Forbes Kerry,1
+6840,Deborah Ann Stabenow,Barbara Ann Mikulski,1
+6842,Deborah Ann Stabenow,Susan Margaret Collins,1
+6846,Deborah Ann Stabenow,Barack Obama,1
+6851,Deborah Ann Stabenow,Michael Dewine,1
+6852,Deborah Ann Stabenow,Mark Dayton,1
+6853,Deborah Ann Stabenow,Frank R. Lautenberg,1
+6854,Deborah Ann Stabenow,Herbert H. Kohl,1
+6856,Deborah Ann Stabenow,E. Benjamin Nelson,1
+6857,Deborah Ann Stabenow,Patrick Joseph Leahy,1
+6861,Deborah Ann Stabenow,Evan Bayh,1
+6862,Deborah Ann Stabenow,Mark Lunsford Pryor,1
+6863,Deborah Ann Stabenow,Byron Leslie Dorgan,1
+6867,Deborah Ann Stabenow,Robert Menendez,1
+6869,Larry Edwin Craig,Pete Vichi Domenici,1
+6870,Larry Edwin Craig,A. Wayne Allard,1
+6874,Larry Edwin Craig,George F. Allen,1
+6879,Larry Edwin Craig,Michael D. Crapo,1
+6880,Larry Edwin Craig,Michael B. Enzi,1
+6894,Larry Edwin Craig,Pat Roberts,1
+6896,Larry Edwin Craig,Jim Bunning,1
+6901,Larry Edwin Craig,Jim Inhofe,1
+6906,Larry Edwin Craig,John E. Sununu,1
+6916,Larry Edwin Craig,Thad Cochran,1
+6917,Larry Edwin Craig,John R. Thune,1
+6930,Larry Edwin Craig,Lisa Murkowski,1
+6949,Larry Edwin Craig,Conrad R. Burns,1
+6950,Larry Edwin Craig,Chuck Hagel,1
+6960,Larry Edwin Craig,John Ensign,1
+6965,Larry Edwin Craig,Craig Thomas,1
+7028,Robert Carlyle Byrd,Jay Rockefeller,1
+7030,Robert Carlyle Byrd,Kent Conrad,1
+7064,Robert Carlyle Byrd,Mark Lunsford Pryor,1
+7065,Robert Carlyle Byrd,Byron Leslie Dorgan,1
+7071,Robert F. Bennett,Pete Vichi Domenici,1
+7096,Robert F. Bennett,Pat Roberts,1
+7106,Robert F. Bennett,Orrin Grant Hatch,1
+7151,Robert F. Bennett,Conrad R. Burns,1
+7168,Robert F. Bennett,Mitch Mcconnell,1
+7174,John Forbes Kerry,Ron Wyden,1
+7180,John Forbes Kerry,Jesse Francis Bingaman,1
+7184,John Forbes Kerry,James Merrill Jeffords,1
+7185,John Forbes Kerry,Edward Moore Kennedy,1
+7186,John Forbes Kerry,Dianne Feinstein,1
+7187,John Forbes Kerry,Olympia J. Snowe,1
+7189,John Forbes Kerry,Lincoln D. Chafee,1
+7190,John Forbes Kerry,Paul Spyros Sarbanes,1
+7191,John Forbes Kerry,Richard J. Durbin,1
+7195,John Forbes Kerry,Christopher John Dodd,1
+7196,John Forbes Kerry,Hillary R Clinton,1
+7198,John Forbes Kerry,Mary Landrieu,1
+7200,John Forbes Kerry,John F. Reed,1
+7201,John Forbes Kerry,Maria Cantwell,1
+7202,John Forbes Kerry,Barbara Boxer,1
+7205,John Forbes Kerry,Ken Salazar,1
+7206,John Forbes Kerry,Daniel Kohikina Akaka,1
+7210,John Forbes Kerry,Charles E. Schumer,1
+7216,John Forbes Kerry,Clarence William Nelson,1
+7217,John Forbes Kerry,Carl Milton Levin,1
+7218,John Forbes Kerry,Patty Murray,1
+7223,John Forbes Kerry,Thomas Richard Harkin,1
+7224,John Forbes Kerry,Tim Johnson,1
+7228,John Forbes Kerry,Jon S. Corzine,1
+7234,John Forbes Kerry,Joseph I. Lieberman,1
+7235,John Forbes Kerry,Russell D. Feingold,1
+7238,John Forbes Kerry,Deborah Ann Stabenow,1
+7244,John Forbes Kerry,Barbara Ann Mikulski,1
+7250,John Forbes Kerry,Barack Obama,1
+7251,John Forbes Kerry,Joseph Robinette Biden,1
+7256,John Forbes Kerry,Mark Dayton,1
+7257,John Forbes Kerry,Frank R. Lautenberg,1
+7258,John Forbes Kerry,Herbert H. Kohl,1
+7261,John Forbes Kerry,Patrick Joseph Leahy,1
+7265,John Forbes Kerry,Evan Bayh,1
+7266,John Forbes Kerry,Mark Lunsford Pryor,1
+7271,John Forbes Kerry,Robert Menendez,1
+7301,Thomas R. Carper,John F. Reed,1
+7335,Thomas R. Carper,Joseph I. Lieberman,1
+7345,Thomas R. Carper,Barbara Ann Mikulski,1
+7355,Thomas R. Carper,Judd Gregg,1
+7359,Thomas R. Carper,Herbert H. Kohl,1
+7366,Thomas R. Carper,Evan Bayh,1
+7376,Barbara Ann Mikulski,Ron Wyden,1
+7382,Barbara Ann Mikulski,Jesse Francis Bingaman,1
+7386,Barbara Ann Mikulski,James Merrill Jeffords,1
+7387,Barbara Ann Mikulski,Edward Moore Kennedy,1
+7388,Barbara Ann Mikulski,Dianne Feinstein,1
+7392,Barbara Ann Mikulski,Paul Spyros Sarbanes,1
+7393,Barbara Ann Mikulski,Richard J. Durbin,1
+7397,Barbara Ann Mikulski,Christopher John Dodd,1
+7398,Barbara Ann Mikulski,Hillary R Clinton,1
+7400,Barbara Ann Mikulski,Mary Landrieu,1
+7402,Barbara Ann Mikulski,John F. Reed,1
+7403,Barbara Ann Mikulski,Maria Cantwell,1
+7404,Barbara Ann Mikulski,Barbara Boxer,1
+7407,Barbara Ann Mikulski,Ken Salazar,1
+7408,Barbara Ann Mikulski,Daniel Kohikina Akaka,1
+7412,Barbara Ann Mikulski,Charles E. Schumer,1
+7414,Barbara Ann Mikulski,Blanche Lambert Lincoln,1
+7417,Barbara Ann Mikulski,Harry M. Reid,1
+7418,Barbara Ann Mikulski,Clarence William Nelson,1
+7419,Barbara Ann Mikulski,Carl Milton Levin,1
+7420,Barbara Ann Mikulski,Patty Murray,1
+7425,Barbara Ann Mikulski,Thomas Richard Harkin,1
+7426,Barbara Ann Mikulski,Tim Johnson,1
+7430,Barbara Ann Mikulski,Jon S. Corzine,1
+7432,Barbara Ann Mikulski,Jay Rockefeller,1
+7436,Barbara Ann Mikulski,Joseph I. Lieberman,1
+7437,Barbara Ann Mikulski,Russell D. Feingold,1
+7440,Barbara Ann Mikulski,Deborah Ann Stabenow,1
+7444,Barbara Ann Mikulski,John Forbes Kerry,1
+7445,Barbara Ann Mikulski,Thomas R. Carper,1
+7448,Barbara Ann Mikulski,Susan Margaret Collins,1
+7450,Barbara Ann Mikulski,Daniel Ken Inouye,1
+7452,Barbara Ann Mikulski,Barack Obama,1
+7453,Barbara Ann Mikulski,Joseph Robinette Biden,1
+7458,Barbara Ann Mikulski,Mark Dayton,1
+7459,Barbara Ann Mikulski,Frank R. Lautenberg,1
+7460,Barbara Ann Mikulski,Herbert H. Kohl,1
+7462,Barbara Ann Mikulski,E. Benjamin Nelson,1
+7463,Barbara Ann Mikulski,Patrick Joseph Leahy,1
+7467,Barbara Ann Mikulski,Evan Bayh,1
+7468,Barbara Ann Mikulski,Mark Lunsford Pryor,1
+7469,Barbara Ann Mikulski,Byron Leslie Dorgan,1
+7473,Barbara Ann Mikulski,Robert Menendez,1
+7474,Johnny Isakson,Mel Martinez,1
+7480,Johnny Isakson,George F. Allen,1
+7486,Johnny Isakson,Michael B. Enzi,1
+7491,Johnny Isakson,James W. Demint,1
+7495,Johnny Isakson,Jim Talent,1
+7500,Johnny Isakson,Pat Roberts,1
+7502,Johnny Isakson,Jim Bunning,1
+7506,Johnny Isakson,Lamar Alexander,1
+7522,Johnny Isakson,Thad Cochran,1
+7523,Johnny Isakson,John R. Thune,1
+7525,Johnny Isakson,Elizabeth H. Dole,1
+7529,Johnny Isakson,David Vitter,1
+7530,Johnny Isakson,John Cornyn,1
+7539,Johnny Isakson,Saxby Chambliss,1
+7540,Johnny Isakson,Lindsey O. Graham,1
+7562,Johnny Isakson,Christopher S. Bond,1
+7565,Johnny Isakson,Tom Coburn,1
+7567,Johnny Isakson,Jeff Sessions,1
+7573,Johnny Isakson,Richard Burr,1
+7588,Susan Margaret Collins,James Merrill Jeffords,1
+7591,Susan Margaret Collins,Olympia J. Snowe,1
+7593,Susan Margaret Collins,Lincoln D. Chafee,1
+7597,Susan Margaret Collins,Norm Coleman,1
+7599,Susan Margaret Collins,Christopher John Dodd,1
+7600,Susan Margaret Collins,Hillary R Clinton,1
+7602,Susan Margaret Collins,Mary Landrieu,1
+7604,Susan Margaret Collins,John F. Reed,1
+7605,Susan Margaret Collins,Maria Cantwell,1
+7606,Susan Margaret Collins,Barbara Boxer,1
+7616,Susan Margaret Collins,Blanche Lambert Lincoln,1
+7622,Susan Margaret Collins,Patty Murray,1
+7628,Susan Margaret Collins,Tim Johnson,1
+7638,Susan Margaret Collins,Joseph I. Lieberman,1
+7642,Susan Margaret Collins,Deborah Ann Stabenow,1
+7648,Susan Margaret Collins,Barbara Ann Mikulski,1
+7659,Susan Margaret Collins,Michael Dewine,1
+7660,Susan Margaret Collins,Mark Dayton,1
+7661,Susan Margaret Collins,Frank R. Lautenberg,1
+7664,Susan Margaret Collins,E. Benjamin Nelson,1
+7669,Susan Margaret Collins,Evan Bayh,1
+7670,Susan Margaret Collins,Mark Lunsford Pryor,1
+7676,Sam Brownback,Mel Martinez,1
+7684,Sam Brownback,Jon Llewellyn Kyl,1
+7686,Sam Brownback,Rick Santorum,1
+7702,Sam Brownback,Pat Roberts,1
+7704,Sam Brownback,Jim Bunning,1
+7709,Sam Brownback,Jim Inhofe,1
+7727,Sam Brownback,Elizabeth H. Dole,1
+7765,Sam Brownback,E. Benjamin Nelson,1
+7767,Sam Brownback,Tom Coburn,1
+7769,Sam Brownback,Jeff Sessions,1
+7774,Sam Brownback,Mitch Mcconnell,1
+7796,Daniel Ken Inouye,Paul Spyros Sarbanes,1
+7806,Daniel Ken Inouye,John F. Reed,1
+7807,Daniel Ken Inouye,Maria Cantwell,1
+7808,Daniel Ken Inouye,Barbara Boxer,1
+7812,Daniel Ken Inouye,Daniel Kohikina Akaka,1
+7819,Daniel Ken Inouye,Theodore F. Stevens,1
+7824,Daniel Ken Inouye,Patty Murray,1
+7850,Daniel Ken Inouye,Barbara Ann Mikulski,1
+7862,Daniel Ken Inouye,Mark Dayton,1
+7863,Daniel Ken Inouye,Frank R. Lautenberg,1
+7864,Daniel Ken Inouye,Herbert H. Kohl,1
+7872,Daniel Ken Inouye,Mark Lunsford Pryor,1
+7873,Daniel Ken Inouye,Byron Leslie Dorgan,1
+7972,Arlen Specter,Evan Bayh,1
+7993,Barack Obama,Edward Moore Kennedy,1
+7999,Barack Obama,Richard J. Durbin,1
+8003,Barack Obama,Christopher John Dodd,1
+8004,Barack Obama,Hillary R Clinton,1
+8010,Barack Obama,Barbara Boxer,1
+8013,Barack Obama,Ken Salazar,1
+8025,Barack Obama,Carl Milton Levin,1
+8031,Barack Obama,Thomas Richard Harkin,1
+8042,Barack Obama,Joseph I. Lieberman,1
+8043,Barack Obama,Russell D. Feingold,1
+8046,Barack Obama,Deborah Ann Stabenow,1
+8050,Barack Obama,John Forbes Kerry,1
+8052,Barack Obama,Barbara Ann Mikulski,1
+8059,Barack Obama,Joseph Robinette Biden,1
+8064,Barack Obama,Mark Dayton,1
+8066,Barack Obama,Herbert H. Kohl,1
+8069,Barack Obama,Patrick Joseph Leahy,1
+8073,Barack Obama,Evan Bayh,1
+8083,Joseph Robinette Biden,Ron Wyden,1
+8087,Joseph Robinette Biden,Richard Green Lugar,1
+8099,Joseph Robinette Biden,Paul Spyros Sarbanes,1
+8100,Joseph Robinette Biden,Richard J. Durbin,1
+8104,Joseph Robinette Biden,Christopher John Dodd,1
+8109,Joseph Robinette Biden,John F. Reed,1
+8110,Joseph Robinette Biden,Maria Cantwell,1
+8111,Joseph Robinette Biden,Barbara Boxer,1
+8114,Joseph Robinette Biden,Ken Salazar,1
+8119,Joseph Robinette Biden,Charles E. Schumer,1
+8125,Joseph Robinette Biden,Clarence William Nelson,1
+8126,Joseph Robinette Biden,Carl Milton Levin,1
+8143,Joseph Robinette Biden,Joseph I. Lieberman,1
+8151,Joseph Robinette Biden,John Forbes Kerry,1
+8153,Joseph Robinette Biden,Barbara Ann Mikulski,1
+8159,Joseph Robinette Biden,Barack Obama,1
+8162,Joseph Robinette Biden,Chuck Hagel,1
+8166,Joseph Robinette Biden,Frank R. Lautenberg,1
+8170,Joseph Robinette Biden,Patrick Joseph Leahy,1
+8181,Conrad R. Burns,Mel Martinez,1
+8182,Conrad R. Burns,Pete Vichi Domenici,1
+8183,Conrad R. Burns,A. Wayne Allard,1
+8187,Conrad R. Burns,George F. Allen,1
+8192,Conrad R. Burns,Michael D. Crapo,1
+8193,Conrad R. Burns,Michael B. Enzi,1
+8202,Conrad R. Burns,Jim Talent,1
+8207,Conrad R. Burns,Pat Roberts,1
+8209,Conrad R. Burns,Jim Bunning,1
+8223,Conrad R. Burns,Theodore F. Stevens,1
+8224,Conrad R. Burns,Chester Trent Lott,1
+8229,Conrad R. Burns,Thad Cochran,1
+8230,Conrad R. Burns,John R. Thune,1
+8235,Conrad R. Burns,Kay Bailey Hutchison,1
+8241,Conrad R. Burns,Max Sieben Baucus,1
+8242,Conrad R. Burns,Kent Conrad,1
+8243,Conrad R. Burns,Lisa Murkowski,1
+8249,Conrad R. Burns,Larry Edwin Craig,1
+8251,Conrad R. Burns,Robert F. Bennett,1
+8269,Conrad R. Burns,Christopher S. Bond,1
+8270,Conrad R. Burns,E. Benjamin Nelson,1
+8273,Conrad R. Burns,John Ensign,1
+8276,Conrad R. Burns,Mark Lunsford Pryor,1
+8277,Conrad R. Burns,Byron Leslie Dorgan,1
+8278,Conrad R. Burns,Craig Thomas,1
+8282,Chuck Hagel,Mel Martinez,1
+8283,Chuck Hagel,Pete Vichi Domenici,1
+8286,Chuck Hagel,Charles Ernest Grassley,1
+8289,Chuck Hagel,Richard Green Lugar,1
+8303,Chuck Hagel,Jim Talent,1
+8304,Chuck Hagel,Norm Coleman,1
+8308,Chuck Hagel,Pat Roberts,1
+8314,Chuck Hagel,Lamar Alexander,1
+8320,Chuck Hagel,John E. Sununu,1
+8330,Chuck Hagel,Thad Cochran,1
+8331,Chuck Hagel,John R. Thune,1
+8333,Chuck Hagel,Elizabeth H. Dole,1
+8335,Chuck Hagel,Tim Johnson,1
+8350,Chuck Hagel,Larry Edwin Craig,1
+8362,Chuck Hagel,Joseph Robinette Biden,1
+8366,Chuck Hagel,Michael Dewine,1
+8371,Chuck Hagel,E. Benjamin Nelson,1
+8377,Chuck Hagel,Mark Lunsford Pryor,1
+8421,Judd Gregg,John E. Sununu,1
+8455,Judd Gregg,Thomas R. Carper,1
+8476,Judd Gregg,Jeff Sessions,1
+8506,Michael Dewine,Norm Coleman,1
+8529,Michael Dewine,Clarence William Nelson,1
+8534,Michael Dewine,George V. Voinovich,1
+8551,Michael Dewine,Deborah Ann Stabenow,1
+8559,Michael Dewine,Susan Margaret Collins,1
+8566,Michael Dewine,Chuck Hagel,1
+8578,Michael Dewine,Evan Bayh,1
+8588,Mark Dayton,Ron Wyden,1
+8594,Mark Dayton,Jesse Francis Bingaman,1
+8598,Mark Dayton,James Merrill Jeffords,1
+8599,Mark Dayton,Edward Moore Kennedy,1
+8604,Mark Dayton,Paul Spyros Sarbanes,1
+8605,Mark Dayton,Richard J. Durbin,1
+8607,Mark Dayton,Norm Coleman,1
+8609,Mark Dayton,Christopher John Dodd,1
+8610,Mark Dayton,Hillary R Clinton,1
+8612,Mark Dayton,Mary Landrieu,1
+8614,Mark Dayton,John F. Reed,1
+8615,Mark Dayton,Maria Cantwell,1
+8616,Mark Dayton,Barbara Boxer,1
+8619,Mark Dayton,Ken Salazar,1
+8620,Mark Dayton,Daniel Kohikina Akaka,1
+8624,Mark Dayton,Charles E. Schumer,1
+8626,Mark Dayton,Blanche Lambert Lincoln,1
+8629,Mark Dayton,Harry M. Reid,1
+8630,Mark Dayton,Clarence William Nelson,1
+8631,Mark Dayton,Carl Milton Levin,1
+8632,Mark Dayton,Patty Murray,1
+8637,Mark Dayton,Thomas Richard Harkin,1
+8638,Mark Dayton,Tim Johnson,1
+8642,Mark Dayton,Jon S. Corzine,1
+8646,Mark Dayton,Kent Conrad,1
+8648,Mark Dayton,Joseph I. Lieberman,1
+8649,Mark Dayton,Russell D. Feingold,1
+8652,Mark Dayton,Deborah Ann Stabenow,1
+8656,Mark Dayton,John Forbes Kerry,1
+8658,Mark Dayton,Barbara Ann Mikulski,1
+8660,Mark Dayton,Susan Margaret Collins,1
+8662,Mark Dayton,Daniel Ken Inouye,1
+8664,Mark Dayton,Barack Obama,1
+8671,Mark Dayton,Frank R. Lautenberg,1
+8672,Mark Dayton,Herbert H. Kohl,1
+8674,Mark Dayton,E. Benjamin Nelson,1
+8675,Mark Dayton,Patrick Joseph Leahy,1
+8679,Mark Dayton,Evan Bayh,1
+8680,Mark Dayton,Mark Lunsford Pryor,1
+8681,Mark Dayton,Byron Leslie Dorgan,1
+8699,Frank R. Lautenberg,James Merrill Jeffords,1
+8700,Frank R. Lautenberg,Edward Moore Kennedy,1
+8701,Frank R. Lautenberg,Dianne Feinstein,1
+8705,Frank R. Lautenberg,Paul Spyros Sarbanes,1
+8706,Frank R. Lautenberg,Richard J. Durbin,1
+8710,Frank R. Lautenberg,Christopher John Dodd,1
+8711,Frank R. Lautenberg,Hillary R Clinton,1
+8713,Frank R. Lautenberg,Mary Landrieu,1
+8715,Frank R. Lautenberg,John F. Reed,1
+8716,Frank R. Lautenberg,Maria Cantwell,1
+8717,Frank R. Lautenberg,Barbara Boxer,1
+8721,Frank R. Lautenberg,Daniel Kohikina Akaka,1
+8725,Frank R. Lautenberg,Charles E. Schumer,1
+8731,Frank R. Lautenberg,Clarence William Nelson,1
+8732,Frank R. Lautenberg,Carl Milton Levin,1
+8733,Frank R. Lautenberg,Patty Murray,1
+8738,Frank R. Lautenberg,Thomas Richard Harkin,1
+8739,Frank R. Lautenberg,Tim Johnson,1
+8743,Frank R. Lautenberg,Jon S. Corzine,1
+8749,Frank R. Lautenberg,Joseph I. Lieberman,1
+8750,Frank R. Lautenberg,Russell D. Feingold,1
+8753,Frank R. Lautenberg,Deborah Ann Stabenow,1
+8757,Frank R. Lautenberg,John Forbes Kerry,1
+8759,Frank R. Lautenberg,Barbara Ann Mikulski,1
+8761,Frank R. Lautenberg,Susan Margaret Collins,1
+8763,Frank R. Lautenberg,Daniel Ken Inouye,1
+8766,Frank R. Lautenberg,Joseph Robinette Biden,1
+8771,Frank R. Lautenberg,Mark Dayton,1
+8773,Frank R. Lautenberg,Herbert H. Kohl,1
+8776,Frank R. Lautenberg,Patrick Joseph Leahy,1
+8780,Frank R. Lautenberg,Evan Bayh,1
+8781,Frank R. Lautenberg,Mark Lunsford Pryor,1
+8786,Frank R. Lautenberg,Robert Menendez,1
+8796,Herbert H. Kohl,Jesse Francis Bingaman,1
+8801,Herbert H. Kohl,Edward Moore Kennedy,1
+8802,Herbert H. Kohl,Dianne Feinstein,1
+8806,Herbert H. Kohl,Paul Spyros Sarbanes,1
+8807,Herbert H. Kohl,Richard J. Durbin,1
+8811,Herbert H. Kohl,Christopher John Dodd,1
+8812,Herbert H. Kohl,Hillary R Clinton,1
+8814,Herbert H. Kohl,Mary Landrieu,1
+8816,Herbert H. Kohl,John F. Reed,1
+8817,Herbert H. Kohl,Maria Cantwell,1
+8818,Herbert H. Kohl,Barbara Boxer,1
+8821,Herbert H. Kohl,Ken Salazar,1
+8826,Herbert H. Kohl,Charles E. Schumer,1
+8828,Herbert H. Kohl,Blanche Lambert Lincoln,1
+8831,Herbert H. Kohl,Harry M. Reid,1
+8832,Herbert H. Kohl,Clarence William Nelson,1
+8833,Herbert H. Kohl,Carl Milton Levin,1
+8834,Herbert H. Kohl,Patty Murray,1
+8839,Herbert H. Kohl,Thomas Richard Harkin,1
+8840,Herbert H. Kohl,Tim Johnson,1
+8846,Herbert H. Kohl,Jay Rockefeller,1
+8848,Herbert H. Kohl,Kent Conrad,1
+8850,Herbert H. Kohl,Joseph I. Lieberman,1
+8851,Herbert H. Kohl,Russell D. Feingold,1
+8854,Herbert H. Kohl,Deborah Ann Stabenow,1
+8858,Herbert H. Kohl,John Forbes Kerry,1
+8859,Herbert H. Kohl,Thomas R. Carper,1
+8860,Herbert H. Kohl,Barbara Ann Mikulski,1
+8864,Herbert H. Kohl,Daniel Ken Inouye,1
+8866,Herbert H. Kohl,Barack Obama,1
+8872,Herbert H. Kohl,Mark Dayton,1
+8873,Herbert H. Kohl,Frank R. Lautenberg,1
+8877,Herbert H. Kohl,Patrick Joseph Leahy,1
+8881,Herbert H. Kohl,Evan Bayh,1
+8882,Herbert H. Kohl,Mark Lunsford Pryor,1
+8883,Herbert H. Kohl,Byron Leslie Dorgan,1
+8909,Christopher S. Bond,Jim Talent,1
+8914,Christopher S. Bond,Pat Roberts,1
+8929,Christopher S. Bond,Blanche Lambert Lincoln,1
+8937,Christopher S. Bond,John R. Thune,1
+8943,Christopher S. Bond,David Vitter,1
+8962,Christopher S. Bond,Johnny Isakson,1
+8969,Christopher S. Bond,Conrad R. Burns,1
+8983,Christopher S. Bond,Mark Lunsford Pryor,1
+8985,Christopher S. Bond,Craig Thomas,1
+8989,E. Benjamin Nelson,Mel Martinez,1
+8990,E. Benjamin Nelson,Pete Vichi Domenici,1
+8993,E. Benjamin Nelson,Charles Ernest Grassley,1
+9010,E. Benjamin Nelson,Jim Talent,1
+9011,E. Benjamin Nelson,Norm Coleman,1
+9015,E. Benjamin Nelson,Pat Roberts,1
+9016,E. Benjamin Nelson,Mary Landrieu,1
+9017,E. Benjamin Nelson,Jim Bunning,1
+9023,E. Benjamin Nelson,Ken Salazar,1
+9030,E. Benjamin Nelson,Blanche Lambert Lincoln,1
+9034,E. Benjamin Nelson,Clarence William Nelson,1
+9036,E. Benjamin Nelson,Patty Murray,1
+9037,E. Benjamin Nelson,Thad Cochran,1
+9038,E. Benjamin Nelson,John R. Thune,1
+9040,E. Benjamin Nelson,Elizabeth H. Dole,1
+9042,E. Benjamin Nelson,Tim Johnson,1
+9044,E. Benjamin Nelson,David Vitter,1
+9049,E. Benjamin Nelson,Max Sieben Baucus,1
+9050,E. Benjamin Nelson,Kent Conrad,1
+9056,E. Benjamin Nelson,Deborah Ann Stabenow,1
+9062,E. Benjamin Nelson,Barbara Ann Mikulski,1
+9064,E. Benjamin Nelson,Susan Margaret Collins,1
+9065,E. Benjamin Nelson,Sam Brownback,1
+9070,E. Benjamin Nelson,Conrad R. Burns,1
+9071,E. Benjamin Nelson,Chuck Hagel,1
+9074,E. Benjamin Nelson,Mark Dayton,1
+9084,E. Benjamin Nelson,Mark Lunsford Pryor,1
+9085,E. Benjamin Nelson,Byron Leslie Dorgan,1
+9093,Patrick Joseph Leahy,Ron Wyden,1
+9103,Patrick Joseph Leahy,James Merrill Jeffords,1
+9104,Patrick Joseph Leahy,Edward Moore Kennedy,1
+9105,Patrick Joseph Leahy,Dianne Feinstein,1
+9109,Patrick Joseph Leahy,Paul Spyros Sarbanes,1
+9110,Patrick Joseph Leahy,Richard J. Durbin,1
+9114,Patrick Joseph Leahy,Christopher John Dodd,1
+9115,Patrick Joseph Leahy,Hillary R Clinton,1
+9119,Patrick Joseph Leahy,John F. Reed,1
+9120,Patrick Joseph Leahy,Maria Cantwell,1
+9121,Patrick Joseph Leahy,Barbara Boxer,1
+9129,Patrick Joseph Leahy,Charles E. Schumer,1
+9131,Patrick Joseph Leahy,Blanche Lambert Lincoln,1
+9135,Patrick Joseph Leahy,Clarence William Nelson,1
+9137,Patrick Joseph Leahy,Patty Murray,1
+9142,Patrick Joseph Leahy,Thomas Richard Harkin,1
+9143,Patrick Joseph Leahy,Tim Johnson,1
+9147,Patrick Joseph Leahy,Jon S. Corzine,1
+9153,Patrick Joseph Leahy,Joseph I. Lieberman,1
+9154,Patrick Joseph Leahy,Russell D. Feingold,1
+9157,Patrick Joseph Leahy,Deborah Ann Stabenow,1
+9161,Patrick Joseph Leahy,John Forbes Kerry,1
+9163,Patrick Joseph Leahy,Barbara Ann Mikulski,1
+9169,Patrick Joseph Leahy,Barack Obama,1
+9170,Patrick Joseph Leahy,Joseph Robinette Biden,1
+9175,Patrick Joseph Leahy,Mark Dayton,1
+9176,Patrick Joseph Leahy,Frank R. Lautenberg,1
+9177,Patrick Joseph Leahy,Herbert H. Kohl,1
+9184,Patrick Joseph Leahy,Evan Bayh,1
+9185,Patrick Joseph Leahy,Mark Lunsford Pryor,1
+9191,Tom Coburn,Mel Martinez,1
+9193,Tom Coburn,A. Wayne Allard,1
+9197,Tom Coburn,George F. Allen,1
+9199,Tom Coburn,Jon Llewellyn Kyl,1
+9201,Tom Coburn,Rick Santorum,1
+9208,Tom Coburn,James W. Demint,1
+9219,Tom Coburn,Jim Bunning,1
+9224,Tom Coburn,Jim Inhofe,1
+9240,Tom Coburn,John R. Thune,1
+9242,Tom Coburn,Elizabeth H. Dole,1
+9246,Tom Coburn,David Vitter,1
+9247,Tom Coburn,John Cornyn,1
+9265,Tom Coburn,Johnny Isakson,1
+9267,Tom Coburn,Sam Brownback,1
+9283,Tom Coburn,John Ensign,1
+9284,Tom Coburn,Jeff Sessions,1
+9288,Tom Coburn,Craig Thomas,1
+9290,Tom Coburn,Richard Burr,1
+9292,John Ensign,Mel Martinez,1
+9294,John Ensign,A. Wayne Allard,1
+9298,John Ensign,George F. Allen,1
+9300,John Ensign,Jon Llewellyn Kyl,1
+9309,John Ensign,James W. Demint,1
+9320,John Ensign,Jim Bunning,1
+9325,John Ensign,Jim Inhofe,1
+9330,John Ensign,John E. Sununu,1
+9341,John Ensign,John R. Thune,1
+9360,John Ensign,Larry Edwin Craig,1
+9373,John Ensign,Conrad R. Burns,1
+9383,John Ensign,Tom Coburn,1
+9385,John Ensign,Jeff Sessions,1
+9390,John Ensign,Mitch Mcconnell,1
+9391,John Ensign,Richard Burr,1
+9393,Jeff Sessions,Mel Martinez,1
+9395,Jeff Sessions,A. Wayne Allard,1
+9401,Jeff Sessions,Jon Llewellyn Kyl,1
+9405,Jeff Sessions,Michael B. Enzi,1
+9410,Jeff Sessions,James W. Demint,1
+9419,Jeff Sessions,Pat Roberts,1
+9421,Jeff Sessions,Jim Bunning,1
+9425,Jeff Sessions,Lamar Alexander,1
+9426,Jeff Sessions,Jim Inhofe,1
+9429,Jeff Sessions,Orrin Grant Hatch,1
+9436,Jeff Sessions,Chester Trent Lott,1
+9442,Jeff Sessions,John R. Thune,1
+9444,Jeff Sessions,Elizabeth H. Dole,1
+9448,Jeff Sessions,David Vitter,1
+9449,Jeff Sessions,John Cornyn,1
+9451,Jeff Sessions,Richard Craig Shelby,1
+9458,Jeff Sessions,Saxby Chambliss,1
+9459,Jeff Sessions,Lindsey O. Graham,1
+9467,Jeff Sessions,Johnny Isakson,1
+9469,Jeff Sessions,Sam Brownback,1
+9476,Jeff Sessions,Judd Gregg,1
+9484,Jeff Sessions,Tom Coburn,1
+9485,Jeff Sessions,John Ensign,1
+9491,Jeff Sessions,Mitch Mcconnell,1
+9492,Jeff Sessions,Richard Burr,1
+9497,Evan Bayh,Ron Wyden,1
+9501,Evan Bayh,Richard Green Lugar,1
+9503,Evan Bayh,Jesse Francis Bingaman,1
+9509,Evan Bayh,Dianne Feinstein,1
+9513,Evan Bayh,Paul Spyros Sarbanes,1
+9514,Evan Bayh,Richard J. Durbin,1
+9516,Evan Bayh,Norm Coleman,1
+9518,Evan Bayh,Christopher John Dodd,1
+9519,Evan Bayh,Hillary R Clinton,1
+9521,Evan Bayh,Mary Landrieu,1
+9523,Evan Bayh,John F. Reed,1
+9524,Evan Bayh,Maria Cantwell,1
+9525,Evan Bayh,Barbara Boxer,1
+9528,Evan Bayh,Ken Salazar,1
+9533,Evan Bayh,Charles E. Schumer,1
+9535,Evan Bayh,Blanche Lambert Lincoln,1
+9539,Evan Bayh,Clarence William Nelson,1
+9540,Evan Bayh,Carl Milton Levin,1
+9541,Evan Bayh,Patty Murray,1
+9546,Evan Bayh,Thomas Richard Harkin,1
+9547,Evan Bayh,Tim Johnson,1
+9553,Evan Bayh,Jay Rockefeller,1
+9555,Evan Bayh,Kent Conrad,1
+9557,Evan Bayh,Joseph I. Lieberman,1
+9561,Evan Bayh,Deborah Ann Stabenow,1
+9565,Evan Bayh,John Forbes Kerry,1
+9566,Evan Bayh,Thomas R. Carper,1
+9567,Evan Bayh,Barbara Ann Mikulski,1
+9569,Evan Bayh,Susan Margaret Collins,1
+9572,Evan Bayh,Arlen Specter,1
+9573,Evan Bayh,Barack Obama,1
+9578,Evan Bayh,Michael Dewine,1
+9579,Evan Bayh,Mark Dayton,1
+9580,Evan Bayh,Frank R. Lautenberg,1
+9581,Evan Bayh,Herbert H. Kohl,1
+9584,Evan Bayh,Patrick Joseph Leahy,1
+9589,Evan Bayh,Mark Lunsford Pryor,1
+9604,Mark Lunsford Pryor,Jesse Francis Bingaman,1
+9608,Mark Lunsford Pryor,James Merrill Jeffords,1
+9611,Mark Lunsford Pryor,Olympia J. Snowe,1
+9615,Mark Lunsford Pryor,Richard J. Durbin,1
+9616,Mark Lunsford Pryor,Jim Talent,1
+9617,Mark Lunsford Pryor,Norm Coleman,1
+9620,Mark Lunsford Pryor,Hillary R Clinton,1
+9621,Mark Lunsford Pryor,Pat Roberts,1
+9622,Mark Lunsford Pryor,Mary Landrieu,1
+9624,Mark Lunsford Pryor,John F. Reed,1
+9625,Mark Lunsford Pryor,Maria Cantwell,1
+9626,Mark Lunsford Pryor,Barbara Boxer,1
+9629,Mark Lunsford Pryor,Ken Salazar,1
+9630,Mark Lunsford Pryor,Daniel Kohikina Akaka,1
+9634,Mark Lunsford Pryor,Charles E. Schumer,1
+9636,Mark Lunsford Pryor,Blanche Lambert Lincoln,1
+9640,Mark Lunsford Pryor,Clarence William Nelson,1
+9642,Mark Lunsford Pryor,Patty Murray,1
+9647,Mark Lunsford Pryor,Thomas Richard Harkin,1
+9648,Mark Lunsford Pryor,Tim Johnson,1
+9654,Mark Lunsford Pryor,Jay Rockefeller,1
+9655,Mark Lunsford Pryor,Max Sieben Baucus,1
+9656,Mark Lunsford Pryor,Kent Conrad,1
+9658,Mark Lunsford Pryor,Joseph I. Lieberman,1
+9662,Mark Lunsford Pryor,Deborah Ann Stabenow,1
+9664,Mark Lunsford Pryor,Robert Carlyle Byrd,1
+9666,Mark Lunsford Pryor,John Forbes Kerry,1
+9668,Mark Lunsford Pryor,Barbara Ann Mikulski,1
+9670,Mark Lunsford Pryor,Susan Margaret Collins,1
+9672,Mark Lunsford Pryor,Daniel Ken Inouye,1
+9676,Mark Lunsford Pryor,Conrad R. Burns,1
+9677,Mark Lunsford Pryor,Chuck Hagel,1
+9680,Mark Lunsford Pryor,Mark Dayton,1
+9681,Mark Lunsford Pryor,Frank R. Lautenberg,1
+9682,Mark Lunsford Pryor,Herbert H. Kohl,1
+9683,Mark Lunsford Pryor,Christopher S. Bond,1
+9684,Mark Lunsford Pryor,E. Benjamin Nelson,1
+9685,Mark Lunsford Pryor,Patrick Joseph Leahy,1
+9689,Mark Lunsford Pryor,Evan Bayh,1
+9691,Mark Lunsford Pryor,Byron Leslie Dorgan,1
+9705,Byron Leslie Dorgan,Jesse Francis Bingaman,1
+9726,Byron Leslie Dorgan,Maria Cantwell,1
+9730,Byron Leslie Dorgan,Ken Salazar,1
+9737,Byron Leslie Dorgan,Blanche Lambert Lincoln,1
+9741,Byron Leslie Dorgan,Clarence William Nelson,1
+9745,Byron Leslie Dorgan,John R. Thune,1
+9748,Byron Leslie Dorgan,Thomas Richard Harkin,1
+9749,Byron Leslie Dorgan,Tim Johnson,1
+9755,Byron Leslie Dorgan,Jay Rockefeller,1
+9756,Byron Leslie Dorgan,Max Sieben Baucus,1
+9757,Byron Leslie Dorgan,Kent Conrad,1
+9763,Byron Leslie Dorgan,Deborah Ann Stabenow,1
+9765,Byron Leslie Dorgan,Robert Carlyle Byrd,1
+9769,Byron Leslie Dorgan,Barbara Ann Mikulski,1
+9773,Byron Leslie Dorgan,Daniel Ken Inouye,1
+9777,Byron Leslie Dorgan,Conrad R. Burns,1
+9781,Byron Leslie Dorgan,Mark Dayton,1
+9783,Byron Leslie Dorgan,Herbert H. Kohl,1
+9785,Byron Leslie Dorgan,E. Benjamin Nelson,1
+9791,Byron Leslie Dorgan,Mark Lunsford Pryor,1
+9793,Byron Leslie Dorgan,Craig Thomas,1
+9799,Craig Thomas,A. Wayne Allard,1
+9801,Craig Thomas,Charles Ernest Grassley,1
+9803,Craig Thomas,George F. Allen,1
+9805,Craig Thomas,Jon Llewellyn Kyl,1
+9808,Craig Thomas,Michael D. Crapo,1
+9809,Craig Thomas,Michael B. Enzi,1
+9823,Craig Thomas,Pat Roberts,1
+9825,Craig Thomas,Jim Bunning,1
+9839,Craig Thomas,Theodore F. Stevens,1
+9846,Craig Thomas,John R. Thune,1
+9857,Craig Thomas,Max Sieben Baucus,1
+9858,Craig Thomas,Kent Conrad,1
+9865,Craig Thomas,Larry Edwin Craig,1
+9878,Craig Thomas,Conrad R. Burns,1
+9885,Craig Thomas,Christopher S. Bond,1
+9888,Craig Thomas,Tom Coburn,1
+9893,Craig Thomas,Byron Leslie Dorgan,1
+9898,Mitch Mcconnell,Mel Martinez,1
+9900,Mitch Mcconnell,A. Wayne Allard,1
+9904,Mitch Mcconnell,George F. Allen,1
+9906,Mitch Mcconnell,Jon Llewellyn Kyl,1
+9908,Mitch Mcconnell,Rick Santorum,1
+9915,Mitch Mcconnell,James W. Demint,1
+9919,Mitch Mcconnell,Jim Talent,1
+9924,Mitch Mcconnell,Pat Roberts,1
+9926,Mitch Mcconnell,Jim Bunning,1
+9930,Mitch Mcconnell,Lamar Alexander,1
+9934,Mitch Mcconnell,Orrin Grant Hatch,1
+9938,Mitch Mcconnell,William H. Frist,1
+9941,Mitch Mcconnell,Chester Trent Lott,1
+9947,Mitch Mcconnell,John R. Thune,1
+9948,Mitch Mcconnell,George V. Voinovich,1
+9949,Mitch Mcconnell,Elizabeth H. Dole,1
+9952,Mitch Mcconnell,Kay Bailey Hutchison,1
+9953,Mitch Mcconnell,David Vitter,1
+9954,Mitch Mcconnell,John Cornyn,1
+9956,Mitch Mcconnell,Richard Craig Shelby,1
+9963,Mitch Mcconnell,Saxby Chambliss,1
+9968,Mitch Mcconnell,Robert F. Bennett,1
+9974,Mitch Mcconnell,Sam Brownback,1
+9990,Mitch Mcconnell,John Ensign,1
+9991,Mitch Mcconnell,Jeff Sessions,1
+9999,Richard Burr,Mel Martinez,1
+10005,Richard Burr,George F. Allen,1
+10011,Richard Burr,Michael B. Enzi,1
+10016,Richard Burr,James W. Demint,1
+10025,Richard Burr,Pat Roberts,1
+10027,Richard Burr,Jim Bunning,1
+10031,Richard Burr,Lamar Alexander,1
+10042,Richard Burr,Chester Trent Lott,1
+10047,Richard Burr,Thad Cochran,1
+10048,Richard Burr,John R. Thune,1
+10050,Richard Burr,Elizabeth H. Dole,1
+10054,Richard Burr,David Vitter,1
+10064,Richard Burr,Saxby Chambliss,1
+10065,Richard Burr,Lindsey O. Graham,1
+10073,Richard Burr,Johnny Isakson,1
+10090,Richard Burr,Tom Coburn,1
+10091,Richard Burr,John Ensign,1
+10092,Richard Burr,Jeff Sessions,1
+10125,Robert Menendez,Hillary R Clinton,1
+10131,Robert Menendez,Barbara Boxer,1
+10139,Robert Menendez,Charles E. Schumer,1
+10153,Robert Menendez,Tim Johnson,1
+10163,Robert Menendez,Joseph I. Lieberman,1
+10167,Robert Menendez,Deborah Ann Stabenow,1
+10171,Robert Menendez,John Forbes Kerry,1
+10173,Robert Menendez,Barbara Ann Mikulski,1
+10186,Robert Menendez,Frank R. Lautenberg,1

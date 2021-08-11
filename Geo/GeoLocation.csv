@@ -1,0 +1,551 @@
+,Id,Label,Interval,name,state,chamber,Lat,Long
+0,Mcgovern (D - MA),0,,James P. Mcgovern,MA,House,0,0
+1,Miller (R - WV),1,,Carol D. Miller,WV,House,0,0
+2,Mooney (R - WV),2,,Alexander X. Mooney,WV,House,0,0
+3,Meadows (R - NC),3,,Mark Meadows,NC,House,0,0
+4,Gaetz (R - FL),4,,Matt Gaetz,FL,House,0,0
+5,Mckinley (R - WV),5,,David B. Mckinley,WV,House,0,0
+6,Webster (R - FL),6,,Daniel Webster,FL,House,0,0
+7,Riggleman (R - VA),7,,Denver Riggleman,VA,House,0,0
+8,Curtis (R - UT),8,,John R. Curtis,UT,House,0,0
+9,Budd (R - NC),9,,Ted Budd,NC,House,0,0
+10,Cline (R - VA),10,,Ben Cline,VA,House,0,0
+11,Hartzler (R - MO),11,,Vicky Hartzler,MO,House,0,0
+12,Roe (R - TN),12,,David P. Roe,TN,House,0,0
+13,Hagedorn (R - MN),13,,Jim Hagedorn,MN,House,0,0
+14,Bacon (R - NE),14,,Don Bacon,NE,House,0,0
+15,Collins (R - NY),15,,Chris Collins,NY,House,0,0
+16,Balderson (R - OH),16,,Troy Balderson,OH,House,0,0
+17,Peterson (D - MN),17,,Collin C. Peterson,MN,House,0,0
+18,Fleischmann (R - TN),18,,"Charles J. ""Chuck"" Fleischmann",TN,House,0,0
+19,Lamalfa (R - CA),19,,Doug Lamalfa,CA,House,0,0
+20,Axne (D - IA),20,,Cynthia Axne,IA,House,0,0
+21,Massie (R - KY),21,,Thomas Massie,KY,House,0,0
+22,Bishop (D - GA),22,,Sanford D. Bishop,GA,House,0,0
+23,Sires (D - NJ),23,,Albio Sires,NJ,House,0,0
+24,Burgess (R - TX),24,,Michael C. Burgess,TX,House,0,0
+25,Biggs (R - AZ),25,,Andy Biggs,AZ,House,0,0
+26,Hern (R - OK),26,,Kevin Hern,OK,House,0,0
+27,Steube (R - FL),27,,W. Gregory Steube,FL,House,0,0
+28,Rodgers (R - WA),28,,Cathy Mcmorris Rodgers,WA,House,0,0
+29,Swalwell (D - CA),29,,Eric Swalwell,CA,House,0,0
+30,Graves (R - MO),30,,Sam Graves,MO,House,0,0
+31,Phillips (D - MN),31,,Dean Phillips,MN,House,0,0
+32,Gonzalez (R - OH),32,,Anthony Gonzalez,OH,House,0,0
+33,Cunningham (D - SC),33,,Joe Cunningham,SC,House,0,0
+34,Kuster (D - NH),34,,Ann M. Kuster,NH,House,0,0
+35,Nicolas (D - GU),35,,Michael F. Q. San Nicolas,GU,House,0,0
+36,Case (D - HI),36,,Ed Case,HI,House,0,0
+37,Rose (R - TN),37,,John W. Rose,TN,House,0,0
+38,Lee (D - CA),38,,Barbara Lee,CA,House,0,0
+39,Norton (D - DC),39,,Eleanor Holmes Norton,DC,House,0,0
+40,Moore (D - WI),40,,Gwen Moore,WI,House,0,0
+41,Hastings (D - FL),41,,Alcee L. Hastings,FL,House,0,0
+42,Espaillat (D - NY),42,,Adriano Espaillat,NY,House,0,0
+43,Clarke (D - NY),43,,Yvette D. Clarke,NY,House,0,0
+44,Brown (D - MD),44,,Anthony G. Brown,MD,House,0,0
+45,Tlaib (D - MI),45,,Rashida Tlaib,MI,House,0,0
+46,Bass (D - CA),46,,Karen Bass,CA,House,0,0
+47,Garcia (D - IL),47,,Jesus G. Garcia,IL,House,0,0
+48,Omar (D - MN),48,,Ilhan Omar,MN,House,0,0
+49,Fudge (D - OH),49,,Marcia L. Fudge,OH,House,0,0
+50,Jayapal (D - WA),50,,Pramila Jayapal,WA,House,0,0
+51,Barragan (D - CA),51,,Nanette Diaz Barragan,CA,House,0,0
+52,Thompson (D - MS),52,,Bennie Thompson,MS,House,0,0
+53,Rochester (D - DE),53,,Lisa Blunt Rochester,DE,House,0,0
+54,Meng (D - NY),54,,Grace Meng,NY,House,0,0
+55,Blumenauer (D - OR),55,,Earl Blumenauer,OR,House,0,0
+56,Hayes (D - CT),56,,Jahana Hayes,CT,House,0,0
+57,Trone (D - MD),57,,David J. Trone,MD,House,0,0
+58,Khanna (D - CA),58,,Ro Khanna,CA,House,0,0
+59,Lowenthal (D - CA),59,,Alan S. Lowenthal,CA,House,0,0
+60,Maloney (D - NY),116,,Sean Patrick Maloney,NY,House,0,0
+61,Sanchez (D - CA),61,,Linda T. Sanchez,CA,House,0,0
+62,Connolly (D - VA),62,,Gerald E. Connolly,VA,House,0,0
+63,Haaland (D - NM),63,,Debra A. Haaland,NM,House,0,0
+64,Coleman (D - NJ),64,,Bonnie Watson Coleman,NJ,House,0,0
+65,Lewis (D - GA),65,,John Lewis,GA,House,0,0
+66,Scott (D - VA),66,,"Robert C. ""Bobby"" Scott",VA,House,0,0
+67,Lee (D - TX),67,,Sheila Jackson Lee,TX,House,0,0
+68,Clark (D - MA),68,,Katherine M. Clark,MA,House,0,0
+69,Desaulnier (D - CA),69,,Mark Desaulnier,CA,House,0,0
+70,Sewell (D - AL),70,,Terri A. Sewell,AL,House,0,0
+71,Pressley (D - MA),71,,Ayanna Pressley,MA,House,0,0
+72,Raskin (D - MD),72,,Jamie Raskin,MD,House,0,0
+73,Sarbanes (D - MD),73,,John P. Sarbanes,MD,House,0,0
+74,Ocasio-Cortez (D - NY),74,,Alexandria Ocasio-Cortez,NY,House,0,0
+75,Meeks (D - NY),75,,Gregory W. Meeks,NY,House,0,0
+76,Payne (D - NJ),76,,Donald M. Payne,NJ,House,0,0
+77,Rush (D - IL),77,,Bobby L. Rush,IL,House,0,0
+78,Cox (D - CA),78,,Tj Cox,CA,House,0,0
+79,Pingree (D - ME),79,,Chellie Pingree,ME,House,0,0
+80,Mcnerney (D - CA),80,,Jerry Mcnerney,CA,House,0,0
+81,Cohen (D - TN),81,,Steve Cohen,TN,House,0,0
+82,Smith (D - WA),82,,Adam Smith,WA,House,0,0
+83,Beatty (D - OH),83,,Joyce Beatty,OH,House,0,0
+84,Carson (D - IN),84,,Andre Carson,IN,House,0,0
+85,Horsford (D - NV),85,,Steven Horsford,NV,House,0,0
+86,Casten (D - IL),86,,Sean Casten,IL,House,0,0
+87,Schakowsky (D - IL),87,,Janice D. Schakowsky,IL,House,0,0
+88,Cooper (D - TN),88,,James H. Cooper,TN,House,0,0
+89,Lowey (D - NY),89,,Nita M. Lowey,NY,House,0,0
+90,Castro (D - TX),90,,Joaquin Castro,TX,House,0,0
+91,Adams (D - NC),91,,Alma S. Adams,NC,House,0,0
+92,Kennedy (D - MA),92,,Joseph P. Kennedy,MA,House,0,0
+93,Davids (D - KS),93,,Sharice Davids,KS,House,0,0
+94,Ruiz (D - CA),94,,Raul Ruiz,CA,House,0,0
+95,Velazquez (D - NY),95,,Nydia M. Velazquez,NY,House,0,0
+96,Butterfield (D - NC),96,,G. K. Butterfield,NC,House,0,0
+97,Richmond (D - LA),97,,Cedric L. Richmond,LA,House,0,0
+98,Trahan (D - MA),98,,Lori Trahan,MA,House,0,0
+99,Pallone (D - NJ),99,,Frank Pallone,NJ,House,0,0
+100,Engel (D - NY),100,,Eliot L. Engel,NY,House,0,0
+101,Grijalva (D - AZ),101,,Raul M. Grijalva,AZ,House,0,0
+102,Evans (D - PA),102,,Dwight Evans,PA,House,0,0
+103,Takano (D - CA),103,,Mark Takano,CA,House,0,0
+104,Serrano (D - NY),104,,Jose E. Serrano,NY,House,0,0
+105,Vela (D - TX),105,,Filemon Vela,TX,House,0,0
+106,Speier (D - CA),106,,Jackie Speier,CA,House,0,0
+107,Escobar (D - TX),107,,Veronica Escobar,TX,House,0,0
+108,Gallego (D - AZ),108,,Ruben Gallego,AZ,House,0,0
+109,Napolitano (D - CA),109,,Grace F. Napolitano,CA,House,0,0
+110,Cardenas (D - CA),110,,Tony Cardenas,CA,House,0,0
+111,Panetta (D - CA),111,,Jimmy Panetta,CA,House,0,0
+112,Lieu (D - CA),112,,Ted Lieu,CA,House,0,0
+113,Luria (D - VA),113,,Elaine G. Luria,VA,House,0,0
+114,Neguse (D - CO),114,,Joe Neguse,CO,House,0,0
+115,Dingell (D - MI),115,,Debbie Dingell,MI,House,0,0
+116,Mceachin (D - VA),117,,A. Donald Mceachin,VA,House,0,0
+117,Wilson (D - FL),118,,Frederica S. Wilson,FL,House,0,0
+118,Kelly (D - IL),119,,Robin L. Kelly,IL,House,0,0
+119,Lamb (D - PA),120,,Conor Lamb,PA,House,0,0
+120,Ryan (D - OH),121,,Tim Ryan,OH,House,0,0
+121,Levin (D - MI),122,,Andy Levin,MI,House,0,0
+122,Bonamici (D - OR),123,,Suzanne Bonamici,OR,House,0,0
+123,Welch (D - VT),124,,Peter Welch,VT,House,0,0
+124,Vargas (D - CA),125,,Juan Vargas,CA,House,0,0
+125,Price (D - NC),126,,David E. Price,NC,House,0,0
+126,Crist (D - FL),127,,Charlie Crist,FL,House,0,0
+127,Lofgren (D - CA),128,,Zoe Lofgren,CA,House,0,0
+128,Keating (D - MA),129,,William R. Keating,MA,House,0,0
+129,Schultz (D - FL),130,,Debbie Wasserman Schultz,FL,House,0,0
+130,Sablan (D - MP),131,,Gregorio Kilili Camacho Sablan,MP,House,0,0
+131,Clay (D - MO),132,,Wm. Lacy Clay,MO,House,0,0
+132,Roybal-Allard (D - CA),133,,Lucille Roybal-Allard,CA,House,0,0
+133,Thompson (D - CA),134,,Mike Thompson,CA,House,0,0
+134,Eshoo (D - CA),135,,Anna G. Eshoo,CA,House,0,0
+135,Chu (D - CA),136,,Judy Chu,CA,House,0,0
+136,Degette (D - CO),137,,Diana Degette,CO,House,0,0
+137,Kirkpatrick (D - AZ),138,,Ann Kirkpatrick,AZ,House,0,0
+138,Johnson (D - GA),139,,"Henry C. ""Hank"" Johnson",GA,House,0,0
+139,Krishnamoorthi (D - IL),140,,Raja Krishnamoorthi,IL,House,0,0
+140,Neal (D - MA),141,,Richard E. Neal,MA,House,0,0
+141,Aguilar (D - CA),142,,Pete Aguilar,CA,House,0,0
+142,Sherman (D - CA),143,,Brad Sherman,CA,House,0,0
+143,Pocan (D - WI),144,,Mark Pocan,WI,House,0,0
+144,Cicilline (D - RI),145,,David N. Cicilline,RI,House,0,0
+145,Suozzi (D - NY),146,,Thomas R. Suozzi,NY,House,0,0
+146,Doggett (D - TX),147,,Lloyd Doggett,TX,House,0,0
+147,Jeffries (D - NY),148,,Hakeem S. Jeffries,NY,House,0,0
+148,Waters (D - CA),149,,Maxine Waters,CA,House,0,0
+149,Green (D - TX),150,,Al Green,TX,House,0,0
+150,Deutch (D - FL),151,,Theodore E. Deutch,FL,House,0,0
+151,Kaptur (D - OH),152,,Marcy Kaptur,OH,House,0,0
+152,Huffman (D - CA),153,,Jared Huffman,CA,House,0,0
+153,Crow (D - CO),154,,Jason Crow,CO,House,0,0
+154,Castor (D - FL),155,,Kathy Castor,FL,House,0,0
+155,Rouda (D - CA),156,,Harley Rouda,CA,House,0,0
+156,Delauro (D - CT),157,,Rosa Delauro,CT,House,0,0
+157,Cisneros (D - CA),158,,Gilbert Ray Cisneros,CA,House,0,0
+158,Brownley (D - CA),159,,Julia Brownley,CA,House,0,0
+159,Matsui (D - CA),160,,Doris O. Matsui,CA,House,0,0
+160,Lawrence (D - MI),161,,Brenda L. Lawrence,MI,House,0,0
+161,Davis (D - IL),162,,Danny K. Davis,IL,House,0,0
+162,Defazio (D - OR),163,,Peter A. Defazio,OR,House,0,0
+163,Veasey (D - TX),164,,Marc A. Veasey,TX,House,0,0
+164,Visclosky (D - IN),165,,Peter J. Visclosky,IN,House,0,0
+165,Garcia (D - TX),166,,Sylvia R. Garcia,TX,House,0,0
+166,Boyle (D - PA),167,,Brendan F. Boyle,PA,House,0,0
+167,Cuellar (D - TX),168,,Henry Cuellar,TX,House,0,0
+168,Kim (D - NJ),169,,Andy Kim,NJ,House,0,0
+169,Lawson (D - FL),170,,Al Lawson,FL,House,0,0
+170,Kilmer (D - WA),171,,Derek Kilmer,WA,House,0,0
+171,Mccollum (D - MN),172,,Betty Mccollum,MN,House,0,0
+172,Soto (D - FL),173,,Darren Soto,FL,House,0,0
+173,Cleaver (D - MO),174,,Emanuel Cleaver,MO,House,0,0
+174,Ruppersberger (D - MD),175,,C. A. Dutch Ruppersberger,MD,House,0,0
+175,Dean (D - PA),176,,Madeleine Dean,PA,House,0,0
+176,Yarmuth (D - KY),177,,John A. Yarmuth,KY,House,0,0
+177,Porter (D - CA),178,,Katie Porter,CA,House,0,0
+178,Doyle (D - PA),179,,Mike Doyle,PA,House,0,0
+179,Wexton (D - VA),180,,Jennifer Wexton,VA,House,0,0
+180,Shalala (D - FL),181,,Donna E. Shalala,FL,House,0,0
+181,Beyer (D - VA),182,,Donald S. Beyer,VA,House,0,0
+182,Kildee (D - MI),183,,Daniel T. Kildee,MI,House,0,0
+183,Delgado (D - NY),184,,Antonio Delgado,NY,House,0,0
+184,Levin (D - CA),185,,Mike Levin,CA,House,0,0
+185,Schneider (D - IL),186,,Bradley Scott Schneider,IL,House,0,0
+186,Tonko (D - NY),187,,Paul Tonko,NY,House,0,0
+187,Bera (D - CA),188,,Ami Bera,CA,House,0,0
+188,Frankel (D - FL),189,,Lois Frankel,FL,House,0,0
+189,Quigley (D - IL),190,,Mike Quigley,IL,House,0,0
+190,Wild (D - PA),191,,Susan Wild,PA,House,0,0
+191,Garamendi (D - CA),192,,John Garamendi,CA,House,0,0
+192,Stevens (D - MI),193,,Haley M. Stevens,MI,House,0,0
+193,Davis (D - CA),194,,Susan A. Davis,CA,House,0,0
+194,Delbene (D - WA),195,,Suzan K. Delbene,WA,House,0,0
+195,Heck (D - WA),196,,Denny Heck,WA,House,0,0
+196,Torres (D - CA),197,,Norma J. Torres,CA,House,0,0
+197,Correa (D - CA),198,,J. Luis Correa,CA,House,0,0
+198,Schiff (D - CA),199,,Adam B. Schiff,CA,House,0,0
+199,Gomez (D - CA),200,,Jimmy Gomez,CA,House,0,0
+200,Peters (D - CA),201,,Scott H. Peters,CA,House,0,0
+201,Plaskett (D - VI),202,,Stacey E. Plaskett,VI,House,0,0
+202,Johnson (D - TX),203,,Eddie Bernice Johnson,TX,House,0,0
+203,Mullin (R - OK),204,,Markwayne Mullin,OK,House,0,0
+204,Conaway (R - TX),205,,K. Michael Conaway,TX,House,0,0
+205,Clyburn (D - SC),206,,James E. Clyburn,SC,House,0,0
+206,Collins (R - GA),207,,Doug Collins,GA,House,0,0
+207,Weber (R - TX),208,,Randy K. Weber,TX,House,0,0
+208,Wagner (R - MO),209,,Ann Wagner,MO,House,0,0
+209,Diaz-Balart (R - FL),210,,Mario Diaz-Balart,FL,House,0,0
+210,Marshall (R - KS),211,,Roger W. Marshall,KS,House,0,0
+211,Cook (R - CA),212,,Paul Cook,CA,House,0,0
+212,Babin (R - TX),213,,Brian Babin,TX,House,0,0
+213,Guest (R - MS),214,,Michael Guest,MS,House,0,0
+214,Rooney (R - FL),215,,Francis Rooney,FL,House,0,0
+215,Woodall (R - GA),216,,Rob Woodall,GA,House,0,0
+216,Yoho (R - FL),217,,Ted S. Yoho,FL,House,0,0
+217,Rouzer (R - NC),218,,David Rouzer,NC,House,0,0
+218,Gallagher (R - WI),219,,Mike Gallagher,WI,House,0,0
+219,Olson (R - TX),220,,Pete Olson,TX,House,0,0
+220,Wenstrup (R - OH),221,,Brad R. Wenstrup,OH,House,0,0
+221,Stewart (R - UT),222,,Chris Stewart,UT,House,0,0
+222,Hice (R - GA),223,,Jody B. Hice,GA,House,0,0
+223,Walker (R - NC),224,,Mark Walker,NC,House,0,0
+224,Murphy (D - FL),225,,Stephanie N. Murphy,FL,House,0,0
+225,Scott (D - GA),226,,David Scott,GA,House,0,0
+226,Westerman (R - AR),227,,Bruce Westerman,AR,House,0,0
+227,Rogers (R - AL),228,,Mike Rogers,AL,House,0,0
+228,Mccaul (R - TX),229,,Michael T. Mccaul,TX,House,0,0
+229,Barr (R - KY),230,,Andy Barr,KY,House,0,0
+230,Turner (R - OH),231,,Michael R. Turner,OH,House,0,0
+231,Luetkemeyer (R - MO),232,,Blaine Luetkemeyer,MO,House,0,0
+232,Higgins (D - NY),233,,Brian Higgins,NY,House,0,0
+233,Green (R - TN),234,,Mark E. Green,TN,House,0,0
+234,Larson (D - CT),235,,John B. Larson,CT,House,0,0
+235,Lucas (R - OK),236,,Frank D. Lucas,OK,House,0,0
+236,Bustos (D - IL),237,,Cheri Bustos,IL,House,0,0
+237,Fortenberry (R - NE),238,,Jeff Fortenberry,NE,House,0,0
+238,Allen (R - GA),239,,Rick W. Allen,GA,House,0,0
+239,Fitzpatrick (R - PA),240,,Brian K. Fitzpatrick,PA,House,0,0
+240,Scanlon (D - PA),241,,Mary Gay Scanlon,PA,House,0,0
+241,Gabbard (D - HI),242,,Tulsi Gabbard,HI,House,0,0
+242,Moulton (D - MA),243,,Seth Moulton,MA,House,0,0
+243,Houlahan (D - PA),244,,Chrissy Houlahan,PA,House,0,0
+244,Waltz (R - FL),245,,Michael Waltz,FL,House,0,0
+245,Cole (R - OK),246,,Tom Cole,OK,House,0,0
+246,Spanberger (D - VA),247,,Abigail Davis Spanberger,VA,House,0,0
+247,Costa (D - CA),248,,Jim Costa,CA,House,0,0
+248,Joyce (R - OH),249,,David P. Joyce,OH,House,0,0
+249,Hurd (R - TX),250,,Will Hurd,TX,House,0,0
+250,Chabot (R - OH),251,,Steve Chabot,OH,House,0,0
+251,Baird (R - IN),252,,James R. Baird,IN,House,0,0
+252,Cloud (R - TX),253,,Michael Cloud,TX,House,0,0
+253,Stefanik (R - NY),254,,Elise M. Stefanik,NY,House,0,0
+254,Tiffany (R - WI),255,,Thomas P. Tiffany,WI,House,0,0
+255,Brooks (R - IN),256,,Susan W. Brooks,IN,House,0,0
+256,Nadler (D - NY),257,,Jerrold Nadler,NY,House,0,0
+257,Perlmutter (D - CO),258,,Ed Perlmutter,CO,House,0,0
+258,Morelle (D - NY),259,,Joseph D. Morelle,NY,House,0,0
+259,Underwood (D - IL),260,,Lauren Underwood,IL,House,0,0
+260,Kind (D - WI),261,,Ron Kind,WI,House,0,0
+261,Sensenbrenner (R - WI),262,,F. James Sensenbrenner,WI,House,0,0
+262,Grothman (R - WI),263,,Glenn Grothman,WI,House,0,0
+263,Steil (R - WI),264,,Bryan Steil,WI,House,0,0
+264,Mucarsel-Powell (D - FL),265,,Debbie Mucarsel-Powell,FL,House,0,0
+265,Gonzalez (D - TX),266,,Vicente Gonzalez,TX,House,0,0
+266,Posey (R - FL),267,,Bill Posey,FL,House,0,0
+267,Wittman (R - VA),268,,Robert J. Wittman,VA,House,0,0
+268,Simpson (R - ID),269,,Michael K. Simpson,ID,House,0,0
+269,Newhouse (R - WA),270,,Dan Newhouse,WA,House,0,0
+270,Schrader (D - OR),271,,Kurt Schrader,OR,House,0,0
+271,Walden (R - OR),272,,Greg Walden,OR,House,0,0
+272,Griffith (R - VA),273,,H. Morgan Griffith,VA,House,0,0
+273,Carbajal (D - CA),274,,Salud O. Carbajal,CA,House,0,0
+274,Cartwright (D - PA),275,,Matt Cartwright,PA,House,0,0
+275,Courtney (D - CT),276,,Joe Courtney,CT,House,0,0
+276,Hill (D - CA),277,,Katie Hill,CA,House,0,0
+277,Malinowski (D - NJ),278,,Tom Malinowski,NJ,House,0,0
+278,Rice (D - NY),279,,Kathleen M. Rice,NY,House,0,0
+279,Foster (D - IL),280,,Bill Foster,IL,House,0,0
+280,Harder (D - CA),281,,Josh Harder,CA,House,0,0
+281,Lujan (D - NM),282,,Ben Ray Lujan,NM,House,0,0
+282,Titus (D - NV),283,,Dina Titus,NV,House,0,0
+283,Womack (R - AR),284,,Steve Womack,AR,House,0,0
+284,Hill (R - AR),285,,J. French Hill,AR,House,0,0
+285,Crawford (R - AR),286,,"Eric A. ""Rick"" Crawford",AR,House,0,0
+286,Radewagen (R - AS),287,,Aumua Amata Coleman Radewagen,AS,House,0,0
+287,Hoyer (D - MD),288,,Steny H. Hoyer,MD,House,0,0
+288,Amash (R - MI),289,,Justin Amash,MI,House,0,0
+289,Johnson (R - OH),290,,Bill Johnson,OH,House,0,0
+290,Gianforte (R - MT),291,,Greg Gianforte,MT,House,0,0
+291,Rogers (R - KY),292,,Harold Rogers,KY,House,0,0
+292,Gosar (R - AZ),293,,Paul A. Gosar,AZ,House,0,0
+293,Graves (R - GA),294,,Tom Graves,GA,House,0,0
+294,Young (R - AK),295,,Don E. Young,AK,House,0,0
+295,Comer (R - KY),296,,James Comer,KY,House,0,0
+296,Jordan (R - OH),297,,Jim Jordan,OH,House,0,0
+297,Bost (R - IL),298,,Mike Bost,IL,House,0,0
+298,Kelly (R - PA),299,,Mike Kelly,PA,House,0,0
+299,Flores (R - TX),300,,Bill Flores,TX,House,0,0
+300,Palazzo (R - MS),301,,Steven M. Palazzo,MS,House,0,0
+301,O'Halleran (D - AZ),302,,Tom O'Halleran,AZ,House,0,0
+302,Kinzinger (R - IL),303,,Adam Kinzinger,IL,House,0,0
+303,Upton (R - MI),304,,Fred Upton,MI,House,0,0
+304,Duncan (R - SC),305,,Jeff Duncan,SC,House,0,0
+305,Davis (R - IL),306,,Rodney Davis,IL,House,0,0
+306,Walberg (R - MI),307,,Tim Walberg,MI,House,0,0
+307,Lynch (D - MA),308,,Stephen F. Lynch,MA,House,0,0
+308,Lahood (R - IL),309,,Darin Lahood,IL,House,0,0
+309,Wilson (R - SC),310,,Joe Wilson,SC,House,0,0
+310,Latta (R - OH),311,,Robert E. Latta,OH,House,0,0
+311,Williams (R - TX),312,,Roger Williams,TX,House,0,0
+312,Long (R - MO),313,,Billy Long,MO,House,0,0
+313,Bilirakis (R - FL),314,,Gus M. Bilirakis,FL,House,0,0
+314,Arrington (R - TX),315,,Jodey C. Arrington,TX,House,0,0
+315,Shimkus (R - IL),316,,John M. Shimkus,IL,House,0,0
+316,Zeldin (R - NY),317,,Lee M. Zeldin,NY,House,0,0
+317,Emmer (R - MN),318,,Tom Emmer,MN,House,0,0
+318,Harris (R - MD),319,,Andy Harris,MD,House,0,0
+319,Nunes (R - CA),320,,Devin Nunes,CA,House,0,0
+320,Lamborn (R - CO),321,,Doug Lamborn,CO,House,0,0
+321,Calvert (R - CA),322,,Ken Calvert,CA,House,0,0
+322,Mchenry (R - NC),323,,Patrick Mchenry,NC,House,0,0
+323,Buchanan (R - FL),324,,Vern Buchanan,FL,House,0,0
+324,Davidson (R - OH),325,,Warren Davidson,OH,House,0,0
+325,Loebsack (D - IA),326,,David Loebsack,IA,House,0,0
+326,Carter (R - GA),327,,"Earl L. ""Buddy"" Carter",GA,House,0,0
+327,Duffy (R - WI),328,,Sean P. Duffy,WI,House,0,0
+328,Foxx (R - NC),329,,Virginia Foxx,NC,House,0,0
+329,Gibbs (R - OH),330,,Bob Gibbs,OH,House,0,0
+330,Dunn (R - FL),331,,Neal P. Dunn,FL,House,0,0
+331,Mitchell (R - MI),332,,Paul Mitchell,MI,House,0,0
+332,Stivers (R - OH),333,,Steve Stivers,OH,House,0,0
+333,Gonzalez-Colon (R - PR),334,,Jenniffer Gonzalez-Colon,PR,House,0,0
+334,Brooks (R - AL),335,,Mo Brooks,AL,House,0,0
+335,Banks (R - IN),336,,Jim Banks,IN,House,0,0
+336,Smith (R - NE),337,,Adrian Smith,NE,House,0,0
+337,Kelly (R - MS),338,,Trent Kelly,MS,House,0,0
+338,Drew (D - NJ),339,,Jefferson Van Drew,NJ,House,0,0
+339,Walorski (R - IN),340,,Jackie Walorski,IN,House,0,0
+340,Reed (R - NY),341,,Tom Reed,NY,House,0,0
+341,Byrne (R - AL),342,,Bradley Byrne,AL,House,0,0
+342,Cheney (R - WY),343,,Liz Cheney,WY,House,0,0
+343,Hollingsworth (R - IN),344,,Trey Hollingsworth,IN,House,0,0
+344,Watkins (R - KS),444,,Steven C. Watkins,KS,House,0,0
+345,Amodei (R - NV),346,,Mark E. Amodei,NV,House,0,0
+346,Hudson (R - NC),347,,Richard Hudson,NC,House,0,0
+347,Guthrie (R - KY),348,,Brett Guthrie,KY,House,0,0
+348,Stauber (R - MN),349,,Pete Stauber,MN,House,0,0
+349,Beutler (R - WA),350,,Jaime Herrera Beutler,WA,House,0,0
+350,Pence (R - IN),351,,Greg Pence,IN,House,0,0
+351,Katko (R - NY),352,,John Katko,NY,House,0,0
+352,Norman (R - SC),353,,Ralph Norman,SC,House,0,0
+353,Granger (R - TX),354,,Kay Granger,TX,House,0,0
+354,Ferguson (R - GA),355,,A. Drew Ferguson,GA,House,0,0
+355,Abraham (R - LA),356,,Ralph Lee Abraham,LA,House,0,0
+356,Huizenga (R - MI),357,,Bill Huizenga,MI,House,0,0
+357,Gottheimer (D - NJ),358,,Josh Gottheimer,NJ,House,0,0
+358,Lee (D - NV),359,,Susie Lee,NV,House,0,0
+359,Marchant (R - TX),360,,Kenny Marchant,TX,House,0,0
+360,Thompson (R - PA),361,,Glenn Thompson,PA,House,0,0
+361,Loudermilk (R - GA),362,,Barry Loudermilk,GA,House,0,0
+362,Smith (R - NJ),363,,Christopher H. Smith,NJ,House,0,0
+363,Johnson (R - LA),364,,Mike Johnson,LA,House,0,0
+364,Meuser (R - PA),365,,Daniel Meuser,PA,House,0,0
+365,Thornberry (R - TX),366,,William M. Thornberry,TX,House,0,0
+366,Timmons (R - SC),367,,William R. Timmons,SC,House,0,0
+367,Pappas (D - NH),368,,Chris Pappas,NH,House,0,0
+368,Bucshon (R - IN),369,,Larry Bucshon,IN,House,0,0
+369,Johnson (R - SD),370,,Dusty Johnson,SD,House,0,0
+370,Crenshaw (R - TX),371,,Dan Crenshaw,TX,House,0,0
+371,Taylor (R - TX),372,,Van Taylor,TX,House,0,0
+372,Joyce (R - PA),373,,John Joyce,PA,House,0,0
+373,Perry (R - PA),374,,Scott Perry,PA,House,0,0
+374,Spano (R - FL),375,,Ross Spano,FL,House,0,0
+375,Small (D - NM),376,,Xochitl Torres Small,NM,House,0,0
+376,Wright (R - TX),377,,Ron Wright,TX,House,0,0
+377,Cummings (D - MD),378,,Elijah E. Cummings,MD,House,0,0
+378,Golden (D - ME),379,,Jared F. Golden,ME,House,0,0
+379,Horn (D - OK),380,,Kendra S. Horn,OK,House,0,0
+380,Murphy (R - NC),381,,Gregory Murphy,NC,House,0,0
+381,Keller (R - PA),382,,Fred Keller,PA,House,0,0
+382,Bishop (R - NC),383,,Dan Bishop,NC,House,0,0
+383,Bishop (R - UT),384,,Rob Bishop,UT,House,0,0
+384,Gooden (R - TX),385,,Lance Gooden,TX,House,0,0
+385,Brady (R - TX),386,,Kevin Brady,TX,House,0,0
+386,Carter (R - TX),387,,John R. Carter,TX,House,0,0
+387,Holding (R - NC),388,,George Holding,NC,House,0,0
+388,Scott (R - GA),389,,Austin Scott,GA,House,0,0
+389,Rice (R - SC),390,,Tom Rice,SC,House,0,0
+390,Mcadams (D - UT),391,,Ben Mcadams,UT,House,0,0
+391,Sherrill (D - NJ),392,,Mikie Sherrill,NJ,House,0,0
+392,Pascrell (D - NJ),393,,William J. Pascrell,NJ,House,0,0
+393,Garcia (R - CA),394,,Mike Garcia,CA,House,0,0
+394,Jacobs (R - NY),395,,Chris Jacobs,NY,House,0,0
+395,Moolenaar (R - MI),396,,John R. Moolenaar,MI,House,0,0
+396,Higgins (R - LA),397,,Clay Higgins,LA,House,0,0
+397,Smith (R - MO),398,,Jason Smith,MO,House,0,0
+398,Schweikert (R - AZ),399,,David Schweikert,AZ,House,0,0
+399,Craig (D - MN),400,,Angie Craig,MN,House,0,0
+400,Estes (R - KS),401,,Ron Estes,KS,House,0,0
+401,Armstrong (R - ND),402,,Kelly Armstrong,ND,House,0,0
+402,Reschenthaler (R - PA),403,,Guy Reschenthaler,PA,House,0,0
+403,Slotkin (D - MI),404,,Elissa Slotkin,MI,House,0,0
+404,Lipinski (D - IL),405,,Daniel William Lipinski,IL,House,0,0
+405,Tipton (R - CO),406,,Scott R. Tipton,CO,House,0,0
+406,King (R - NY),407,,Peter T. King,NY,House,0,0
+407,Brindisi (D - NY),408,,Anthony Brindisi,NY,House,0,0
+408,Larsen (D - WA),409,,Rick Larsen,WA,House,0,0
+409,Schrier (D - WA),410,,Kim Schrier,WA,House,0,0
+410,Langevin (D - RI),411,,James R. Langevin,RI,House,0,0
+411,Mcbath (D - GA),412,,Lucy Mcbath,GA,House,0,0
+412,Kustoff (R - TN),413,,David Kustoff,TN,House,0,0
+413,Burchett (R - TN),414,,Tim Burchett,TN,House,0,0
+414,Stanton (D - AZ),415,,Greg Stanton,AZ,House,0,0
+415,Graves (R - LA),416,,Garret Graves,LA,House,0,0
+416,Rutherford (R - FL),417,,John H. Rutherford,FL,House,0,0
+417,Demings (D - FL),418,,Val Butler Demings,FL,House,0,0
+418,Fletcher (D - TX),419,,Lizzie Fletcher,TX,House,0,0
+419,Himes (D - CT),420,,James A. Himes,CT,House,0,0
+420,Finkenauer (D - IA),421,,Abby Finkenauer,IA,House,0,0
+421,Scalise (R - LA),422,,Steve Scalise,LA,House,0,0
+422,Mcclintock (R - CA),423,,Tom Mcclintock,CA,House,0,0
+423,Palmer (R - AL),424,,Gary J. Palmer,AL,House,0,0
+424,King (R - IA),425,,Steve King,IA,House,0,0
+425,Mast (R - FL),426,,Brian J. Mast,FL,House,0,0
+426,Buck (R - CO),427,,Ken Buck,CO,House,0,0
+427,Ratcliffe (R - TX),428,,John Ratcliffe,TX,House,0,0
+428,Roy (R - TX),429,,Chip Roy,TX,House,0,0
+429,Lesko (R - AZ),430,,Debbie Lesko,AZ,House,0,0
+430,Aderholt (R - AL),431,,Robert B. Aderholt,AL,House,0,0
+431,Roby (R - AL),432,,Martha Roby,AL,House,0,0
+432,Fulcher (R - ID),433,,Russ Fulcher,ID,House,0,0
+433,Mccarthy (R - CA),434,,Kevin Mccarthy,CA,House,0,0
+434,Bergman (R - MI),435,,Jack Bergman,MI,House,0,0
+435,Smucker (R - PA),436,,Lloyd Smucker,PA,House,0,0
+436,Rose (D - NY),437,,Max Rose,NY,House,0,0
+437,Allred (D - TX),438,,Colin Z. Allred,TX,House,0,0
+438,Jones (R - NC),439,,Walter B. Jones,NC,House,0,0
+439,Norcross (D - NJ),440,,Donald Norcross,NJ,House,0,0
+440,Desjarlais (R - TN),441,,Scott Desjarlais,TN,House,0,0
+441,Hall (D - GA),442,,Kwanza Hall,GA,House,0,0
+442,Marino (R - PA),443,,Tom Marino,PA,House,0,0
+443,Pelosi (D - CA),445,,Nancy Pelosi,CA,House,0,0
+444,Gohmert (R - TX),446,,Louie Gohmert,TX,House,0,0
+445,Hunter (R - CA),447,,Duncan D. Hunter,CA,House,0,0
+446,Mfume (D - MD),448,,Kweisi Mfume,MD,House,0,0
+447,Sánchez (D - CA),449,,Linda T. Sánchez,CA,House,0,0
+448,Rubio (R - FL),450,,Marco Rubio,FL,Senate,30.438118,-84.281296
+449,Gardner (R - CO),451,,Cory Gardner,CO,Senate,39.739227,-104.984856
+450,Mcconnell (R - KY),452,,Mitch Mcconnell,KY,Senate,38.186722,-84.875374
+451,Blunt (R - MO),453,,Roy Blunt,MO,Senate,38.579201,-92.172935
+452,Cramer (R - ND),454,,Kevin Cramer,ND,Senate,46.82085,-100.783318
+453,Cruz (R - TX),455,,Ted Cruz,TX,Senate,30.27467,-97.740349
+454,Wicker (R - MS),456,,Roger F. Wicker,MS,Senate,32.303848,-90.182106
+455,Risch (R - ID),457,,James E. Risch,ID,Senate,43.617775,-116.199722
+456,Hyde-Smith (R - MS),458,,Cindy Hyde-Smith,MS,Senate,32.303848,-90.182106
+457,Collins (R - ME),459,,Susan Margaret Collins,ME,Senate,44.307167,-69.781693
+458,Rounds (R - SD),460,,Mike Rounds,SD,Senate,44.367031,-100.346405
+459,Roberts (R - KS),461,,Pat Roberts,KS,Senate,39.048191,-95.677956
+460,Inhofe (R - OK),462,,Jim Inhofe,OK,Senate,35.492207,-97.503342
+461,Scott (R - FL),463,,Rick Scott,FL,Senate,30.438118,-84.281296
+462,Thune (R - SD),464,,John R. Thune,SD,Senate,44.367031,-100.346405
+463,Merkley (D - OR),465,,Jeff Merkley,OR,Senate,44.938461,-123.030403
+464,Stabenow (D - MI),466,,Deborah Ann Stabenow,MI,Senate,42.733635,-84.555328
+465,Gillibrand (D - NY),467,,Kirsten E. Gillibrand,NY,Senate,42.652843,-73.757874
+466,Baldwin (D - WI),468,,Tammy Baldwin,WI,Senate,43.074684,-89.384445
+467,Blumenthal (D - CT),469,,Richard Blumenthal,CT,Senate,41.764046,-72.682198
+468,Schatz (D - HI),470,,Brian Schatz,HI,Senate,21.307442,-157.857376
+469,Cardin (D - MD),471,,Benjamin L. Cardin,MD,Senate,38.978764,-76.490936
+470,Masto (D - NV),472,,Catherine Cortez Masto,NV,Senate,39.163914,-119.766121
+471,Hollen (D - MD),473,,Chris Van Hollen,MD,Senate,38.978764,-76.490936
+472,Wyden (D - OR),474,,Ron Wyden,OR,Senate,44.938461,-123.030403
+473,Harris (D - CA),475,,Kamala D. Harris,CA,Senate,38.576668,-121.493629
+474,Hassan (D - NH),476,,Margaret Wood Hassan,NH,Senate,43.206898,-71.537994
+475,Capito (R - WV),477,,Shelley Moore Capito,WV,Senate,38.336246,-81.612328
+476,Mcsally (R - AZ),478,,Martha Mcsally,AZ,Senate,33.448143,-112.096962
+477,Peters (D - MI),479,,Gary C. Peters,MI,Senate,42.733635,-84.555328
+478,Cornyn (R - TX),480,,John Cornyn,TX,Senate,30.27467,-97.740349
+479,Tester (D - MT),481,,Jon Tester,MT,Senate,46.585709,-112.018417
+480,Cassidy (R - LA),482,,Bill Cassidy,LA,Senate,30.457069,-91.187393
+481,Portman (R - OH),483,,Rob Portman,OH,Senate,39.961346,-82.999069
+482,Romney (R - UT),484,,Mitt Romney,UT,Senate,40.777477,-111.888237
+483,Sinema (D - AZ),485,,Kyrsten Sinema,AZ,Senate,33.448143,-112.096962
+484,Carper (D - DE),486,,Thomas R. Carper,DE,Senate,39.157307,-75.519722
+485,Casey (D - PA),487,,Bob Casey,PA,Senate,40.264378,-76.883598
+486,King (I - ME),488,,Angus King,ME,Senate,44.307167,-69.781693
+487,Daines (R - MT),489,,Steve Daines,MT,Senate,46.585709,-112.018417
+488,Warren (D - MA),490,,Elizabeth A. Warren,MA,Senate,42.358162,-71.063698
+489,Whitehouse (D - RI),491,,Sheldon Whitehouse,RI,Senate,41.830914,-71.414963
+490,Reed (D - RI),492,,John F. Reed,RI,Senate,41.830914,-71.414963
+491,Sanders (I - VT),493,,Bernard Sanders,VT,Senate,44.262436,-72.580536
+492,Crapo (R - ID),494,,Michael D. Crapo,ID,Senate,43.617775,-116.199722
+493,Warner (D - VA),495,,Mark R. Warner,VA,Senate,37.538857,-77.43364
+494,Markey (D - MA),496,,Edward J. Markey,MA,Senate,42.358162,-71.063698
+495,Moran (R - KS),497,,Jerry Moran,KS,Senate,39.048191,-95.677956
+496,Feinstein (D - CA),498,,Dianne Feinstein,CA,Senate,38.576668,-121.493629
+497,Toomey (R - PA),499,,Pat Toomey,PA,Senate,40.264378,-76.883598
+498,Murphy (D - CT),500,,Christopher Murphy,CT,Senate,41.764046,-72.682198
+499,Booker (D - NJ),501,,Cory A. Booker,NJ,Senate,40.220596,-74.769913
+500,Murray (D - WA),502,,Patty Murray,WA,Senate,47.035805,-122.905014
+501,Duckworth (D - IL),503,,Tammy Duckworth,IL,Senate,39.798363,-89.654961
+502,Menendez (D - NJ),504,,Robert Menendez,NJ,Senate,40.220596,-74.769913
+503,Coons (D - DE),505,,Christopher A. Coons,DE,Senate,39.157307,-75.519722
+504,Kaine (D - VA),506,,Timothy Kaine,VA,Senate,37.538857,-77.43364
+505,Hirono (D - HI),507,,Mazie K. Hirono,HI,Senate,21.307442,-157.857376
+506,Leahy (D - VT),508,,Patrick Joseph Leahy,VT,Senate,44.262436,-72.580536
+507,Rosen (D - NV),509,,Jacklyn Rosen,NV,Senate,39.163914,-119.766121
+508,Shaheen (D - NH),510,,Jeanne Shaheen,NH,Senate,43.206898,-71.537994
+509,Klobuchar (D - MN),511,,Amy Klobuchar,MN,Senate,44.955097,-93.102211
+510,Udall (D - NM),512,,Tom Udall,NM,Senate,35.68224,-105.939728
+511,Cantwell (D - WA),513,,Maria Cantwell,WA,Senate,47.035805,-122.905014
+512,Bennet (D - CO),514,,Michael F. Bennet,CO,Senate,39.739227,-104.984856
+513,Jones (D - AL),515,,Doug Jones,AL,Senate,32.377716,-86.300568
+514,Smith (D - MN),516,,Tina Smith,MN,Senate,44.955097,-93.102211
+515,Brown (D - OH),517,,Sherrod Brown,OH,Senate,39.961346,-82.999069
+516,Heinrich (D - NM),518,,Martin Heinrich,NM,Senate,35.68224,-105.939728
+517,Durbin (D - IL),519,,Richard J. Durbin,IL,Senate,39.798363,-89.654961
+518,Kennedy (R - LA),520,,John Neely Kennedy,LA,Senate,30.457069,-91.187393
+519,Schumer (D - NY),521,,Charles E. Schumer,NY,Senate,42.652843,-73.757874
+520,Sullivan (R - AK),522,,Dan Sullivan,AK,Senate,58.301598,-134.420212
+521,Murkowski (R - AK),523,,Lisa Murkowski,AK,Senate,58.301598,-134.420212
+522,Cotton (R - AR),524,,Tom Cotton,AR,Senate,34.746613,-92.288986
+523,Young (R - IN),548,,Todd C. Young,IN,Senate,39.768623,-86.162643
+524,Manchin (D - WV),526,,Joe Manchin,WV,Senate,38.336246,-81.612328
+525,Tillis (R - NC),527,,Thomas Roland Tillis,NC,Senate,35.78043,-78.639099
+526,Burr (R - NC),528,,Richard Burr,NC,Senate,35.78043,-78.639099
+527,Hoeven (R - ND),529,,John Hoeven,ND,Senate,46.82085,-100.783318
+528,Boozman (R - AR),530,,John Boozman,AR,Senate,34.746613,-92.288986
+529,Graham (R - SC),531,,Lindsey O. Graham,SC,Senate,34.000343,-81.033211
+530,Barrasso (R - WY),532,,John Barrasso,WY,Senate,41.140259,-104.820236
+531,Hawley (R - MO),533,,Josh Hawley,MO,Senate,38.579201,-92.172935
+532,Johnson (R - WI),534,,Ron Johnson,WI,Senate,43.074684,-89.384445
+533,Paul (R - KY),535,,Rand Paul,KY,Senate,38.186722,-84.875374
+534,Blackburn (R - TN),536,,Marsha Blackburn,TN,Senate,36.16581,-86.784241
+535,Ernst (R - IA),537,,Joni Ernst,IA,Senate,41.591087,-93.603729
+536,Lee (R - UT),538,,Mike Lee,UT,Senate,40.777477,-111.888237
+537,Isakson (R - GA),539,,Johnny Isakson,GA,Senate,33.749027,-84.388229
+538,Fischer (R - NE),540,,Deb Fischer,NE,Senate,40.808075,-96.699654
+539,Lankford (R - OK),541,,James Lankford,OK,Senate,35.492207,-97.503342
+540,Enzi (R - WY),542,,Michael B. Enzi,WY,Senate,41.140259,-104.820236
+541,Scott (R - SC),543,,Tim Scott,SC,Senate,34.000343,-81.033211
+542,Grassley (R - IA),544,,Charles Ernest Grassley,IA,Senate,41.591087,-93.603729
+543,Alexander (R - TN),545,,Lamar Alexander,TN,Senate,36.16581,-86.784241
+544,Sasse (R - NE),546,,Ben Sasse,NE,Senate,40.808075,-96.699654
+545,Braun (R - IN),547,,Mike Braun,IN,Senate,39.768623,-86.162643
+546,Perdue (R - GA),549,,David Alfred Perdue,GA,Senate,33.749027,-84.388229
+547,Loeffler (R - GA),550,,Kelly Loeffler,GA,Senate,33.749027,-84.388229
+548,Shelby (R - AL),551,,Richard Craig Shelby,AL,Senate,32.377716,-86.300568
+549,Kelly (D - AZ),552,,Mark Kelly,AZ,Senate,33.448143,-112.096962
