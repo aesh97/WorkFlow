@@ -6,48 +6,33 @@ import csv
 import igraph as ig
 import leidenalg as la
 
-
-
 #loads json data from specified file (make sure this is correct for your computer)
 file = open('/Users/adam/Desktop/WorkFlow/newJsonData/116.json', "r")
-
 data = json.loads(file.read())
 file.close()
-
 unwanted = []
 for bill in data:
-
-
 #when analyzing the house use "== 'Senate'" otherwise use "== 'House'"
     if (bill['originChamber'] == 'House'):
         unwanted.append(bill)
-
-
-
+        
 for i in range(len(unwanted)):
     data.remove(unwanted[i])
 
 #the attributes the nodes need to have are specified by this function
 def makeObj(obj):
-    
     return {'ID':obj["ID"], 'name': obj["name"], 'state' :obj["state"]}
-
 
 #sets a given nodes attributes
 def setTitle(obj, R, D, I, nodes):
     index = findID(nodes, obj["ID"])
     name = obj["name"].split()
     if (index in R):
-        
-
         nodes[index]["title"] = name[len(name)-1] + "(R-"+obj["state"]+")"
     elif(index in D):
         nodes[index]["title"] = name[len(name)-1] + "(D-"+obj["state"]+")"
     else:
         nodes[index]["title"] = name[len(name)-1] + "(I-"+obj["state"]+")"
-        
-        
-    
     #calculates the modularity of a network with respect to attribute
 
 def Modularity(G, attribute):
@@ -58,10 +43,8 @@ def Modularity(G, attribute):
         if (not(G.nodes()[i][attribute] in Clusters)):
             Clusters.append(G.nodes()[i][attribute])
 
-
 #this dictionary will map cluster ID to a list of node IDs in the cluster
     NodePartition = {}
-
 
     for num in Clusters:
         NodePartition[num] = []
@@ -72,21 +55,16 @@ def Modularity(G, attribute):
 #this is the iterable we will feed into the modularity function
     NodeList = []
 
-
     for key in NodePartition:
         AddArr = []
         for number in NodePartition[key]:
             AddArr.append(number)
-
         NodeList.append(AddArr)
-
     return(nx_comm.modularity(G, NodeList, weight = 'weight'))
 
 #clusters the nodes by party
 def makePartyClusters(G, R, D, I):
     party = {}
-
-    
     for bill in data:
         if (bill['sponsor'] == []):
             continue
@@ -97,13 +75,7 @@ def makePartyClusters(G, R, D, I):
 
             #if the node has a list associated with it, add the bill party to it
                 party[findID(G.nodes(),SponsNode["ID"])].append(bill['sponsor'][0]['party'])
-
-
-               
-                        
-                        
             except:
-
                 #otherwise associate a list with it
                 party[findID(G.nodes(),SponsNode["ID"])] = [bill['sponsor'][0]['party']]
 #do the same for cosponsors
@@ -127,31 +99,17 @@ def makePartyClusters(G, R, D, I):
         else:
 #the only other possibility is that they are a democrat
             D.append(key)
-        
-        
     print("done partitioning by party")
 #finds if the network has a node with a given ID
 def findID(nodes, ID):
-   
-
-    
-   
     for i in range(len(nodes)):
-        
-        
         if (nodes[i]["ID"] == ID):
             return i
         
     return -1
-
-
-            
 #formats nodes so they can be assigned to the network
 def makeTupleList(NodeList):
     tupleOut = []
-
-    
-
     i = 0
 
     for element in NodeList:
@@ -186,58 +144,26 @@ def makeRawWeight(G):
                 else:
                     cosponsorsIndex.append(Index)
 
-
             for coIndex in cosponsorsIndex:
                 if (G.has_edge(coIndex, SponsGraphIndex)):
                     G[coIndex][SponsGraphIndex]['weight'] = G[coIndex][SponsGraphIndex]['weight'] + (1/len(cosponsorsIndex))
                 else:
                     G.add_edge(coIndex,SponsGraphIndex, weight = (1/len(cosponsorsIndex)))
                     
-
-    
-
-        
-    
-
 def main():
 
     nodes = []
     
-
-
     #loops through each bill in data
     for bill in data:
-
-
-
-      
-
-
-
        #if there isn't a sponors listed the bill is ignored, otherwise a node is created if it is necessary
-
         try:
-
-           
             SponsObj = makeObj(bill['sponsor'][0])
             SponsObj['chamber'] = bill['originChamber']
             if (findID(nodes, SponsObj["ID"])==-1):
                 nodes.append(SponsObj)
         except:
             continue
-        
-        
-            
-       
-        
-
-        
-
-    
-
-
-
-        
         #nodes are created for cosponsors if necessary
 
         for co in bill['cosponors']:
@@ -248,61 +174,24 @@ def main():
             CosponsObj['chamber'] = bill['originChamber']
             if (findID(nodes, CosponsObj["ID"])==-1):
                 nodes.append(CosponsObj)
-        
-                
     print('done with  making nodes')
-
-    
     G = nx.DiGraph()
-
- 
-
-    
-
-
-
     TupList = makeTupleList(nodes)
-
-  
-    
-
-    
-
-    
     G.add_nodes_from(TupList)
-
-    
-
-  
-
     #calls a function
-
-    
     EdgeData = makeRawWeight(G)
-    
-       
-    
-    
-
     R = []
     D = []
     I = []
     makePartyClusters(G,R,D,I)
     part = [R, D, I]
 
-    print('Party Modularity: ' + str(round(nx_comm.modularity(G, part),3))) 
-
-
-
+    print('Party Modularity: ' + str(round(nx_comm.modularity(G, part),3)))
     for i in range(len(G.nodes())):
-        
         setTitle(G.nodes()[i], R, D, I, G.nodes())
-
-    
     totalWeight = 0
     for node in G.nodes():
         weighted = 0
-        
         for edge in nx.edges(G, node):
             weighted = weighted + G[edge[0]][edge[1]]['weight']
 
@@ -313,8 +202,6 @@ def main():
     print('Mean weighted degree:' + str(round(totalWeight, 3)))
     print('Number of Nodes:' + str(len(G.nodes())))
         
-            
-            
     with open("/Users/adam/Desktop/WorkFlow/Geo/capitals.csv") as file:
         reader = csv.reader(file, delimiter=',')
         for row in reader:
@@ -337,11 +224,6 @@ def main():
     print('Leiden Modularity:' + str(round(Modularity(G, 'LeidenCluster'),3)))
     print('Leiden Groups:' + str(len(partition2)))
 
-
-   
-
-    
-            
     nx.write_gexf(G, "fowerVis.gexf")
 
     
